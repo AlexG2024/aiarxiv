@@ -22,5 +22,13 @@
     "practicality": "high",
     "published_at": "2026-05-06T22:42:00.103585+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2605.04045v1",
+    "title": "Audio-Visual Intelligence in Large Foundation Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-06T22:42:36.708649+03:00",
+    "score": 49
   }
 ]
