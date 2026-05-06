@@ -38,5 +38,13 @@
     "practicality": "high",
     "published_at": "2026-05-06T22:46:28.963792+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.03790v1",
+    "title": "Enhancing Visual Question Answering with Multimodal LLMs via Chain-of-Question Guided Retrieval-Augmented Generation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-06T22:47:28.460482+03:00",
+    "score": 41
   }
 ]
