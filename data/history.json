@@ -62,5 +62,13 @@
     "practicality": "high",
     "published_at": "2026-05-06T22:57:02.248515+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2605.03276v1",
+    "title": "VEBench:Benchmarking Large Multimodal Models for Real-World Video Editing",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-06T23:06:42.507640+03:00",
+    "score": 37
   }
 ]
