@@ -97,11 +97,18 @@ THEME_CONCLUSIONS = {
 }
 
 CATEGORY_LABELS = {
-    "cs.AI": "AI",
-    "cs.LG": "ML",
-    "cs.CL": "NLP",
-    "cs.CV": "CV",
-    "stat.ML": "StatML",
+    "cs.AI": "Artificial Intelligence",
+    "cs.LG": "Machine Learning",
+    "cs.CL": "Natural Language Processing",
+    "cs.CV": "Computer Vision",
+    "cs.CR": "Security",
+    "cs.HC": "Human-Computer Interaction",
+    "cs.IR": "Information Retrieval",
+    "cs.MM": "Multimedia",
+    "cs.RO": "Robotics",
+    "cs.SD": "Software Engineering",
+    "cs.SE": "Software Engineering",
+    "stat.ML": "Statistical Machine Learning",
 }
 
 CONTRIBUTION_HINTS = [
