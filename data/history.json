@@ -14,5 +14,13 @@
     "practicality": "high",
     "published_at": "2026-05-06T22:41:23.922971+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2605.03476v1",
+    "title": "CuraView: A Multi-Agent Framework for Medical Hallucination Detection with GraphRAG-Enhanced Knowledge Verification",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-06T22:42:00.103585+03:00",
+    "score": 55
   }
 ]
