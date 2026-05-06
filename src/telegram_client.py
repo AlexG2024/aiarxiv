@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -22,8 +23,14 @@ def send_message(bot_token: str, chat_id: str, text: str) -> dict:
         method="POST",
     )
 
-    with urllib.request.urlopen(request, timeout=60) as response:
-        body = response.read().decode("utf-8")
+    try:
+        with urllib.request.urlopen(request, timeout=60) as response:
+            body = response.read().decode("utf-8")
+    except urllib.error.HTTPError as error:
+        error_body = error.read().decode("utf-8", errors="replace")
+        raise RuntimeError(
+            f"Telegram API HTTP error {error.code}: {error_body}"
+        ) from error
 
     parsed = json.loads(body)
     if not parsed.get("ok"):
