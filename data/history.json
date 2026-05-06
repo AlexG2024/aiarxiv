@@ -46,5 +46,13 @@
     "practicality": "high",
     "published_at": "2026-05-06T22:47:28.460482+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.03228v1",
+    "title": "MAGE: Safeguarding LLM Agents against Long-Horizon Threats via Shadow Memory",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-06T22:53:15.014677+03:00",
+    "score": 41
   }
 ]
