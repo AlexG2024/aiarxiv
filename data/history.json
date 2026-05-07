@@ -110,5 +110,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T19:28:21.426868+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.04608v1",
+    "title": "SensingAgents: A Multi-Agent Collaborative Framework for Robust IMU Activity Recognition",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-07T21:08:21.118328+03:00",
+    "score": 34
   }
 ]
