@@ -102,5 +102,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T17:45:25.760910+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.04489v1",
+    "title": "A Hybrid Method for Low-Resource Named Entity Recognition",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-07T19:28:21.426868+03:00",
+    "score": 38
   }
 ]
