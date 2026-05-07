@@ -86,5 +86,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T13:10:00.640611+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2605.05185v1",
+    "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-07T15:05:17.526594+03:00",
+    "score": 44
   }
 ]
