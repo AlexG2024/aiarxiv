@@ -78,5 +78,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T10:40:20.054239+03:00",
     "score": 65
+  },
+  {
+    "arxiv_id": "2605.04532v1",
+    "title": "Accountable Agents in Software Engineering: An Analysis of Terms of Service and a Research Roadmap",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-07T13:10:00.640611+03:00",
+    "score": 46
   }
 ]
