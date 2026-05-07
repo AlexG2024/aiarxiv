@@ -94,5 +94,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T15:05:17.526594+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.04530v1",
+    "title": "SADE: Symptom-Aware Diagnostic Escalation for LLM-Based Network Troubleshooting",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-07T17:45:25.760910+03:00",
+    "score": 38
   }
 ]
