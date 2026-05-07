@@ -4,7 +4,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 from src.arxiv_client import fetch_recent_articles
-from src.config import Settings
+from src.config import Settings, ensure_telegram_settings
 from src.filters import select_consumer_friendly_articles
 from src.formatter import format_post
 from src.queue import build_daily_queue_payload, find_due_item, mark_item_published
@@ -20,6 +20,9 @@ from src.telegram_client import send_message
 
 
 def run_pipeline(settings: Settings) -> dict:
+    if not settings.dry_run:
+        ensure_telegram_settings(settings)
+
     posted_ids = load_posted_ids(settings.posted_storage_path)
     articles = fetch_recent_articles(
         categories=settings.arxiv_categories,
@@ -127,6 +130,9 @@ def build_daily_queue(settings: Settings) -> dict:
 
 
 def publish_due_post(settings: Settings) -> dict:
+    if not settings.dry_run:
+        ensure_telegram_settings(settings)
+
     queue_payload = load_queue(settings.daily_queue_path)
     if not queue_payload.get("items"):
         return {

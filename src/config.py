@@ -57,12 +57,6 @@ def load_settings() -> Settings:
     bot_token = os.getenv("TELEGRAM_BOT_TOKEN", "").strip()
     chat_id = os.getenv("TELEGRAM_CHAT_ID", "").strip()
 
-    if not dry_run:
-        if not bot_token:
-            raise ValueError("Missing TELEGRAM_BOT_TOKEN")
-        if not chat_id:
-            raise ValueError("Missing TELEGRAM_CHAT_ID")
-
     storage_path = Path(os.getenv("POSTED_STORAGE_PATH", "data/posted.json"))
     history_path = Path(os.getenv("HISTORY_STORAGE_PATH", "data/history.json"))
     daily_queue_path = Path(os.getenv("DAILY_QUEUE_PATH", "data/daily_queue.json"))
@@ -82,3 +76,10 @@ def load_settings() -> Settings:
         publish_hour_end=int(os.getenv("PUBLISH_HOUR_END", "17")),
         publish_minute=int(os.getenv("PUBLISH_MINUTE", "10")),
     )
+
+
+def ensure_telegram_settings(settings: Settings) -> None:
+    if not settings.telegram_bot_token:
+        raise ValueError("Missing TELEGRAM_BOT_TOKEN")
+    if not settings.telegram_chat_id:
+        raise ValueError("Missing TELEGRAM_CHAT_ID")
