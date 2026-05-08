@@ -166,5 +166,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T15:49:28.010612+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.04643v1",
+    "title": "Graph-Augmented LLMs for Swiss MP Ideology Prediction",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-08T17:27:34.572433+03:00",
+    "score": 30
   }
 ]
