@@ -174,5 +174,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T17:27:34.572433+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.05007v1",
+    "title": "Uno-Orchestra: Parsimonious Agent Routing via Selective Delegation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-08T18:58:47.731652+03:00",
+    "score": 29
   }
 ]
