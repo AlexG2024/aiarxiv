@@ -150,5 +150,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T12:57:02.439572+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.05121v1",
+    "title": "Beyond Semantics: An Evidential Reasoning-Aware Multi-View Learning Framework for Trustworthy Mental Health Prediction",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-08T14:16:19.317821+03:00",
+    "score": 31
   }
 ]
