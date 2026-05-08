@@ -190,5 +190,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T20:25:07.678618+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2605.05077v1",
+    "title": "FlowDIS: Language-Guided Dichotomous Image Segmentation with Flow Matching",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-08T21:50:44.558101+03:00",
+    "score": 28
   }
 ]
