@@ -126,5 +126,13 @@
     "practicality": "high",
     "published_at": "2026-05-07T22:38:35.557655+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2605.04503v1",
+    "title": "DiffCap-Bench: A Comprehensive, Challenging, Robust Benchmark for Image Difference Captioning",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-08T09:29:37.057955+03:00",
+    "score": 33
   }
 ]
