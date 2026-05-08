@@ -142,5 +142,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T11:11:43.791879+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.04499v1",
+    "title": "Pen-Strategist: A Reasoning Framework for Penetration Testing Strategy Formation and Analysis",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-05-08T12:57:02.439572+03:00",
+    "score": 32
   }
 ]
