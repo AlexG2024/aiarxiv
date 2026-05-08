@@ -60,8 +60,8 @@
       "score": 31,
       "practicality": "high",
       "post_html": "<b>AI в медицине: здоровье</b>\n<i>Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation</i>\n\nРабота описывает модель, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Olivia Jullian Parra и еще 9 | Machine Learning, Artificial Intelligence | 06.05.2026\n\n<a href=\"https://arxiv.org/abs/2605.05125v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2605.05125v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-05-08T15:49:28.010612+03:00"
     },
     {
       "slot": 6,

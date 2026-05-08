@@ -158,5 +158,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T14:16:19.317821+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.05125v1",
+    "title": "Joint Treatment Effect Estimation from Incomplete Healthcare Data: Temporal Causal Normalizing Flows with LLM-driven Evolutionary MNAR Imputation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-08T15:49:28.010612+03:00",
+    "score": 31
   }
 ]
