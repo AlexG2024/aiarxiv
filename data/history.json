@@ -134,5 +134,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T09:29:37.057955+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2605.05058v1",
+    "title": "SoK: Robustness in Large Language Models against Jailbreak Attacks",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-05-08T11:11:43.791879+03:00",
+    "score": 32
   }
 ]
