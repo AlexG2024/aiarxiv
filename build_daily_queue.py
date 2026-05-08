@@ -1,10 +1,17 @@
+import traceback
+
 from src.config import load_settings
 from src.pipeline import build_daily_queue
 
 
 def main() -> None:
-    settings = load_settings()
-    result = build_daily_queue(settings)
+    try:
+        settings = load_settings()
+        result = build_daily_queue(settings)
+    except Exception as error:
+        print(f"Build Daily Queue failed: {error}")
+        traceback.print_exc()
+        raise
 
     print(f"Fetched: {result['fetched']}")
     print(f"Selected: {result['selected']}")

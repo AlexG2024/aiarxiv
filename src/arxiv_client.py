@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -9,6 +10,8 @@ from dataclasses import dataclass
 
 ARXIV_API_URL = "https://export.arxiv.org/api/query"
 ATOM_NS = {"atom": "http://www.w3.org/2005/Atom"}
+ARXIV_RETRY_ATTEMPTS = 4
+ARXIV_RETRY_DELAYS = (3, 6, 12)
 
 
 @dataclass(frozen=True)
@@ -42,6 +45,31 @@ def _to_https(url: str) -> str:
     return url.replace("http://", "https://", 1)
 
 
+def _download_feed(url: str) -> bytes:
+    request = urllib.request.Request(
+        url,
+        headers={"User-Agent": "ArxivTelegramDigest/1.0 (educational project)"},
+    )
+
+    last_error: Exception | None = None
+    for attempt in range(1, ARXIV_RETRY_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return response.read()
+        except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, OSError) as error:
+            last_error = error
+            if attempt >= ARXIV_RETRY_ATTEMPTS:
+                break
+            delay = ARXIV_RETRY_DELAYS[min(attempt - 1, len(ARXIV_RETRY_DELAYS) - 1)]
+            print(
+                f"[arXiv] Request attempt {attempt}/{ARXIV_RETRY_ATTEMPTS} failed: "
+                f"{error}. Retrying in {delay}s..."
+            )
+            time.sleep(delay)
+
+    raise RuntimeError(f"Failed to fetch arXiv feed after {ARXIV_RETRY_ATTEMPTS} attempts.") from last_error
+
+
 def fetch_recent_articles(categories: list[str], max_results: int) -> list[Article]:
     query = _build_query(categories)
     params = {
@@ -52,16 +80,13 @@ def fetch_recent_articles(categories: list[str], max_results: int) -> list[Artic
         "sortOrder": "descending",
     }
     url = f"{ARXIV_API_URL}?{urllib.parse.urlencode(params)}"
+    payload = _download_feed(url)
 
-    request = urllib.request.Request(
-        url,
-        headers={"User-Agent": "ArxivTelegramDigest/1.0 (educational project)"},
-    )
+    try:
+        root = ET.fromstring(payload)
+    except ET.ParseError as error:
+        raise RuntimeError("Failed to parse arXiv Atom feed.") from error
 
-    with urllib.request.urlopen(request, timeout=60) as response:
-        payload = response.read()
-
-    root = ET.fromstring(payload)
     entries = root.findall("atom:entry", ATOM_NS)
     articles: list[Article] = []
 
