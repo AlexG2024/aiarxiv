@@ -246,5 +246,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T14:55:50.524064+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.06635v1",
+    "title": "Cited but Not Verified: Parsing and Evaluating Source Attribution in LLM Deep Research Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-09T16:12:58.550896+03:00",
+    "score": 41
   }
 ]
