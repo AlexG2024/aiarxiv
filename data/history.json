@@ -238,5 +238,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T13:59:20.239465+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.06177v1",
+    "title": "BioMedArena: An Open-source Toolkit for Building and Evaluating Biomedical Deep Research Agents",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-09T14:55:50.524064+03:00",
+    "score": 41
   }
 ]
