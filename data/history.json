@@ -222,5 +222,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T11:48:55.996125+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2605.06584v1",
+    "title": "NeuroAgent: LLM Agents for Multimodal Neuroimaging Analysis and Research",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-09T12:57:45.894613+03:00",
+    "score": 43
   }
 ]
