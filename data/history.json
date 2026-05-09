@@ -206,5 +206,13 @@
     "practicality": "high",
     "published_at": "2026-05-08T22:10:21.158930+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2605.06537v1",
+    "title": "MedHorizon: Towards Long-context Medical Video Understanding in the Wild",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-09T10:04:21.287832+03:00",
+    "score": 62
   }
 ]
