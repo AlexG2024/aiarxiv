@@ -254,5 +254,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T16:12:58.550896+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.06132v1",
+    "title": "MemReranker: Reasoning-Aware Reranking for Agent Memory Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-09T17:31:58.037890+03:00",
+    "score": 39
   }
 ]
