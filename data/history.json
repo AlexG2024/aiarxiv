@@ -270,5 +270,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T18:32:47.867370+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2605.06434v1",
+    "title": "Knowledge Graphs, the Missing Link in Agentic AI-based Formal Verification",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-09T19:32:49.426766+03:00",
+    "score": 36
   }
 ]
