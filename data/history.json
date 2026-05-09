@@ -214,5 +214,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T10:04:21.287832+03:00",
     "score": 62
+  },
+  {
+    "arxiv_id": "2605.06527v1",
+    "title": "STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-09T11:48:55.996125+03:00",
+    "score": 52
   }
 ]
