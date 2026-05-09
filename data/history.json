@@ -230,5 +230,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T12:57:45.894613+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.06285v1",
+    "title": "LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-09T13:59:20.239465+03:00",
+    "score": 43
   }
 ]
