@@ -294,5 +294,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T10:23:39.405421+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2605.06197v1",
+    "title": "Bridging visual saliency and large language models for explainable deep learning in medical imaging",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-10T12:12:12.648231+03:00",
+    "score": 33
   }
 ]
