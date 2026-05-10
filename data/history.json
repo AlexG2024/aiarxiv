@@ -318,5 +318,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T14:32:51.435827+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.06115v1",
+    "title": "CrossCult-KIBench: A Benchmark for Cross-Cultural Knowledge Insertion in MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-10T15:37:40.700652+03:00",
+    "score": 31
   }
 ]
