@@ -310,5 +310,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T13:39:52.800653+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.06160v1",
+    "title": "Beyond Forgetting in Continual Medical Image Segmentation: A Comprehensive Benchmark Study",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-10T14:32:51.435827+03:00",
+    "score": 31
   }
 ]
