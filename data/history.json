@@ -286,5 +286,13 @@
     "practicality": "high",
     "published_at": "2026-05-09T20:33:37.024206+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2605.06290v1",
+    "title": "Data Language Models: A New Foundation Model Class for Tabular Data",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-10T10:23:39.405421+03:00",
+    "score": 33
   }
 ]
