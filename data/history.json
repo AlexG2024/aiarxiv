@@ -350,5 +350,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T19:07:26.253794+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2605.06230v1",
+    "title": "Safactory: A Scalable Agent Factory for Trustworthy Autonomous Intelligence",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-10T20:10:02.147053+03:00",
+    "score": 27
   }
 ]
