@@ -334,5 +334,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T17:05:14.363005+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.06365v1",
+    "title": "From Agent Loops to Deterministic Graphs: Execution Lineage for Reproducible AI-Native Work",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-10T18:08:44.788287+03:00",
+    "score": 29
   }
 ]
