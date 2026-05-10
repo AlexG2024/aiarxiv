@@ -342,5 +342,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T18:08:44.788287+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.06642v1",
+    "title": "StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-10T19:07:26.253794+03:00",
+    "score": 27
   }
 ]
