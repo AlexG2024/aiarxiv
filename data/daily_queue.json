@@ -72,8 +72,8 @@
       "score": 29,
       "practicality": "high",
       "post_html": "<b>AI для аудио: работа со звуком</b>\n<i>PairAlign: A Framework for Sequence Tokenization via Self-Alignment with Applications to Audio Tokenization</i>\n\nВ центре статьи фреймворк, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Помогают лучше разбирать речь, работать с аудиоданными и снижать ошибки в голосовых сценариях\n\n<b>Где пригодится:</b> В транскрибации, голосовых сервисах и обработке звука\n\n<b>Рекомендация:</b> обращайте внимание на качество распознавания, задержку и устойчивость на реальных данных\n\n<b>Вывод:</b> Будущее AI для аудио зависит от того, насколько надежно он работает на живой речи и шумных данных.\n\n<b>Детали:</b> Adhiraj Banerjee, Vipul Arora | Machine Learning, Natural Language Processing, Software Engineering | 07.05.2026\n\n<a href=\"https://arxiv.org/abs/2605.06582v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2605.06582v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-05-10T17:05:14.363005+03:00"
     },
     {
       "slot": 7,

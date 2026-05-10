@@ -326,5 +326,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T15:37:40.700652+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.06582v1",
+    "title": "PairAlign: A Framework for Sequence Tokenization via Self-Alignment with Applications to Audio Tokenization",
+    "theme": "AI для аудио",
+    "practicality": "high",
+    "published_at": "2026-05-10T17:05:14.363005+03:00",
+    "score": 29
   }
 ]
