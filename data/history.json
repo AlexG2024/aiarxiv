@@ -302,5 +302,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T12:12:12.648231+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2605.06623v1",
+    "title": "MASPO: Joint Prompt Optimization for LLM-based Multi-Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-10T13:39:52.800653+03:00",
+    "score": 32
   }
 ]
