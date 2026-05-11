@@ -374,5 +374,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T11:22:09.543765+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2605.06229v1",
+    "title": "Look Beyond Saliency: Low-Attention Guided Dual Encoding for Video Semantic Search",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-11T14:40:43.030385+03:00",
+    "score": 26
   }
 ]
