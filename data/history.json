@@ -406,5 +406,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T21:29:15.252689+03:00",
     "score": 24
+  },
+  {
+    "arxiv_id": "2605.06643v1",
+    "title": "Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-11T22:41:06.172327+03:00",
+    "score": 23
   }
 ]
