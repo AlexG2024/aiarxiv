@@ -398,5 +398,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T19:49:05.012733+03:00",
     "score": 25
+  },
+  {
+    "arxiv_id": "2605.06651v1",
+    "title": "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-11T21:29:15.252689+03:00",
+    "score": 24
   }
 ]
