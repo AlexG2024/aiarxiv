@@ -382,5 +382,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T14:40:43.030385+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2605.06130v1",
+    "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-11T17:10:28.636983+03:00",
+    "score": 26
   }
 ]
