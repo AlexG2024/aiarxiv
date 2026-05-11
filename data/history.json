@@ -390,5 +390,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T17:10:28.636983+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2605.06121v1",
+    "title": "Pest-Thinker: Learning to Think and Reason like Entomologists via Reinforcement Learning",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-05-11T19:49:05.012733+03:00",
+    "score": 25
   }
 ]
