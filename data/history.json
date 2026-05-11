@@ -366,5 +366,13 @@
     "practicality": "high",
     "published_at": "2026-05-10T21:04:57.905632+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2605.06235v1",
+    "title": "OBLIQ-Bench: Exposing Overlooked Bottlenecks in Modern Retrievers with Latent and Implicit Queries",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-11T11:22:09.543765+03:00",
+    "score": 26
   }
 ]
