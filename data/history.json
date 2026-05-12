@@ -454,5 +454,13 @@
     "practicality": "high",
     "published_at": "2026-05-12T20:27:45.935966+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2605.07637v1",
+    "title": "Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-12T22:18:34.779606+03:00",
+    "score": 32
   }
 ]
