@@ -422,5 +422,13 @@
     "practicality": "high",
     "published_at": "2026-05-12T10:40:06.912184+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.08054v1",
+    "title": "Towards Highly-Constrained Human Motion Generation with Retrieval-Guided Diffusion Noise Optimization",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-12T13:14:39.144205+03:00",
+    "score": 39
   }
 ]
