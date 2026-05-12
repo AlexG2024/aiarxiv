@@ -446,5 +446,13 @@
     "practicality": "high",
     "published_at": "2026-05-12T18:19:47.332228+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.08083v1",
+    "title": "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-12T20:27:45.935966+03:00",
+    "score": 34
   }
 ]
