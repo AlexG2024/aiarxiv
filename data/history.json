@@ -414,5 +414,13 @@
     "practicality": "high",
     "published_at": "2026-05-11T22:41:06.172327+03:00",
     "score": 23
+  },
+  {
+    "arxiv_id": "2605.07593v1",
+    "title": "TraceAV-Bench: Benchmarking Multi-Hop Trajectory Reasoning over Long Audio-Visual Videos",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-12T10:40:06.912184+03:00",
+    "score": 41
   }
 ]
