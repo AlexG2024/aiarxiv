@@ -438,5 +438,13 @@
     "practicality": "high",
     "published_at": "2026-05-12T15:20:20.436889+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.07692v1",
+    "title": "GASim: A Graph-Accelerated Hybrid Framework for Social Simulation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-12T18:19:47.332228+03:00",
+    "score": 35
   }
 ]
