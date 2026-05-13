@@ -502,5 +502,13 @@
     "practicality": "high",
     "published_at": "2026-05-13T18:22:35.518165+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.10807v1",
+    "title": "LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-13T20:32:57.278316+03:00",
+    "score": 38
   }
 ]
