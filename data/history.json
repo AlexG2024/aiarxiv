@@ -518,5 +518,13 @@
     "practicality": "high",
     "published_at": "2026-05-13T22:22:38.027015+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2605.10488v1",
+    "title": "DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-13T22:47:50.486944+03:00",
+    "score": 36
   }
 ]
