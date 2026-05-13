@@ -478,5 +478,13 @@
     "practicality": "high",
     "published_at": "2026-05-13T10:46:40.726091+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.10832v1",
+    "title": "Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-13T13:09:28.854106+03:00",
+    "score": 41
   }
 ]
