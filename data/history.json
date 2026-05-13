@@ -510,5 +510,13 @@
     "practicality": "high",
     "published_at": "2026-05-13T20:32:57.278316+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.10787v1",
+    "title": "ComplexMCP: Evaluation of LLM Agents in Dynamic, Interdependent, and Large-Scale Tool Sandbox",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-13T22:22:38.027015+03:00",
+    "score": 37
   }
 ]
