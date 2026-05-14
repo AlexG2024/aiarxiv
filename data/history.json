@@ -542,5 +542,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T12:58:10.691303+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.12147v1",
+    "title": "PrivacySIM: Evaluating LLM Simulation of User Privacy Behavior",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-14T14:55:23.455546+03:00",
+    "score": 38
   }
 ]
