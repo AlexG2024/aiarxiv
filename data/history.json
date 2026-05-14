@@ -558,5 +558,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T17:00:06.928156+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.12012v1",
+    "title": "LegalCheck: Retrieval- and Context-Augmented Generation for Drafting Municipal Legal Advice Letters",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-14T19:13:30.690064+03:00",
+    "score": 36
   }
 ]
