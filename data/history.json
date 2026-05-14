@@ -526,5 +526,13 @@
     "practicality": "high",
     "published_at": "2026-05-13T22:47:50.486944+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.12313v1",
+    "title": "Overview of the MedHopQA track at BioCreative IX: track description, participation and evaluation of systems for multi-hop medical question answering",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-14T10:39:36.547126+03:00",
+    "score": 42
   }
 ]

@@ -12,8 +12,8 @@
       "score": 42,
       "practicality": "high",
       "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Overview of the MedHopQA track at BioCreative IX: track description, participation and evaluation of systems for multi-hop medical question answering</i>\n\nРабота описывает систему, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Rezarta Islamaj и еще 15 | Natural Language Processing, Information Retrieval | 12.05.2026\n\n<a href=\"https://arxiv.org/abs/2605.12313v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2605.12313v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-05-14T10:39:36.547126+03:00"
     },
     {
       "slot": 2,
