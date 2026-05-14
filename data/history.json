@@ -574,5 +574,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T21:11:12.120533+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.12153v1",
+    "title": "CIDR: A Large-Scale Industrial Source Code Dataset for Software Engineering Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-14T22:40:33.756702+03:00",
+    "score": 35
   }
 ]
