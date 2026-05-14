@@ -534,5 +534,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T10:39:36.547126+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2605.12500v1",
+    "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-14T12:58:10.691303+03:00",
+    "score": 38
   }
 ]
