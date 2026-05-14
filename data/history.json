@@ -566,5 +566,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T19:13:30.690064+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.12004v1",
+    "title": "Learning Agentic Policy from Action Guidance",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-14T21:11:12.120533+03:00",
+    "score": 36
   }
 ]
