@@ -550,5 +550,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T14:55:23.455546+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.12449v1",
+    "title": "LychSim: A Controllable and Interactive Simulation Framework for Vision Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-14T17:00:06.928156+03:00",
+    "score": 36
   }
 ]
