@@ -614,5 +614,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T17:31:08.773790+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.13831v1",
+    "title": "Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-15T19:21:16.139782+03:00",
+    "score": 42
   }
 ]
