@@ -606,5 +606,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T15:06:20.732099+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.13360v1",
+    "title": "Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-15T17:31:08.773790+03:00",
+    "score": 43
   }
 ]
