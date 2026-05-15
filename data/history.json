@@ -590,5 +590,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T10:49:42.517576+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2605.13292v1",
+    "title": "IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-15T13:09:38.452487+03:00",
+    "score": 45
   }
 ]
