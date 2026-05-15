@@ -598,5 +598,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T13:09:38.452487+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2605.13193v1",
+    "title": "FIKA-Bench: From Fine-grained Recognition to Fine-Grained Knowledge Acquisition",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-15T15:06:20.732099+03:00",
+    "score": 44
   }
 ]
