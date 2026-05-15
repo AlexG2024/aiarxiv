@@ -582,5 +582,13 @@
     "practicality": "high",
     "published_at": "2026-05-14T22:40:33.756702+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.13481v1",
+    "title": "PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-15T10:49:42.517576+03:00",
+    "score": 50
   }
 ]
