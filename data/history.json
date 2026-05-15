@@ -622,5 +622,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T19:21:16.139782+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2605.13725v1",
+    "title": "ScioMind: Cognitively Grounded Multi-Agent Social Simulation with Anchoring-Based Belief Dynamics and Dynamic Profiles",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-15T21:00:06.215381+03:00",
+    "score": 39
   }
 ]
