@@ -678,5 +678,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T15:42:02.306995+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.15168v1",
+    "title": "Text Knows What, Tables Know When: Clinical Timeline Reconstruction via Retrieval-Augmented Multimodal Alignment",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-16T17:11:41.532910+03:00",
+    "score": 39
   }
 ]
