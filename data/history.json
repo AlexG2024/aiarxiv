@@ -710,5 +710,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T20:17:25.274646+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2605.14710v1",
+    "title": "Vision-Core Guided Contrastive Learning for Balanced Multi-modal Prognosis Prediction of Stroke",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-16T21:10:02.928514+03:00",
+    "score": 36
   }
 ]
