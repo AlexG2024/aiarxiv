@@ -702,5 +702,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T19:13:35.789692+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2605.14723v1",
+    "title": "Agentifying Patient Dynamics within LLMs through Interacting with Clinical World Model",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-16T20:17:25.274646+03:00",
+    "score": 37
   }
 ]
