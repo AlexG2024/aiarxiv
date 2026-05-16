@@ -694,5 +694,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T18:18:22.783659+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.15040v1",
+    "title": "Orchard: An Open-Source Agentic Modeling Framework",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-16T19:13:35.789692+03:00",
+    "score": 37
   }
 ]
