@@ -662,5 +662,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T13:24:57.630374+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2605.14678v1",
+    "title": "$π$-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-05-16T14:30:49.222044+03:00",
+    "score": 46
   }
 ]
