@@ -686,5 +686,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T17:11:41.532910+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.14906v1",
+    "title": "MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-16T18:18:22.783659+03:00",
+    "score": 38
   }
 ]
