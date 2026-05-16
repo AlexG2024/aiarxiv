@@ -638,5 +638,13 @@
     "practicality": "high",
     "published_at": "2026-05-15T22:24:25.889948+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2605.14747v1",
+    "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-16T10:12:08.173882+03:00",
+    "score": 50
   }
 ]
