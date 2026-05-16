@@ -654,5 +654,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T12:02:53.079592+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2605.15016v1",
+    "title": "COTCAgent: Preventive Consultation via Probabilistic Chain-of-Thought Completion",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-16T13:24:57.630374+03:00",
+    "score": 46
   }
 ]
