@@ -646,5 +646,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T10:12:08.173882+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2605.15184v1",
+    "title": "Is Grep All You Need? How Agent Harnesses Reshape Agentic Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-16T12:02:53.079592+03:00",
+    "score": 49
   }
 ]
