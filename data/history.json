@@ -718,5 +718,13 @@
     "practicality": "high",
     "published_at": "2026-05-16T21:10:02.928514+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.15188v1",
+    "title": "FutureSim: Replaying World Events to Evaluate Adaptive Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-17T10:31:19.458865+03:00",
+    "score": 35
   }
 ]
