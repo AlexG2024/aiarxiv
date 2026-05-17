@@ -726,5 +726,13 @@
     "practicality": "high",
     "published_at": "2026-05-17T10:31:19.458865+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.15155v1",
+    "title": "Self-Distilled Agentic Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-17T12:22:27.053025+03:00",
+    "score": 35
   }
 ]
