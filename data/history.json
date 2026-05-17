@@ -750,5 +750,13 @@
     "practicality": "high",
     "published_at": "2026-05-17T14:48:16.787139+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.15044v1",
+    "title": "SpeakerLLM: A Speaker-Specialized Audio-LLM for Speaker Understanding and Verification Reasoning",
+    "theme": "AI для аудио",
+    "practicality": "high",
+    "published_at": "2026-05-17T15:43:06.246957+03:00",
+    "score": 35
   }
 ]
