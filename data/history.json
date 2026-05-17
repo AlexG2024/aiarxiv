@@ -790,5 +790,13 @@
     "practicality": "high",
     "published_at": "2026-05-17T20:36:37.258777+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.15019v1",
+    "title": "From Scenes to Elements: Multi-Granularity Evidence Retrieval for Verifiable Multimodal RAG",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-17T21:40:05.654684+03:00",
+    "score": 31
   }
 ]
