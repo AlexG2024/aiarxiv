@@ -734,5 +734,13 @@
     "practicality": "high",
     "published_at": "2026-05-17T12:22:27.053025+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.15132v1",
+    "title": "APWA: A Distributed Architecture for Parallelizable Agentic Workflows",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-17T13:49:03.863131+03:00",
+    "score": 35
   }
 ]
