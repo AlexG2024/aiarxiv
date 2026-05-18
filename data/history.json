@@ -830,5 +830,13 @@
     "practicality": "high",
     "published_at": "2026-05-18T21:03:38.573204+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.14928v1",
+    "title": "Chain-of-Procedure: Hierarchical Visual-Language Reasoning for Procedural QA",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-18T22:40:05.336774+03:00",
+    "score": 29
   }
 ]
