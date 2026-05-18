@@ -822,5 +822,13 @@
     "practicality": "high",
     "published_at": "2026-05-18T18:58:11.133910+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.14563v1",
+    "title": "Remember Your Trace: Memory-Guided Long-Horizon Agentic Framework for Consistent and Hierarchical Repository-Level Code Documentation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-18T21:03:38.573204+03:00",
+    "score": 29
   }
 ]
