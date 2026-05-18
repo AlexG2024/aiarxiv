@@ -806,5 +806,13 @@
     "practicality": "high",
     "published_at": "2026-05-18T11:41:56.662379+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.15156v1",
+    "title": "MeMo: Memory as a Model",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-18T15:16:49.861791+03:00",
+    "score": 30
   }
 ]
