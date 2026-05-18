@@ -798,5 +798,13 @@
     "practicality": "high",
     "published_at": "2026-05-17T21:40:05.654684+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.14888v1",
+    "title": "PROCESS-2: A Benchmark Speech Corpus for Early Cognitive Impairment Detection",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-18T11:41:56.662379+03:00",
+    "score": 31
   }
 ]
