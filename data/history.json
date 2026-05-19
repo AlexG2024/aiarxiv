@@ -854,5 +854,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T14:38:11.500577+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2605.15625v1",
+    "title": "ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-19T17:14:53.053075+03:00",
+    "score": 42
   }
 ]
