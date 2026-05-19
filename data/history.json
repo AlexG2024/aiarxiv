@@ -862,5 +862,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T17:14:53.053075+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2605.15759v1",
+    "title": "DimMem: Dimensional Structuring for Efficient Long-Term Agent Memory",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-19T20:17:24.756373+03:00",
+    "score": 41
   }
 ]
