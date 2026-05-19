@@ -878,5 +878,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T22:20:06.287993+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.15542v1",
+    "title": "DRS-GUI: Dynamic Region Search for Training-Free GUI Grounding",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-19T22:47:08.436464+03:00",
+    "score": 41
   }
 ]
