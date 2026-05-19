@@ -838,5 +838,13 @@
     "practicality": "high",
     "published_at": "2026-05-18T22:40:05.336774+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.15611v1",
+    "title": "TopoEvo: A Topology-Aware Self-Evolving Multi-Agent Framework for Root Cause Analysis in Microservices",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-19T11:23:49.785734+03:00",
+    "score": 50
   }
 ]
