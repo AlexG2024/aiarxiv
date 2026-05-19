@@ -870,5 +870,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T20:17:24.756373+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.15589v1",
+    "title": "MHGraphBench: Knowledge Graph-Grounded Benchmarking of Mental Health Knowledge in Large Language Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-19T22:20:06.287993+03:00",
+    "score": 41
   }
 ]
