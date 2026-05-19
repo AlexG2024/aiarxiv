@@ -846,5 +846,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T11:23:49.785734+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2605.15777v1",
+    "title": "SaaS-Bench: Can Computer-Use Agents Leverage Real-World SaaS to Solve Professional Workflows?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-19T14:38:11.500577+03:00",
+    "score": 49
   }
 ]
