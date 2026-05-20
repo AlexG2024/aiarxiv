@@ -926,5 +926,13 @@
     "practicality": "high",
     "published_at": "2026-05-20T22:38:24.362947+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.18271v1",
+    "title": "From Volume to Value: Preference-Aligned Memory Construction for On-Device RAG",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-20T23:07:35.425694+03:00",
+    "score": 40
   }
 ]
