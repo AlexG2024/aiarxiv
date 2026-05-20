@@ -910,5 +910,13 @@
     "practicality": "high",
     "published_at": "2026-05-20T17:03:38.225847+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.18421v1",
+    "title": "EvoMemBench: Benchmarking Agent Memory from a Self-Evolving Perspective",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-20T20:24:36.095395+03:00",
+    "score": 43
   }
 ]
