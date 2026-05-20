@@ -886,5 +886,13 @@
     "practicality": "high",
     "published_at": "2026-05-19T22:47:08.436464+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.18747v1",
+    "title": "Code as Agent Harness",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-20T11:23:01.775720+03:00",
+    "score": 56
   }
 ]
