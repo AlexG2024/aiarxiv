@@ -902,5 +902,13 @@
     "practicality": "high",
     "published_at": "2026-05-20T14:25:38.441817+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2605.18144v1",
+    "title": "Evidence-Grounded Frontier Mapping and Agentic Hypothesis Generation in Nanomedicine",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-20T17:03:38.225847+03:00",
+    "score": 43
   }
 ]
