@@ -918,5 +918,13 @@
     "practicality": "high",
     "published_at": "2026-05-20T20:24:36.095395+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.18692v1",
+    "title": "Democratizing Large-Scale Re-Optimization with LLM-Guided Model Patches",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-20T22:38:24.362947+03:00",
+    "score": 41
   }
 ]
