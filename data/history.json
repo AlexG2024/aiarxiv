@@ -942,5 +942,13 @@
     "practicality": "high",
     "published_at": "2026-05-21T11:29:44.644427+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2605.19798v1",
+    "title": "Towards Trust Calibration in Socially Interactive Agents: Investigating Gendered Multimodal Behaviors Generation with LLMs",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-21T14:49:39.891534+03:00",
+    "score": 43
   }
 ]
