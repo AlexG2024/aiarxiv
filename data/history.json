@@ -934,5 +934,13 @@
     "practicality": "high",
     "published_at": "2026-05-20T23:07:35.425694+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2605.20176v1",
+    "title": "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-21T11:29:44.644427+03:00",
+    "score": 52
   }
 ]
