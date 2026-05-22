@@ -1022,5 +1022,13 @@
     "practicality": "high",
     "published_at": "2026-05-22T21:08:36.929849+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.21261v1",
+    "title": "STiTch: Semantic Transition and Transportation in Collaboration for Training-Free Zero-Shot Composed Image Retrieval",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-22T22:27:57.385722+03:00",
+    "score": 38
   }
 ]
