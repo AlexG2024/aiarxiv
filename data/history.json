@@ -998,5 +998,13 @@
     "practicality": "high",
     "published_at": "2026-05-22T14:20:50.197274+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.20815v1",
+    "title": "GraphRAG on Consumer Hardware: Benchmarking Local LLMs for Healthcare EHR Schema Retrieval",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-22T16:42:05.354248+03:00",
+    "score": 42
   }
 ]
