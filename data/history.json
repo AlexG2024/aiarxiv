@@ -990,5 +990,13 @@
     "practicality": "high",
     "published_at": "2026-05-22T11:19:03.190787+03:00",
     "score": 60
+  },
+  {
+    "arxiv_id": "2605.21082v1",
+    "title": "AutoRPA: Efficient GUI Automation through LLM-Driven Code Synthesis from Interactions",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-22T14:20:50.197274+03:00",
+    "score": 43
   }
 ]
