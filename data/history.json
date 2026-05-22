@@ -982,5 +982,13 @@
     "practicality": "high",
     "published_at": "2026-05-21T22:47:35.127338+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2605.20742v1",
+    "title": "VBFDD-Agent for Electric Vehicle Battery Fault Detection and Diagnosis: Descriptive Text Modeling of Battery Digital Signals",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-22T11:19:03.190787+03:00",
+    "score": 60
   }
 ]
