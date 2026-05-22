@@ -1006,5 +1006,13 @@
     "practicality": "high",
     "published_at": "2026-05-22T16:42:05.354248+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2605.20833v1",
+    "title": "MemGym: a Long-Horizon Memory Environment for LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-22T19:10:27.594746+03:00",
+    "score": 40
   }
 ]
