@@ -1038,5 +1038,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T10:27:53.736935+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2605.22366v1",
+    "title": "AgroTools: A Benchmark for Tool-Augmented Multimodal Agents in Agriculture",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-23T12:21:29.329263+03:00",
+    "score": 49
   }
 ]
