@@ -1054,5 +1054,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T13:50:45.973986+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2605.22734v1",
+    "title": "ChronoMedKG: A Temporally-Grounded Biomedical Knowledge Graph and Benchmark for Clinical Reasoning",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-23T14:57:40.821601+03:00",
+    "score": 46
   }
 ]
