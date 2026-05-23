@@ -1102,5 +1102,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T21:11:54.970700+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2605.22552v1",
+    "title": "FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-23T22:02:49.292962+03:00",
+    "score": 39
   }
 ]
