@@ -1078,5 +1078,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T17:50:43.463201+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.22570v1",
+    "title": "VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-23T18:59:40.940528+03:00",
+    "score": 41
   }
 ]
