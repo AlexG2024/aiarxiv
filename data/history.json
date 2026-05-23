@@ -1086,5 +1086,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T18:59:40.940528+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.22219v1",
+    "title": "SGR-Bench: Benchmarking Search Agents on State-Gated Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-23T20:12:38.048520+03:00",
+    "score": 41
   }
 ]
