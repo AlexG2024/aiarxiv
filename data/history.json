@@ -1062,5 +1062,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T14:57:40.821601+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2605.22547v1",
+    "title": "Case-Aware Medical Image Classification with Multimodal Knowledge Graphs and Reliability-Guided Refinement",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-23T16:40:46.278239+03:00",
+    "score": 44
   }
 ]
