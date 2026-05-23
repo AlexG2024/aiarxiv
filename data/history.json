@@ -1094,5 +1094,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T20:12:38.048520+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.22411v1",
+    "title": "DeferMem: Query-Time Evidence Distillation via Reinforcement Learning for Long-Term Memory QA",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-23T21:11:54.970700+03:00",
+    "score": 40
   }
 ]
