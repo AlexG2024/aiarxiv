@@ -1174,5 +1174,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T20:18:02.788975+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.22664v1",
+    "title": "WorkstreamBench: Evaluating LLM Agents on End-to-End Spreadsheet Tasks in Finance",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-24T21:14:16.162366+03:00",
+    "score": 30
   }
 ]
