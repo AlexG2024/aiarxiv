@@ -1110,5 +1110,13 @@
     "practicality": "high",
     "published_at": "2026-05-23T22:02:49.292962+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.22732v1",
+    "title": "Beyond Acoustic Emotion Recognition: Multimodal Pathos Analysis in Political Speech Using LLM-Based and Acoustic Emotion Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-24T10:47:10.721477+03:00",
+    "score": 36
   }
 ]
