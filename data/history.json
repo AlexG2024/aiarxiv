@@ -1150,5 +1150,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T16:57:07.930541+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.22501v1",
+    "title": "BeLink: Biomedical Entity Linking Meets Generative Re-Ranking",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-24T18:05:34.707122+03:00",
+    "score": 32
   }
 ]
