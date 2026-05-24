@@ -1166,5 +1166,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T19:11:46.754494+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.22643v1",
+    "title": "Boiling the Frog: A Multi-Turn Benchmark for Agentic Safety",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-05-24T20:18:02.788975+03:00",
+    "score": 31
   }
 ]
