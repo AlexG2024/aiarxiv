@@ -1134,5 +1134,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T14:03:19.551640+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2605.22208v1",
+    "title": "EvoIR-Agent: Self-Evolving Image Restoration Agentic System via Experience-Driven Learning",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-24T15:08:51.182421+03:00",
+    "score": 33
   }
 ]
