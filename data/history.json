@@ -1126,5 +1126,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T12:44:05.534654+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.22794v1",
+    "title": "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-24T14:03:19.551640+03:00",
+    "score": 34
   }
 ]
