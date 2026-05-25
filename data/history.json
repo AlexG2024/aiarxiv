@@ -1206,5 +1206,13 @@
     "practicality": "high",
     "published_at": "2026-05-25T15:25:13.435747+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.22566v1",
+    "title": "GraphFlow: A Graph-Based Workflow Management for Efficient LLM-Agent Serving",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-25T18:36:04.338593+03:00",
+    "score": 29
   }
 ]
