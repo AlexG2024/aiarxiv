@@ -1190,5 +1190,13 @@
     "practicality": "high",
     "published_at": "2026-05-24T22:10:06.988532+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.22535v1",
+    "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-25T11:53:07.991129+03:00",
+    "score": 29
   }
 ]
