@@ -1214,5 +1214,13 @@
     "practicality": "high",
     "published_at": "2026-05-25T18:36:04.338593+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.22550v1",
+    "title": "MOTOR: A Multimodal Dataset for Two-Wheeler Rider Behavior Understanding",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-25T20:21:29.083148+03:00",
+    "score": 29
   }
 ]
