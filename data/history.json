@@ -1222,5 +1222,13 @@
     "practicality": "high",
     "published_at": "2026-05-25T20:21:29.083148+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.22536v1",
+    "title": "SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-25T21:58:48.563622+03:00",
+    "score": 29
   }
 ]
