@@ -1246,5 +1246,13 @@
     "practicality": "high",
     "published_at": "2026-05-26T11:29:13.623185+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.23559v1",
+    "title": "PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-26T17:23:36.408116+03:00",
+    "score": 41
   }
 ]
