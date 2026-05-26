@@ -1254,5 +1254,13 @@
     "practicality": "high",
     "published_at": "2026-05-26T17:23:36.408116+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.23657v1",
+    "title": "OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-26T20:41:33.439697+03:00",
+    "score": 40
   }
 ]
