@@ -1262,5 +1262,13 @@
     "practicality": "high",
     "published_at": "2026-05-26T20:41:33.439697+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2605.23655v1",
+    "title": "CVSearch: Empowering Multimodal LLMs with Cognitive Visual Search for High-Resolution Image Perception",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-26T22:46:57.131730+03:00",
+    "score": 39
   }
 ]
