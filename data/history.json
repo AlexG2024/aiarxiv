@@ -1270,5 +1270,13 @@
     "practicality": "high",
     "published_at": "2026-05-26T22:46:57.131730+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.23382v1",
+    "title": "From Correctness to Preference: A Framework for Personalized Agentic Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-26T23:02:28.766200+03:00",
+    "score": 37
   }
 ]
