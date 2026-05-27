@@ -1278,5 +1278,13 @@
     "practicality": "high",
     "published_at": "2026-05-26T23:02:28.766200+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2605.25707v1",
+    "title": "AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-27T11:36:46.014795+03:00",
+    "score": 54
   }
 ]
