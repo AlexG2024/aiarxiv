@@ -1302,5 +1302,13 @@
     "practicality": "high",
     "published_at": "2026-05-27T21:13:00.308654+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.25988v1",
+    "title": "What Makes a Medical Checker Trainable? Diagnosing Signal Collapse and Reward Hacking in Checker-Guided RAG for Biomedical QA",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-27T23:08:22.188060+03:00",
+    "score": 41
   }
 ]
