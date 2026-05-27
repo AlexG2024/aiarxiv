@@ -1294,5 +1294,13 @@
     "practicality": "high",
     "published_at": "2026-05-27T18:39:35.427818+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2605.26112v1",
+    "title": "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-27T21:13:00.308654+03:00",
+    "score": 44
   }
 ]
