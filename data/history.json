@@ -1286,5 +1286,13 @@
     "practicality": "high",
     "published_at": "2026-05-27T11:36:46.014795+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2605.25566v1",
+    "title": "Uncertainty Reasoning with Large Language Models for Explainable Disease Diagnosis",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-27T18:39:35.427818+03:00",
+    "score": 49
   }
 ]
