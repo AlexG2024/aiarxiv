@@ -1342,5 +1342,13 @@
     "practicality": "high",
     "published_at": "2026-05-28T22:09:21.387374+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.26861v1",
+    "title": "REVERSE: Reinforcing Evidence Verification and Search for Agentic Image geo-localization",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-05-28T23:12:50.919151+03:00",
+    "score": 43
   }
 ]
