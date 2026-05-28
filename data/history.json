@@ -1318,5 +1318,13 @@
     "practicality": "high",
     "published_at": "2026-05-28T11:39:30.013393+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2605.26870v1",
+    "title": "Persistent AI Agents in Academic Research: A Single-Investigator Implementation Case Study",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-28T15:05:16.574096+03:00",
+    "score": 52
   }
 ]
