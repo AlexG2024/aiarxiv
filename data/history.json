@@ -1326,5 +1326,13 @@
     "practicality": "high",
     "published_at": "2026-05-28T15:05:16.574096+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2605.26747v1",
+    "title": "A Dataset of Robot-Patient and Doctor-Patient Medical Dialogues for Spoken Language Processing Tasks",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-28T19:23:58.721628+03:00",
+    "score": 51
   }
 ]
