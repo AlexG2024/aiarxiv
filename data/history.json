@@ -1310,5 +1310,13 @@
     "practicality": "high",
     "published_at": "2026-05-27T23:08:22.188060+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.27074v1",
+    "title": "IPIBench: Evaluating Interactive Proactive Intelligence of MLLMs under Continuous Streams",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-28T11:39:30.013393+03:00",
+    "score": 55
   }
 ]
