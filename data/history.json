@@ -1334,5 +1334,13 @@
     "practicality": "high",
     "published_at": "2026-05-28T19:23:58.721628+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2605.27240v1",
+    "title": "ENPMR-Bench: Benchmarking Proactive Memory Retrieval for Emotional Support Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-28T22:09:21.387374+03:00",
+    "score": 44
   }
 ]
