@@ -1382,5 +1382,13 @@
     "practicality": "high",
     "published_at": "2026-05-30T15:12:10.885918+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2605.30002v1",
+    "title": "KairosAgent: Agentic Time Series Forecasting with Fused Semantic Reasoning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-30T17:06:58.317613+03:00",
+    "score": 41
   }
 ]
