@@ -1350,5 +1350,13 @@
     "practicality": "high",
     "published_at": "2026-05-28T23:12:50.919151+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2605.29861v1",
+    "title": "Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-05-30T10:37:37.152594+03:00",
+    "score": 50
   }
 ]
