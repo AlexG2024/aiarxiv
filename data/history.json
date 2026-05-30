@@ -1390,5 +1390,13 @@
     "practicality": "high",
     "published_at": "2026-05-30T17:06:58.317613+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2605.30256v1",
+    "title": "VideoFDB: Evaluating Full-Duplex Vision-Speech Capabilities in Conversational Agents",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-30T18:21:48.377493+03:00",
+    "score": 40
   }
 ]
