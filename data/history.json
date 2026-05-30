@@ -1414,5 +1414,13 @@
     "practicality": "high",
     "published_at": "2026-05-30T20:41:05.092420+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2605.30187v1",
+    "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-05-30T21:48:55.221410+03:00",
+    "score": 35
   }
 ]
