@@ -1406,5 +1406,13 @@
     "practicality": "high",
     "published_at": "2026-05-30T19:33:03.516853+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2605.29795v1",
+    "title": "MEMENTO: Leveraging Web as a Learning Signal for Low-Data Domains",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-30T20:41:05.092420+03:00",
+    "score": 35
   }
 ]
