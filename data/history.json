@@ -1478,5 +1478,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T19:21:14.449781+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.30329v1",
+    "title": "SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-31T20:36:15.246079+03:00",
+    "score": 30
   }
 ]
