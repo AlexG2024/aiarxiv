@@ -1430,5 +1430,13 @@
     "practicality": "high",
     "published_at": "2026-05-30T22:05:46.374832+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2605.30090v1",
+    "title": "DirectorBench: Diagnosing Long-Form Video Generation with Personalized Multi-Agent Evaluation",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-31T11:11:46.185923+03:00",
+    "score": 34
   }
 ]
