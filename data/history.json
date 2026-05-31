@@ -1462,5 +1462,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T16:42:11.195829+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.30029v1",
+    "title": "RAISE: RAG Design as an Architecture Search Problem",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-05-31T18:06:18.083997+03:00",
+    "score": 30
   }
 ]
