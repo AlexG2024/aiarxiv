@@ -1486,5 +1486,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T20:36:15.246079+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2605.30000v1",
+    "title": "Cookie-Bench: Continuous On-screen Key Interaction Evaluation for Web Generation",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-05-31T21:48:40.080600+03:00",
+    "score": 29
   }
 ]
