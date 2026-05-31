@@ -1446,5 +1446,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T13:25:41.687366+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2605.30131v1",
+    "title": "CCS: Clinical Consensus Selection for Radiology Report Generation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-31T14:56:12.766736+03:00",
+    "score": 31
   }
 ]
