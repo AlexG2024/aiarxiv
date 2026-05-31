@@ -1494,5 +1494,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T21:48:40.080600+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.29966v1",
+    "title": "Compass: Navigating Global Marine Lead Data Integration through Expert-Guided LLM Agent",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-05-31T22:08:30.266597+03:00",
+    "score": 29
   }
 ]
