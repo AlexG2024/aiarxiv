@@ -1454,5 +1454,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T14:56:12.766736+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2605.30353v1",
+    "title": "Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-05-31T16:42:11.195829+03:00",
+    "score": 30
   }
 ]
