@@ -1438,5 +1438,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T11:11:46.185923+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2605.30284v1",
+    "title": "ProjectionBench: Evaluating Scientific Hypothesis Generation in LLMs Under Progressive Information Disclosure",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-05-31T13:25:41.687366+03:00",
+    "score": 32
   }
 ]
