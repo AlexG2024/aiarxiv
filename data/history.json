@@ -1518,5 +1518,13 @@
     "practicality": "high",
     "published_at": "2026-06-01T19:18:54.987498+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2605.30207v1",
+    "title": "Persona Conditioning of Brand Recommendations in Retrieval-Augmented Commercial Chat: A Prominence-Stratified Cross-Provider Audit",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-01T23:38:35.870679+03:00",
+    "score": 28
   }
 ]
