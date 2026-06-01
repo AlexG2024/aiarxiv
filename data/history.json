@@ -1510,5 +1510,13 @@
     "practicality": "high",
     "published_at": "2026-06-01T13:15:20.164752+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.30168v1",
+    "title": "OmniCD: A Foundational Framework for Remote Sensing Image Change Detection Guided by Multimodal Semantics",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-01T19:18:54.987498+03:00",
+    "score": 28
   }
 ]
