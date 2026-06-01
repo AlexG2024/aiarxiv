@@ -1502,5 +1502,13 @@
     "practicality": "high",
     "published_at": "2026-05-31T22:08:30.266597+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2605.29829v1",
+    "title": "OptSkills: Learning Generalizable Optimization Skills from Problem Archetypes via Cluster-Based Distillation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-01T13:15:20.164752+03:00",
+    "score": 29
   }
 ]
