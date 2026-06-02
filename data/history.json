@@ -1558,5 +1558,13 @@
     "practicality": "high",
     "published_at": "2026-06-02T23:22:33.292628+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.02080v1",
+    "title": "Agentic-J: An AI Agent for Biological Microscopy Image Analysis",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-06-02T23:40:40.723905+03:00",
+    "score": 41
   }
 ]
