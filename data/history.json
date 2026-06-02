@@ -1526,5 +1526,13 @@
     "practicality": "high",
     "published_at": "2026-06-01T23:38:35.870679+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2606.01961v1",
+    "title": "AutoMedBench: Towards Medical AutoResearch with Agentic AI Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-02T12:04:01.465716+03:00",
+    "score": 48
   }
 ]
