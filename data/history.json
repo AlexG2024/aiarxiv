@@ -1542,5 +1542,13 @@
     "practicality": "high",
     "published_at": "2026-06-02T15:50:13.614142+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2606.02320v1",
+    "title": "TVIR: Building Deep Research Agents Towards Text--Visual Interleaved Report Generation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-02T20:18:08.111346+03:00",
+    "score": 44
   }
 ]
