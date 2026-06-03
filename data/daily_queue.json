@@ -1,6 +1,127 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-06-04T08:10:00+03:00",
+      "arxiv_id": "2606.03635v1",
+      "title": "VidMsg: A Benchmark for Implicit Message Inference in Short Videos",
+      "theme": "AI для видео",
+      "score": 53,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>VidMsg: A Benchmark for Implicit Message Inference in Short Videos</i>\n\nВ центре статьи систему, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Issar Tzachor и еще 2 | Computer Vision, Artificial Intelligence | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03635v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03635v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-06-04T09:10:00+03:00",
+      "arxiv_id": "2606.03641v1",
+      "title": "Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency",
+      "theme": "AI в медицине",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: оценка симптомов</b>\n<i>Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency</i>\n\nВ центре статьи систему, который помогает AI лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Qi Han Wong | Artificial Intelligence, cs.CY | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03641v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03641v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-06-04T10:10:00+03:00",
+      "arxiv_id": "2606.03250v1",
+      "title": "The Word and the Way: Strategies for Domain-Specific BERT Pre-Training in German Medical NLP",
+      "theme": "AI в медицине",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>The Word and the Way: Strategies for Domain-Specific BERT Pre-Training in German Medical NLP</i>\n\nАвторы представили архитектуру, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Henry He и еще 2 | Natural Language Processing | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03250v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03250v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-06-04T11:10:00+03:00",
+      "arxiv_id": "2606.03920v1",
+      "title": "Benchmarking Visual State Tracking in Multimodal Video Understanding",
+      "theme": "multimodal AI",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Benchmarking Visual State Tracking in Multimodal Video Understanding</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Sihyun Yu и еще 10 | Computer Vision | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03920v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03920v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-06-04T12:10:00+03:00",
+      "arxiv_id": "2606.03698v1",
+      "title": "Multi$^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments",
+      "theme": "AI-агенты",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Multi$^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sangeun Park, Minhae Kwon | Machine Learning | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03698v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03698v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-06-04T13:10:00+03:00",
+      "arxiv_id": "2606.03629v1",
+      "title": "TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning",
+      "theme": "AI-агенты",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning</i>\n\nВ центре статьи AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Shunyu Wu и еще 8 | Artificial Intelligence | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03629v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03629v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-06-04T14:10:00+03:00",
+      "arxiv_id": "2606.03540v1",
+      "title": "Attend to Anything: Foundation Model for Unified Human Attention Modeling",
+      "theme": "multimodal AI",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Attend to Anything: Foundation Model for Unified Human Attention Modeling</i>\n\nРабота описывает модель, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Wenzhuo Zhao и еще 3 | Computer Vision | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03540v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03540v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-06-04T15:10:00+03:00",
+      "arxiv_id": "2606.03626v1",
+      "title": "TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics",
+      "theme": "multimodal AI",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>TurtleAI: Benchmarking Multimodal Models for Visual Programming in Turtle Graphics</i>\n\nВ центре статьи модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Chao Wen и еще 2 | Computer Vision, Artificial Intelligence, cs.CY | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03626v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03626v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-06-04T16:10:00+03:00",
+      "arxiv_id": "2606.03399v1",
+      "title": "Selective Token-Level Cryptographic Redaction for Privacy-Preserving Clinical Deployment of Large Language Models",
+      "theme": "AI в медицине",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>Selective Token-Level Cryptographic Redaction for Privacy-Preserving Clinical Deployment of Large Language Models</i>\n\nРабота описывает фреймворк, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Farhan Sheth и еще 3 | Natural Language Processing, Security | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03399v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03399v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-06-04T17:10:00+03:00",
+      "arxiv_id": "2606.03895v1",
+      "title": "Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: работа с изображениями</b>\n<i>Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents</i>\n\nАвторы представили AI-ассистента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yingqi Zhang | cs.OS, Artificial Intelligence, Security | 02.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.03895v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.03895v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
