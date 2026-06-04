@@ -1574,5 +1574,13 @@
     "practicality": "high",
     "published_at": "2026-06-04T11:44:52.059623+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2606.03641v1",
+    "title": "Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-04T14:40:07.967592+03:00",
+    "score": 41
   }
 ]
