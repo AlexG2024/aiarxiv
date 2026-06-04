@@ -1590,5 +1590,13 @@
     "practicality": "high",
     "published_at": "2026-06-04T17:20:18.311426+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.03920v1",
+    "title": "Benchmarking Visual State Tracking in Multimodal Video Understanding",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-04T20:28:06.573745+03:00",
+    "score": 38
   }
 ]
