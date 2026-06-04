@@ -1582,5 +1582,13 @@
     "practicality": "high",
     "published_at": "2026-06-04T14:40:07.967592+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.03250v1",
+    "title": "The Word and the Way: Strategies for Domain-Specific BERT Pre-Training in German Medical NLP",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-04T17:20:18.311426+03:00",
+    "score": 39
   }
 ]
