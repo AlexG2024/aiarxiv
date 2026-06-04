@@ -1606,5 +1606,13 @@
     "practicality": "high",
     "published_at": "2026-06-04T22:36:45.711108+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2606.03629v1",
+    "title": "TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-04T22:58:47.729873+03:00",
+    "score": 36
   }
 ]
