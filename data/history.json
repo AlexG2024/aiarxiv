@@ -1598,5 +1598,13 @@
     "practicality": "high",
     "published_at": "2026-06-04T20:28:06.573745+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.03698v1",
+    "title": "Multi$^2$: Hierarchical Multi-Agent Decision-Making with LLM-Based Agents in Interactive Environments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-04T22:36:45.711108+03:00",
+    "score": 36
   }
 ]
