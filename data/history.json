@@ -1566,5 +1566,13 @@
     "practicality": "high",
     "published_at": "2026-06-02T23:40:40.723905+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.03635v1",
+    "title": "VidMsg: A Benchmark for Implicit Message Inference in Short Videos",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-04T11:44:52.059623+03:00",
+    "score": 53
   }
 ]
