@@ -48,8 +48,8 @@
       "score": 39,
       "practicality": "high",
       "post_html": "<b>Multimodal AI: поиск и отбор данных</b>\n<i>To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection</i>\n\nРабота описывает фреймворк, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Erfan Loweimi и еще 9 | Natural Language Processing, Artificial Intelligence, Computer Vision | 04.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.05931v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.05931v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-06-06T15:45:06.030559+03:00"
     },
     {
       "slot": 5,

@@ -1638,5 +1638,13 @@
     "practicality": "high",
     "published_at": "2026-06-06T14:12:38.592262+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2606.05931v1",
+    "title": "To Be Multimodal or Not to Be: Query-Adaptive Audio-Visual Person Retrieval via Active Modality Detection",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-06T15:45:06.030559+03:00",
+    "score": 39
   }
 ]
