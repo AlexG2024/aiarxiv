@@ -1630,5 +1630,13 @@
     "practicality": "high",
     "published_at": "2026-06-06T12:48:53.609395+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2606.05901v1",
+    "title": "Reducing Hallucinations in Complex Question Answering using Simple Graph-based Retrieval-Augmented Generation (long version)",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-06T14:12:38.592262+03:00",
+    "score": 43
   }
 ]
