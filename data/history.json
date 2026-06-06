@@ -1622,5 +1622,13 @@
     "practicality": "high",
     "published_at": "2026-06-06T10:43:26.286699+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2606.06212v1",
+    "title": "Evaluating Agentic Configuration Repair for Computer Networks",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-06T12:48:53.609395+03:00",
+    "score": 43
   }
 ]
