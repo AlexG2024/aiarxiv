@@ -1678,5 +1678,13 @@
     "practicality": "high",
     "published_at": "2026-06-06T21:02:38.738582+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.06399v1",
+    "title": "CollabSim: A CSCW-Grounded Methodology for Investigating Collaborative Competence of LLM Agents through Controlled Multi-Agent Experiments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-06T22:13:28.361101+03:00",
+    "score": 34
   }
 ]
