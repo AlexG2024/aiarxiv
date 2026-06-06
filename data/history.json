@@ -1646,5 +1646,13 @@
     "practicality": "high",
     "published_at": "2026-06-06T15:45:06.030559+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.06473v1",
+    "title": "MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-06T17:20:31.532456+03:00",
+    "score": 39
   }
 ]
