@@ -1742,5 +1742,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T21:11:27.699337+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.05833v1",
+    "title": "Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-07T22:14:16.069814+03:00",
+    "score": 31
   }
 ]
