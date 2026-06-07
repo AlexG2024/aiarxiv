@@ -1726,5 +1726,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T18:49:45.790971+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.05843v1",
+    "title": "Mechanistic Insights into Functional Sparsity in Multimodal LLMs via CoRe Heads",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-07T19:59:50.508039+03:00",
+    "score": 32
   }
 ]
