@@ -1702,5 +1702,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T13:40:05.920802+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.06055v1",
+    "title": "When Should Memory Stay Silent: Measuring Memory-Use Boundaries in Memory-Augmented Conversational Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-07T15:11:51.319459+03:00",
+    "score": 33
   }
 ]
