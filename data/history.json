@@ -1734,5 +1734,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T19:59:50.508039+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.06448v1",
+    "title": "Agent Memory: Characterization and System Implications of Stateful Long-Horizon Workloads",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-07T21:11:27.699337+03:00",
+    "score": 31
   }
 ]
