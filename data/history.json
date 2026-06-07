@@ -1694,5 +1694,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T11:21:36.615562+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.06025v1",
+    "title": "EGTR-Review: Efficient Evidence-Grounded Scientific Peer Review Generation via Multi-Agent Teacher Distillation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-07T13:40:05.920802+03:00",
+    "score": 34
   }
 ]
