@@ -1710,5 +1710,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T15:11:51.319459+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2606.05949v1",
+    "title": "Faithful, Enriched, and Precise: Benchmarking Natural-Science Illustration Generation by T2I models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-07T17:22:02.961476+03:00",
+    "score": 33
   }
 ]
