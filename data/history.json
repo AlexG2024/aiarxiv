@@ -1750,5 +1750,13 @@
     "practicality": "high",
     "published_at": "2026-06-07T22:14:16.069814+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.05784v1",
+    "title": "TAPO: Tool-Aware Policy Optimization via Credit Transfer for Multimodal Search Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-08T12:20:20.494325+03:00",
+    "score": 30
   }
 ]
