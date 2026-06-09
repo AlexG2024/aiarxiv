@@ -1830,5 +1830,13 @@
     "practicality": "high",
     "published_at": "2026-06-09T22:01:10.731604+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.07237v1",
+    "title": "When Large Language Models Fail in Healthcare: Evaluating Sensitivity to Prompt Variations",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-09T23:02:03.334432+03:00",
+    "score": 40
   }
 ]
