@@ -1806,5 +1806,13 @@
     "practicality": "high",
     "published_at": "2026-06-09T14:41:09.667954+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2606.07512v1",
+    "title": "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-09T17:07:50.307543+03:00",
+    "score": 47
   }
 ]
