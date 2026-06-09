@@ -1790,5 +1790,13 @@
     "practicality": "high",
     "published_at": "2026-06-08T23:07:22.854959+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2606.06869v1",
+    "title": "Evidence-Based Intelligent Diagnostic and Therapeutic Visualization System with Large Language Models: Multi-Turn Interaction and Multimodal Treatment Plan Generation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-09T11:28:55.101793+03:00",
+    "score": 54
   }
 ]
