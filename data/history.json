@@ -1798,5 +1798,13 @@
     "practicality": "high",
     "published_at": "2026-06-09T11:28:55.101793+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2606.07433v1",
+    "title": "Watch, Remember, Reason: Human-View Video Understanding with MLLMs",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-09T14:41:09.667954+03:00",
+    "score": 53
   }
 ]
