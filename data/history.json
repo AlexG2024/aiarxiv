@@ -1814,5 +1814,13 @@
     "practicality": "high",
     "published_at": "2026-06-09T17:07:50.307543+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2606.07342v1",
+    "title": "LLM-Guided Evolution for Medical Decision Pipelines",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-09T19:44:32.478737+03:00",
+    "score": 44
   }
 ]
