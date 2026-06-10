@@ -1870,5 +1870,13 @@
     "practicality": "high",
     "published_at": "2026-06-10T21:39:01.190508+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2606.09489v1",
+    "title": "LLM-Orchestrated Conformance Checking in Stroke Care Without Computer-Interpretable Guidelines",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-10T23:22:43.788418+03:00",
+    "score": 42
   }
 ]
