@@ -1854,5 +1854,13 @@
     "practicality": "high",
     "published_at": "2026-06-10T15:03:08.849551+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2606.09547v1",
+    "title": "Streaming Interventions: Can Video Large Language Models Correct Mistakes as They Occur?",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-10T19:02:46.347797+03:00",
+    "score": 46
   }
 ]
