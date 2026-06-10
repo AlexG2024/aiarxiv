@@ -1838,5 +1838,13 @@
     "practicality": "high",
     "published_at": "2026-06-09T23:02:03.334432+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.09632v1",
+    "title": "Civil Court Simulation with Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-10T11:45:08.950704+03:00",
+    "score": 47
   }
 ]
