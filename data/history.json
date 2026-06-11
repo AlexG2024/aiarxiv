@@ -1902,5 +1902,13 @@
     "practicality": "high",
     "published_at": "2026-06-11T19:49:57.282401+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.10742v1",
+    "title": "MemVenom: Triggered Poisoning of Multimodal Memories in Web Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-11T22:26:56.726697+03:00",
+    "score": 38
   }
 ]
