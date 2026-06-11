@@ -1910,5 +1910,13 @@
     "practicality": "high",
     "published_at": "2026-06-11T22:26:56.726697+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.10694v1",
+    "title": "REAL: A Reasoning-Enhanced Graph Framework for Long-Term Memory Management of LLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-11T23:13:56.579063+03:00",
+    "score": 38
   }
 ]
