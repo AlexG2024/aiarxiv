@@ -1886,5 +1886,13 @@
     "practicality": "high",
     "published_at": "2026-06-11T12:10:22.465998+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2606.11150v1",
+    "title": "ABC-Bench: An Agentic Bio-Capabilities Benchmark for Biosecurity",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-06-11T15:55:16.287507+03:00",
+    "score": 43
   }
 ]
