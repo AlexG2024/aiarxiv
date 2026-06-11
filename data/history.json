@@ -1878,5 +1878,13 @@
     "practicality": "high",
     "published_at": "2026-06-10T23:22:43.788418+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.11070v1",
+    "title": "T1-Bench: Benchmarking Multi-Scenario Agents in Real-World Domains",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-11T12:10:22.465998+03:00",
+    "score": 54
   }
 ]
