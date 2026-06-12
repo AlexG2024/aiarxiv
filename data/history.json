@@ -1942,5 +1942,13 @@
     "practicality": "high",
     "published_at": "2026-06-12T18:42:41.324876+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2606.12294v1",
+    "title": "Bridging the Modality Gap in Forensic Image Retrieval",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-06-12T20:53:47.124550+03:00",
+    "score": 44
   }
 ]
