@@ -1934,5 +1934,13 @@
     "practicality": "high",
     "published_at": "2026-06-12T15:15:03.545540+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2606.12291v1",
+    "title": "Measuring Epistemic Resilience of LLMs Under Misleading Medical Context",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-12T18:42:41.324876+03:00",
+    "score": 46
   }
 ]
