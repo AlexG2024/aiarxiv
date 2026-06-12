@@ -1950,5 +1950,13 @@
     "practicality": "high",
     "published_at": "2026-06-12T20:53:47.124550+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.11762v1",
+    "title": "Automated Creativity Evaluation of Language Models Across Open-Ended Tasks",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-12T23:02:58.774808+03:00",
+    "score": 41
   }
 ]
