@@ -1926,5 +1926,13 @@
     "practicality": "high",
     "published_at": "2026-06-12T11:55:08.776601+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2606.12191v1",
+    "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-12T15:15:03.545540+03:00",
+    "score": 46
   }
 ]
