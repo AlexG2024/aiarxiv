@@ -2006,5 +2006,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T20:42:03.980085+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.12871v1",
+    "title": "DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-13T21:58:41.158039+03:00",
+    "score": 42
   }
 ]
