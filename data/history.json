@@ -1998,5 +1998,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T19:02:06.442173+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.13220v1",
+    "title": "LLM-as-an-Investigator: Evidence-First Reasoning for Robust Interactive Problem Diagnosis",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-13T20:42:03.980085+03:00",
+    "score": 44
   }
 ]
