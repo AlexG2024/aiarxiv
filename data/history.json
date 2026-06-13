@@ -1990,5 +1990,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T17:30:48.508814+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2606.13669v1",
+    "title": "Agents-K1: Towards Agent-native Knowledge Orchestration",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-13T19:02:06.442173+03:00",
+    "score": 44
   }
 ]
