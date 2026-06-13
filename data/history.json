@@ -1974,5 +1974,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T13:41:01.494881+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2606.13148v1",
+    "title": "TerraBench: Can Agents Reason Over Heterogeneous Earth-System Data?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-13T15:17:04.366036+03:00",
+    "score": 51
   }
 ]
