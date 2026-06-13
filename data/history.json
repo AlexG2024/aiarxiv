@@ -2014,5 +2014,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T21:58:41.158039+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.13262v1",
+    "title": "From Verdict to Process: Agentic Reinforcement Learning for Multi-Stage Fact Verification",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-13T22:17:23.197552+03:00",
+    "score": 40
   }
 ]
