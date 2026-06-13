@@ -1958,5 +1958,13 @@
     "practicality": "high",
     "published_at": "2026-06-12T23:02:58.774808+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.13572v1",
+    "title": "ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-13T11:18:19.538265+03:00",
+    "score": 56
   }
 ]
