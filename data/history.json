@@ -1966,5 +1966,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T11:18:19.538265+03:00",
     "score": 56
+  },
+  {
+    "arxiv_id": "2606.13192v1",
+    "title": "Reasoning for Mobile User Experience with Multimodal LLMs: Task, Benchmark, and Approach",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-13T13:41:01.494881+03:00",
+    "score": 52
   }
 ]
