@@ -2070,5 +2070,13 @@
     "practicality": "high",
     "published_at": "2026-06-14T21:03:24.961547+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.13115v1",
+    "title": "G-Long: Graph-Enhanced Memory Management for Efficient Long-Term Dialogue Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-14T22:18:18.770589+03:00",
+    "score": 34
   }
 ]
