@@ -2046,5 +2046,13 @@
     "practicality": "high",
     "published_at": "2026-06-14T16:06:56.125326+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.13535v1",
+    "title": "AgentRivet: an automated system for producing Rivet routines from journal publications",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-14T18:15:46.530756+03:00",
+    "score": 35
   }
 ]
