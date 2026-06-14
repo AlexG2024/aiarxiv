@@ -2054,5 +2054,13 @@
     "practicality": "high",
     "published_at": "2026-06-14T18:15:46.530756+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2606.12988v1",
+    "title": "A Machine Learning Framework for Real-Time Personalized Ergonomic Pose Analysis",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-06-14T19:48:03.143233+03:00",
+    "score": 35
   }
 ]
