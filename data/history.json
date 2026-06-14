@@ -2022,5 +2022,13 @@
     "practicality": "high",
     "published_at": "2026-06-13T22:17:23.197552+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.13392v1",
+    "title": "MiniMax Sparse Attention",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-14T11:38:20.806463+03:00",
+    "score": 39
   }
 ]
