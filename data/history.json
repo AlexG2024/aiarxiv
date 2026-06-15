@@ -2102,5 +2102,13 @@
     "practicality": "high",
     "published_at": "2026-06-15T22:57:17.969132+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.12854v1",
+    "title": "Small LLMs for Biomedical Claim Verification: Cost-Effective Fine-Tuning, Structural Dataset Shortcuts, and Cross-Domain Generalization",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-15T23:50:11.001104+03:00",
+    "score": 32
   }
 ]
