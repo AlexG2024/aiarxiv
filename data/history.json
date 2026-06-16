@@ -2118,5 +2118,13 @@
     "practicality": "high",
     "published_at": "2026-06-16T13:03:46.374353+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2606.14470v1",
+    "title": "GitOfThoughts: Version-Controlled Reasoning and Agent Memory You Can Replay, Diff, and Merge",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-16T18:21:55.718988+03:00",
+    "score": 43
   }
 ]
