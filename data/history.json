@@ -2126,5 +2126,13 @@
     "practicality": "high",
     "published_at": "2026-06-16T18:21:55.718988+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2606.14654v1",
+    "title": "Abstracting Cross-Domain Action Sequences into Interpretable Workflows",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-16T22:01:03.763877+03:00",
+    "score": 40
   }
 ]
