@@ -2134,5 +2134,13 @@
     "practicality": "high",
     "published_at": "2026-06-16T22:01:03.763877+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.14199v1",
+    "title": "OdysSim: Building Foundation Models for Human Behavior Simulation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-16T23:43:46.838466+03:00",
+    "score": 40
   }
 ]
