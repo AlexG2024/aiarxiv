@@ -2150,5 +2150,13 @@
     "practicality": "high",
     "published_at": "2026-06-17T12:27:14.137809+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.16295v1",
+    "title": "VisualClaw: A Real-Time, Personalized Agent for the Physical World",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-17T16:00:25.961509+03:00",
+    "score": 43
   }
 ]
