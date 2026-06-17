@@ -2174,5 +2174,13 @@
     "practicality": "high",
     "published_at": "2026-06-17T22:13:39.277976+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.16902v1",
+    "title": "Binary Tracking for Spatial QA and Navigation with Open Vision-Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-17T23:06:45.718794+03:00",
+    "score": 40
   }
 ]
