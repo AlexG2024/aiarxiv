@@ -2142,5 +2142,13 @@
     "practicality": "high",
     "published_at": "2026-06-16T23:43:46.838466+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.17053v1",
+    "title": "Context-Aware RL for Agentic and Multimodal LLMs",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-17T12:27:14.137809+03:00",
+    "score": 44
   }
 ]
