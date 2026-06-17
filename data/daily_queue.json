@@ -36,8 +36,8 @@
       "score": 41,
       "practicality": "high",
       "post_html": "<b>AI-агент: поиск информации</b>\n<i>LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jaward Sesay и еще 5 | Natural Language Processing, Artificial Intelligence, Human-Computer Interaction | 15.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.16428v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.16428v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-06-17T19:42:08.517047+03:00"
     },
     {
       "slot": 4,

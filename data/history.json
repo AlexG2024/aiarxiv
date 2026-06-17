@@ -2158,5 +2158,13 @@
     "practicality": "high",
     "published_at": "2026-06-17T16:00:25.961509+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2606.16428v1",
+    "title": "LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-17T19:42:08.517047+03:00",
+    "score": 41
   }
 ]
