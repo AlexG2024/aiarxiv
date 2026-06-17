@@ -2166,5 +2166,13 @@
     "practicality": "high",
     "published_at": "2026-06-17T19:42:08.517047+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2606.16562v1",
+    "title": "MIRAGE: Auditing Anti-Muslim Bias in Frontier LLMs Across Reasoning, Agentic, and Time-Coupled Conditions",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-17T22:13:39.277976+03:00",
+    "score": 41
   }
 ]
