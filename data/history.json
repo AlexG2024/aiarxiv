@@ -2206,5 +2206,13 @@
     "practicality": "high",
     "published_at": "2026-06-18T19:03:22.082750+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2606.18037v1",
+    "title": "ProvenanceGuard: Source-Aware Factuality Verification for MCP-Based LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-18T21:33:32.987206+03:00",
+    "score": 44
   }
 ]
