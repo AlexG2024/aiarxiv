@@ -2214,5 +2214,13 @@
     "practicality": "high",
     "published_at": "2026-06-18T21:33:32.987206+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.17598v1",
+    "title": "MuseVLA: An Adaptive Multimodal Sensing Vision-Language-Action Model for Robotic Manipulation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-18T23:18:02.515894+03:00",
+    "score": 44
   }
 ]
