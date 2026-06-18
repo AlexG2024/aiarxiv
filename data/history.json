@@ -2198,5 +2198,13 @@
     "practicality": "high",
     "published_at": "2026-06-18T15:31:46.324621+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2606.18147v1",
+    "title": "WEQA: Wearable hEalth Question Answering with Query-Adaptive Agentic Reasoning",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-18T19:03:22.082750+03:00",
+    "score": 48
   }
 ]
