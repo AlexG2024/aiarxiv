@@ -2246,5 +2246,13 @@
     "practicality": "high",
     "published_at": "2026-06-19T19:08:24.479343+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2606.19062v1",
+    "title": "DREAM: Extending Vision-Language Models with Dual-Objective Encoding for Cross-Modal Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-19T21:06:01.579160+03:00",
+    "score": 44
   }
 ]
