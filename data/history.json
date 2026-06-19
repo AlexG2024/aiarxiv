@@ -2238,5 +2238,13 @@
     "practicality": "high",
     "published_at": "2026-06-19T15:58:16.107569+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2606.18613v1",
+    "title": "Are LLMs Ready to Assist Physicians? PhysAssistBench for Interactive Doctor-Patient-EHR Assistance",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-19T19:08:24.479343+03:00",
+    "score": 45
   }
 ]
