@@ -2254,5 +2254,13 @@
     "practicality": "high",
     "published_at": "2026-06-19T21:06:01.579160+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.18831v1",
+    "title": "Beyond Reward Engineering: A Data Recipe for Long-Context Reinforcement Learning",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-19T22:42:04.576318+03:00",
+    "score": 38
   }
 ]
