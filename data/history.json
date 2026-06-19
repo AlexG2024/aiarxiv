@@ -2230,5 +2230,13 @@
     "practicality": "high",
     "published_at": "2026-06-19T12:26:16.280172+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2606.19336v1",
+    "title": "Learning User Simulators with Turing Rewards",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-19T15:58:16.107569+03:00",
+    "score": 49
   }
 ]
