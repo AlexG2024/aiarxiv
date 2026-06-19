@@ -2222,5 +2222,13 @@
     "practicality": "high",
     "published_at": "2026-06-18T23:18:02.515894+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.18829v1",
+    "title": "GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-19T12:26:16.280172+03:00",
+    "score": 51
   }
 ]
