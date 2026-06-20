@@ -2302,5 +2302,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T19:03:58.353175+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.19812v1",
+    "title": "Human-on-the-Loop Orchestration for AI-Assisted Legal Discovery",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-20T20:42:53.999205+03:00",
+    "score": 38
   }
 ]
