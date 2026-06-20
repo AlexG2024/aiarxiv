@@ -2278,5 +2278,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T13:43:02.217030+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.19911v1",
+    "title": "Multi-Agent Transactive Memory",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-20T15:19:39.983992+03:00",
+    "score": 42
   }
 ]
