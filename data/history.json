@@ -2262,5 +2262,13 @@
     "practicality": "high",
     "published_at": "2026-06-19T22:42:04.576318+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.20164v1",
+    "title": "MedRLM: Recursive Multimodal Health Intelligence for Long-Context Clinical Reasoning, Sensor-Guided Screening, Evidence-Grounded Decision Support, and Community-to-Tertiary Referral Optimization",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-20T11:18:51.434415+03:00",
+    "score": 73
   }
 ]
