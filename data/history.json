@@ -2318,5 +2318,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T22:00:14.432479+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.20235v1",
+    "title": "ScholarQuest: A Taxonomy-Guided Benchmark for Agentic Academic Paper Search in Open Literature Environments",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-20T22:17:14.874614+03:00",
+    "score": 35
   }
 ]
