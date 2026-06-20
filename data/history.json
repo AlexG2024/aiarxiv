@@ -2286,5 +2286,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T15:19:39.983992+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.19950v1",
+    "title": "Confidence Calibration for Multimodal LLMs: An Empirical Study through Medical VQA",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-20T17:35:34.203576+03:00",
+    "score": 39
   }
 ]
