@@ -2270,5 +2270,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T11:18:51.434415+03:00",
     "score": 73
+  },
+  {
+    "arxiv_id": "2606.20209v1",
+    "title": "FlowMaps: Modeling Long-Term Multimodal Object Dynamics with Flow Matching",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-20T13:43:02.217030+03:00",
+    "score": 42
   }
 ]
