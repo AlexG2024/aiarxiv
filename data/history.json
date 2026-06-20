@@ -2310,5 +2310,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T20:42:53.999205+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.19787v1",
+    "title": "ORAgentBench: Can LLM Agents Solve Challenging Operations Research Tasks End to End?",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-20T22:00:14.432479+03:00",
+    "score": 38
   }
 ]
