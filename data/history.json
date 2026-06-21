@@ -2358,5 +2358,13 @@
     "practicality": "high",
     "published_at": "2026-06-21T18:25:01.000168+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.20041v1",
+    "title": "AI Economist Agent: An Agentic Framework for Model-Grounded Economic Analysis with RAG, Knowledge Graphs, and Large Language Models",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-21T20:02:00.964430+03:00",
+    "score": 32
   }
 ]
