@@ -2326,5 +2326,13 @@
     "practicality": "high",
     "published_at": "2026-06-20T22:17:14.874614+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2606.19980v1",
+    "title": "ENPIRE: Agentic Robot Policy Self-Improvement in the Real World",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-21T11:55:15.026680+03:00",
+    "score": 33
   }
 ]
