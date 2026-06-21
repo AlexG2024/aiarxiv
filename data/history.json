@@ -2350,5 +2350,13 @@
     "practicality": "high",
     "published_at": "2026-06-21T16:26:34.541192+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.20122v1",
+    "title": "ScaffoldAgent: Utility-Guided Dynamic Outline Optimization for Open-Ended Deep Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-21T18:25:01.000168+03:00",
+    "score": 32
   }
 ]
