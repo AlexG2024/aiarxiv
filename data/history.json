@@ -2342,5 +2342,13 @@
     "practicality": "high",
     "published_at": "2026-06-21T14:42:18.120152+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2606.19992v1",
+    "title": "Beyond Static Endpoints: Tool Programs as an Interface for Flexible Agentic Web Services",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-21T16:26:34.541192+03:00",
+    "score": 32
   }
 ]
