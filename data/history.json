@@ -2398,5 +2398,13 @@
     "practicality": "high",
     "published_at": "2026-06-22T18:36:53.304078+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.20210v1",
+    "title": "Augmenting Game AI with Deep Reinforcement Learning",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-22T21:58:39.102391+03:00",
+    "score": 31
   }
 ]
