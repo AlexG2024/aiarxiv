@@ -1,59 +1,11 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-06-22T08:10:00+03:00",
-      "arxiv_id": "2606.20373v1",
-      "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
-      "theme": "AI-агенты",
-      "score": 32,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: поиск информации</b>\n<i>AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Zepeng Li и еще 4 | Software Engineering, Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20373v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20373v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-06-22T13:34:42.872664+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-06-22T09:10:00+03:00",
-      "arxiv_id": "2606.20245v1",
-      "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
-      "theme": "языковые модели",
-      "score": 32,
-      "practicality": "high",
-      "post_html": "<b>Языковые модели: поиск и отбор данных</b>\n<i>Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference</i>\n\nАвторы представили AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Huang Peng и еще 4 | Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20245v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20245v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-06-22T18:36:53.304078+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-06-22T10:10:00+03:00",
-      "arxiv_id": "2606.20210v1",
-      "title": "Augmenting Game AI with Deep Reinforcement Learning",
-      "theme": "AI для видео",
-      "score": 31,
-      "practicality": "high",
-      "post_html": "<b>AI для видео: поиск информации</b>\n<i>Augmenting Game AI with Deep Reinforcement Learning</i>\n\nВ центре статьи AI-агента, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Alessandro Sestini и еще 5 | Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20210v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20210v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-06-22T21:58:39.102391+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-06-22T11:10:00+03:00",
-      "arxiv_id": "2606.20177v1",
-      "title": "Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs",
-      "theme": "языковые модели",
-      "score": 31,
-      "practicality": "high",
-      "post_html": "<b>Языковые модели: работа с несколькими типами данных</b>\n<i>Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs</i>\n\nВ центре статьи модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Haochen Han и еще 3 | Computer Vision, Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20177v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20177v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-06-22T23:38:24.863397+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-06-22T12:10:00+03:00",
+      "scheduled_time_iso": "2026-06-23T08:10:00+03:00",
       "arxiv_id": "2606.20014v1",
       "title": "Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution",
       "theme": "AI-агенты",
@@ -64,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 6,
-      "scheduled_time_iso": "2026-06-22T13:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-06-23T09:10:00+03:00",
       "arxiv_id": "2606.20143v1",
       "title": "HEad and neCK TumOR (HECKTOR) 2025: Benchmark of Segmentation, Diagnosis, and Prognosis in Multimodal PET/CT",
       "theme": "multimodal AI",
@@ -76,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-06-22T14:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-06-23T10:10:00+03:00",
       "arxiv_id": "2606.20280v1",
       "title": "ELVA: Exploring Ranking-Driven Universal Multimodal Retrieval",
       "theme": "multimodal AI",
@@ -88,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-06-22T15:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-06-23T11:10:00+03:00",
       "arxiv_id": "2606.19868v1",
       "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
       "theme": "языковые модели",
@@ -100,8 +52,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-06-22T16:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-06-23T12:10:00+03:00",
       "arxiv_id": "2606.20487v1",
       "title": "Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems",
       "theme": "AI-агенты",
@@ -112,14 +64,62 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-06-22T17:10:00+03:00",
+      "slot": 6,
+      "scheduled_time_iso": "2026-06-23T13:10:00+03:00",
       "arxiv_id": "2606.20388v1",
       "title": "DataMagic: Transforming Tabular Data into Data Insight Video",
       "theme": "AI для видео",
       "score": 29,
       "practicality": "high",
       "post_html": "<b>AI для видео: работа с видео</b>\n<i>DataMagic: Transforming Tabular Data into Data Insight Video</i>\n\nРабота описывает AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Yupeng Xie и еще 8 | Human-Computer Interaction, Artificial Intelligence, cs.DB | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20388v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20388v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-06-23T14:10:00+03:00",
+      "arxiv_id": "2606.19899v1",
+      "title": "Measuring Biological Capabilities and Risks of AI Agents",
+      "theme": "AI-агенты",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Measuring Biological Capabilities and Risks of AI Agents</i>\n\nРабота описывает AI-агента, который помогает AI лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Patricia Paskov и еще 3 | cs.CY, Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.19899v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.19899v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-06-23T15:10:00+03:00",
+      "arxiv_id": "2606.19852v1",
+      "title": "Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives",
+      "theme": "AI в медицине",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>Prompt, Plan, Extract: Zero-Shot Agentic LLMs Workflows for Lung Pathology Extraction from Clinical Narratives</i>\n\nАвторы представили AI-агента, который помогает AI надежнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может надежнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Aman Pathak и еще 10 | Natural Language Processing, Machine Learning | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.19852v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.19852v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-06-23T16:10:00+03:00",
+      "arxiv_id": "2606.20515v1",
+      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+      "theme": "AI-агенты",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence</i>\n\nАвторы представили AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yalun Dai и еще 12 | Computer Vision | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20515v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20515v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-06-23T17:10:00+03:00",
+      "arxiv_id": "2606.20045v1",
+      "title": "See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View",
+      "theme": "поиск и работа с информацией",
+      "score": 26,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>See-and-Reach: Precise Vision-Language Navigation for UAVs within the Field of View</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Fanfu Xue и еще 7 | Computer Vision, Artificial Intelligence | 18.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.20045v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.20045v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
