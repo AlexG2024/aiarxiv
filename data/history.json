@@ -2406,5 +2406,13 @@
     "practicality": "high",
     "published_at": "2026-06-22T21:58:39.102391+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.20177v1",
+    "title": "Evaluating and Enhancing Negation Comprehension in Remote Sensing MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-22T23:38:24.863397+03:00",
+    "score": 31
   }
 ]
