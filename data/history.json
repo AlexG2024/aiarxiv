@@ -2390,5 +2390,13 @@
     "practicality": "high",
     "published_at": "2026-06-22T13:34:42.872664+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.20245v1",
+    "title": "Navigating Unreliable Parametric and Contextual Knowledge: Explicit Knowledge Conflict Resolution for LLM Inference",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-22T18:36:53.304078+03:00",
+    "score": 32
   }
 ]
