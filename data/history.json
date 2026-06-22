@@ -2382,5 +2382,13 @@
     "practicality": "high",
     "published_at": "2026-06-21T22:22:59.598727+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.20373v1",
+    "title": "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-22T13:34:42.872664+03:00",
+    "score": 32
   }
 ]
