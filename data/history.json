@@ -2438,5 +2438,13 @@
     "practicality": "high",
     "published_at": "2026-06-23T17:03:32.206500+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2606.19868v1",
+    "title": "A Systematic Evaluation of Black-Box Uncertainty Estimation Methods for Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-23T19:36:50.713791+03:00",
+    "score": 30
   }
 ]
