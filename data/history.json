@@ -2446,5 +2446,13 @@
     "practicality": "high",
     "published_at": "2026-06-23T19:36:50.713791+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2606.20487v1",
+    "title": "Beyond Global Replanning: Hierarchical Recovery for Cross-Device Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-23T21:27:33.775524+03:00",
+    "score": 29
   }
 ]
