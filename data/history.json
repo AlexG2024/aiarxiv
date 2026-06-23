@@ -2414,5 +2414,13 @@
     "practicality": "high",
     "published_at": "2026-06-22T23:38:24.863397+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.20014v1",
+    "title": "Hierarchical Control in Multi-Agent Games: LLM-based Planning and RL Execution",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-23T11:26:23.243215+03:00",
+    "score": 31
   }
 ]
