@@ -2422,5 +2422,13 @@
     "practicality": "high",
     "published_at": "2026-06-23T11:26:23.243215+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.20143v1",
+    "title": "HEad and neCK TumOR (HECKTOR) 2025: Benchmark of Segmentation, Diagnosis, and Prognosis in Multimodal PET/CT",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-23T14:38:09.978338+03:00",
+    "score": 30
   }
 ]
