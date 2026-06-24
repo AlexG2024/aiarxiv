@@ -2494,5 +2494,13 @@
     "practicality": "high",
     "published_at": "2026-06-24T18:56:45.862786+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.22955v1",
+    "title": "Evo-RAD: Navigating Rare Retinal Disease Diagnosis via Self-Evolving Agentic Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-24T20:53:56.384576+03:00",
+    "score": 37
   }
 ]
