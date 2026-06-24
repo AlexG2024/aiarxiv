@@ -2502,5 +2502,13 @@
     "practicality": "high",
     "published_at": "2026-06-24T20:53:56.384576+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2606.23283v1",
+    "title": "Towards Root Memories: Benchmarking and Enhancing Implicit Logical Memory Retrieval for Personalized LLMs",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-24T22:38:39.699633+03:00",
+    "score": 37
   }
 ]
