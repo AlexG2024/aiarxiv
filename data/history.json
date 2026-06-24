@@ -2486,5 +2486,13 @@
     "practicality": "high",
     "published_at": "2026-06-24T16:34:19.809815+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.23581v1",
+    "title": "Kamera: Unified Position-Invariant Multimodal KV Cache for Training-Free Reuse",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-24T18:56:45.862786+03:00",
+    "score": 38
   }
 ]
