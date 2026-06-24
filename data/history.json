@@ -2478,5 +2478,13 @@
     "practicality": "high",
     "published_at": "2026-06-24T14:20:17.763095+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.23092v1",
+    "title": "PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-24T16:34:19.809815+03:00",
+    "score": 40
   }
 ]
