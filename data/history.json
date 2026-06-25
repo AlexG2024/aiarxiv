@@ -2510,5 +2510,13 @@
     "practicality": "high",
     "published_at": "2026-06-24T22:38:39.699633+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2606.24331v1",
+    "title": "Transformer-Based Language Models Across Domain Verticals: Architectures, Applications and Critical Assessment",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-25T11:19:35.224143+03:00",
+    "score": 47
   }
 ]
