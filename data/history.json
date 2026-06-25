@@ -2550,5 +2550,13 @@
     "practicality": "high",
     "published_at": "2026-06-25T21:19:17.516665+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.24286v1",
+    "title": "AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-06-25T22:51:21.650941+03:00",
+    "score": 38
   }
 ]
