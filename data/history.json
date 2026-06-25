@@ -2542,5 +2542,13 @@
     "practicality": "high",
     "published_at": "2026-06-25T18:59:36.651740+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.24112v1",
+    "title": "ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-25T21:19:17.516665+03:00",
+    "score": 38
   }
 ]
