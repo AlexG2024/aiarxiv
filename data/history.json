@@ -2534,5 +2534,13 @@
     "practicality": "high",
     "published_at": "2026-06-25T16:25:08.109354+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.24194v1",
+    "title": "Dialogue to Discovery: Attribute-Aware Preference Elicitation for Conversational Product Search Assistants",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-06-25T18:59:36.651740+03:00",
+    "score": 40
   }
 ]
