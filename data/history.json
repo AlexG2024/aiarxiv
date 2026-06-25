@@ -2526,5 +2526,13 @@
     "practicality": "high",
     "published_at": "2026-06-25T14:09:55.122569+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.24235v1",
+    "title": "SP-Mind: An Autonomous Reasoning Agent for Spatial Proteomics Analysis",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-25T16:25:08.109354+03:00",
+    "score": 40
   }
 ]
