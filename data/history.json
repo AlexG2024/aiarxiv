@@ -2606,5 +2606,13 @@
     "practicality": "high",
     "published_at": "2026-06-26T22:16:20.566177+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.25592v1",
+    "title": "VPA-Guard: Defending and Benchmarking Image-to-Video Generation Against Visual Prompt Attacks",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-06-26T22:41:01.701739+03:00",
+    "score": 35
   }
 ]
