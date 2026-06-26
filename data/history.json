@@ -2598,5 +2598,13 @@
     "practicality": "high",
     "published_at": "2026-06-26T20:22:31.077209+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.25338v1",
+    "title": "Hybrid-IR: Dual-Path Hybrid Retrieval with Iterative Reasoning for Complex Medical Question Answering",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-26T22:16:20.566177+03:00",
+    "score": 38
   }
 ]
