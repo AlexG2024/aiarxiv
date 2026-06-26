@@ -2558,5 +2558,13 @@
     "practicality": "high",
     "published_at": "2026-06-25T22:51:21.650941+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2606.25651v1",
+    "title": "MedGuards: Multi-Agent System for Reliable Medical Error Detection and Correction",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-26T11:27:28.680319+03:00",
+    "score": 57
   }
 ]
