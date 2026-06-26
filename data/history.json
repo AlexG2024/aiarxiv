@@ -2582,5 +2582,13 @@
     "practicality": "high",
     "published_at": "2026-06-26T16:27:25.881371+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2606.25533v1",
+    "title": "Security and Privacy in Retrieval-Augmented Generation: Architectures, Threats, Defenses, and Future Directions for Building Trustworthy Systems",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-06-26T18:39:19.143895+03:00",
+    "score": 38
   }
 ]
