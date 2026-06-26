@@ -2566,5 +2566,13 @@
     "practicality": "high",
     "published_at": "2026-06-26T11:27:28.680319+03:00",
     "score": 57
+  },
+  {
+    "arxiv_id": "2606.25763v1",
+    "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-26T14:23:13.841639+03:00",
+    "score": 43
   }
 ]
