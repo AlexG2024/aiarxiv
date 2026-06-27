@@ -2646,5 +2646,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T15:50:37.421135+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.27264v1",
+    "title": "CORTEX: A Structured Reasoning Benchmark for Trustworthy 3D Chest CT MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-27T17:25:29.838974+03:00",
+    "score": 39
   }
 ]
