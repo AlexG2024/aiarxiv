@@ -2622,5 +2622,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T10:45:29.855223+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2606.26793v1",
+    "title": "MIRROR: Novelty-Constrained Memory-Guided MCTS Red-Teaming for Agentic RAG",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-27T12:52:12.283751+03:00",
+    "score": 42
   }
 ]
