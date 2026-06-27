@@ -2630,5 +2630,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T12:52:12.283751+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.26654v1",
+    "title": "SocialPersona: Benchmarking Personalized Profiling and Response with Multimodal Social-Media Context",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-27T14:24:29.631922+03:00",
+    "score": 42
   }
 ]
