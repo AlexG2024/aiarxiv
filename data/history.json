@@ -2614,5 +2614,13 @@
     "practicality": "high",
     "published_at": "2026-06-26T22:41:01.701739+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2606.26627v1",
+    "title": "Agents That Know Too Much: A Data-Centric Survey of Privacy in LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-27T10:45:29.855223+03:00",
+    "score": 49
   }
 ]
