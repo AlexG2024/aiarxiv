@@ -48,8 +48,8 @@
       "score": 40,
       "practicality": "high",
       "post_html": "<b>AI-агент: работа с видео</b>\n<i>HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization</i>\n\nАвторы представили AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Kuangshi Ai и еще 2 | Human-Computer Interaction, Artificial Intelligence, cs.GR | 25.06.2026\n\n<a href=\"https://arxiv.org/abs/2606.26614v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2606.26614v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-06-27T15:50:37.421135+03:00"
     },
     {
       "slot": 5,

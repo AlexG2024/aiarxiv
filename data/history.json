@@ -2638,5 +2638,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T14:24:29.631922+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.26614v1",
+    "title": "HiLSVA: Design and Evaluation of a Human-in-the-Loop Agentic System for Scientific Visualization",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-27T15:50:37.421135+03:00",
+    "score": 40
   }
 ]
