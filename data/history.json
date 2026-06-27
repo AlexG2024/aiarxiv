@@ -2662,5 +2662,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T18:47:51.593280+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2606.27275v1",
+    "title": "How Surprising Is Historical Italian to Language Models? Tokenization Tax, Comprehension Tax, and a Simple Mitigation",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-06-27T19:50:02.545508+03:00",
+    "score": 34
   }
 ]
