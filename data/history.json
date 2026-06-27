@@ -2670,5 +2670,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T19:50:02.545508+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.26794v1",
+    "title": "ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-27T20:50:31.799200+03:00",
+    "score": 34
   }
 ]
