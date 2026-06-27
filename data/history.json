@@ -2678,5 +2678,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T20:50:31.799200+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2606.26758v1",
+    "title": "EGG: An Expert-Guided Agent Framework for Kernel Generation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-27T22:12:51.864656+03:00",
+    "score": 34
   }
 ]
