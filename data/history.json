@@ -2654,5 +2654,13 @@
     "practicality": "high",
     "published_at": "2026-06-27T17:25:29.838974+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.26552v1",
+    "title": "Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-06-27T18:47:51.593280+03:00",
+    "score": 35
   }
 ]
