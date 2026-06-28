@@ -2702,5 +2702,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T13:36:46.119078+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2606.26982v1",
+    "title": "Auditing Framing-Sensitive Behavioral Instability in Large Language Models for Mental Health Interactions",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-28T15:07:04.303358+03:00",
+    "score": 33
   }
 ]
