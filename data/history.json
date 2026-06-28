@@ -2726,5 +2726,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T18:41:46.592124+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.26602v1",
+    "title": "DiCoBench: Benchmarking Multi-Image Fine-Grained Perception via Differential and Commonality Visual Cues",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-06-28T19:49:21.528135+03:00",
+    "score": 31
   }
 ]
