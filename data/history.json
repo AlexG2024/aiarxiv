@@ -2710,5 +2710,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T15:07:04.303358+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2606.26647v1",
+    "title": "LayersReg: A Layer-by-Layer Progressive Regressor for Reliable Intraoperative 3D/2D Registration",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-28T17:12:21.046987+03:00",
+    "score": 31
   }
 ]
