@@ -2718,5 +2718,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T17:12:21.046987+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2606.26879v1",
+    "title": "A Pipeline for Generating Longitudinal Synthetic Clinical Notes Using Large Language Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-28T18:41:46.592124+03:00",
+    "score": 31
   }
 ]
