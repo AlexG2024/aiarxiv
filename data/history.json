@@ -2694,5 +2694,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T11:17:44.845764+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2606.27023v1",
+    "title": "Just how sure are you? Improving Verbalized Uncertainty Calibration in Medical VQA",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-06-28T13:36:46.119078+03:00",
+    "score": 33
   }
 ]
