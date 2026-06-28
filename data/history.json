@@ -2742,5 +2742,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T20:54:42.395930+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2606.26968v1",
+    "title": "RedVox: Safety and Fairness Gaps in Speech Models Across Languages",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-06-28T22:11:06.791609+03:00",
+    "score": 29
   }
 ]
