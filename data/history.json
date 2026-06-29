@@ -2758,5 +2758,13 @@
     "practicality": "high",
     "published_at": "2026-06-29T12:23:33.713489+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2606.26790v1",
+    "title": "OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-29T16:49:53.262327+03:00",
+    "score": 29
   }
 ]
