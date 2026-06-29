@@ -2750,5 +2750,13 @@
     "practicality": "high",
     "published_at": "2026-06-28T22:11:06.791609+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2606.26859v1",
+    "title": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-29T12:23:33.713489+03:00",
+    "score": 29
   }
 ]
