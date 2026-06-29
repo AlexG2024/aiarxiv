@@ -2774,5 +2774,13 @@
     "practicality": "high",
     "published_at": "2026-06-29T19:46:56.284671+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2606.27009v1",
+    "title": "Semantic Early-Stopping for Iterative LLM Agent Loops",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-29T21:53:39.743684+03:00",
+    "score": 28
   }
 ]
