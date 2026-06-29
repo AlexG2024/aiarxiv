@@ -2766,5 +2766,13 @@
     "practicality": "high",
     "published_at": "2026-06-29T16:49:53.262327+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2606.26518v1",
+    "title": "NeuraDock Visual Cognitive Load Agent Tutorial: A Quality-Gated Open-Source EEG Workflow for Alpha Dynamics and Real-Time Applications",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-06-29T19:46:56.284671+03:00",
+    "score": 28
   }
 ]
