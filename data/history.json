@@ -2814,5 +2814,13 @@
     "practicality": "high",
     "published_at": "2026-06-30T16:21:18.263129+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.28002v1",
+    "title": "Dialogue to Detection: A Multimodal Hybrid NLP Pipeline for Insurance Fraud Detection",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-30T19:01:24.018224+03:00",
+    "score": 39
   }
 ]
