@@ -2806,5 +2806,13 @@
     "practicality": "high",
     "published_at": "2026-06-30T14:26:10.761433+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2606.27974v1",
+    "title": "ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-06-30T16:21:18.263129+03:00",
+    "score": 44
   }
 ]
