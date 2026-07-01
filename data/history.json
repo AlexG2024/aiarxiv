@@ -2878,5 +2878,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T21:22:55.818779+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2606.30189v1",
+    "title": "DAIN: Dynamic Agent-Based Interaction Network for Efficient and Collaborative Multimodal Reasoning",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-01T22:45:57.126832+03:00",
+    "score": 32
   }
 ]
