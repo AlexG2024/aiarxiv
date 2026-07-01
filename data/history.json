@@ -2846,5 +2846,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T11:46:51.161172+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2606.30473v1",
+    "title": "Field Order Should Not Matter: Permutation-Invariant Embedding Model Fine-Tuning for Structured Metadata Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-01T14:46:06.944735+03:00",
+    "score": 44
   }
 ]
