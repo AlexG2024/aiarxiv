@@ -2838,5 +2838,13 @@
     "practicality": "high",
     "published_at": "2026-06-30T22:47:12.511744+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2606.30296v1",
+    "title": "ManimAgent: Self-Evolving Multimodal Agents for Visual Education",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-07-01T11:46:51.161172+03:00",
+    "score": 47
   }
 ]
