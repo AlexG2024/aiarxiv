@@ -2870,5 +2870,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T19:24:05.291492+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.30312v1",
+    "title": "DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-01T21:22:55.818779+03:00",
+    "score": 40
   }
 ]
