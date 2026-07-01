@@ -2854,5 +2854,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T14:46:06.944735+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2606.30246v1",
+    "title": "Clarus: Coordinating Autonomous Research Agents toward Web-Scale Scientific Collaboration",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-01T16:55:44.974037+03:00",
+    "score": 42
   }
 ]
