@@ -2862,5 +2862,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T16:55:44.974037+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2606.30378v1",
+    "title": "OmniCoT: A Benchmark for Global and Multi-Step Panoramic Reasoning",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-01T19:24:05.291492+03:00",
+    "score": 42
   }
 ]
