@@ -2886,5 +2886,13 @@
     "practicality": "high",
     "published_at": "2026-07-01T22:45:57.126832+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2606.31179v1",
+    "title": "HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-02T11:09:23.425747+03:00",
+    "score": 61
   }
 ]
