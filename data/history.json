@@ -2918,5 +2918,13 @@
     "practicality": "high",
     "published_at": "2026-07-02T18:11:09.220222+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.31825v1",
+    "title": "Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-02T20:02:00.329872+03:00",
+    "score": 39
   }
 ]
