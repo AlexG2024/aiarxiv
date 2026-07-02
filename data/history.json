@@ -2910,5 +2910,13 @@
     "practicality": "high",
     "published_at": "2026-07-02T15:54:12.351995+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2606.31209v1",
+    "title": "Long-term Traffic Simulation via Structured Autoregressive Modeling",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-02T18:11:09.220222+03:00",
+    "score": 39
   }
 ]
