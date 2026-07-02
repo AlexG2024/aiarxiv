@@ -2926,5 +2926,13 @@
     "practicality": "high",
     "published_at": "2026-07-02T20:02:00.329872+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.31916v1",
+    "title": "Theory of Mind and Persuasion Beyond Conversation: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-02T21:44:14.384039+03:00",
+    "score": 39
   }
 ]
