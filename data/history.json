@@ -2934,5 +2934,13 @@
     "practicality": "high",
     "published_at": "2026-07-02T21:44:14.384039+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2606.31966v1",
+    "title": "MECoBench: A Systematic Study of Multimodal Agent Collaboration in Embodied Environments",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-02T22:16:36.271305+03:00",
+    "score": 35
   }
 ]
