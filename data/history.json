@@ -2982,5 +2982,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T19:21:55.922175+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.00700v1",
+    "title": "LLVM-Bench: Benchmarking and Advancing Large Language Models for LLVM Compiler Issue Resolution",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-03T20:56:04.073545+03:00",
+    "score": 39
   }
 ]
