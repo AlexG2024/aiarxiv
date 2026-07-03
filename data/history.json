@@ -2958,5 +2958,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T13:41:13.898912+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.00339v1",
+    "title": "TRACE: State-Aware Query Processing over Temporal Evidence Graphs for Conversational Data",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-03T15:30:00.942006+03:00",
+    "score": 44
   }
 ]
