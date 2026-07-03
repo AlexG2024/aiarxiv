@@ -2950,5 +2950,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T10:58:24.972436+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2607.00989v1",
+    "title": "SenseWalk: Agent-Based Semantic Trajectory Simulation Powered by Large Language Models in Zoned Environments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-03T13:41:13.898912+03:00",
+    "score": 44
   }
 ]
