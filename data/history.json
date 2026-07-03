@@ -2990,5 +2990,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T20:56:04.073545+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.00446v1",
+    "title": "VideoSearch-R1: Iterative Video Retrieval and Reasoning via Soft Query Refinement",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-07-03T22:11:24.920896+03:00",
+    "score": 37
   }
 ]
