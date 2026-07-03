@@ -2966,5 +2966,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T15:30:00.942006+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.01115v1",
+    "title": "Towards Developing a Multimodal Chat Assistant for University Stakeholders: RAG-based Approach",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-03T17:53:59.641975+03:00",
+    "score": 43
   }
 ]
