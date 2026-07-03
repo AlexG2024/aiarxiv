@@ -2974,5 +2974,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T17:53:59.641975+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.00606v1",
+    "title": "Retrieved Images as Visual Thought: Training-Free Multimodal In-Context Learning for the Open-vs-Closed Gap",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-03T19:21:55.922175+03:00",
+    "score": 40
   }
 ]
