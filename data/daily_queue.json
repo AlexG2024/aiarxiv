@@ -12,8 +12,8 @@
       "score": 47,
       "practicality": "high",
       "post_html": "<b>AI-агент: медицинские сценарии</b>\n<i>Behavior-Adaptive Conversational Agents: Toward a Fluid Personality Framework</i>\n\nРабота описывает AI-ассистента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Hasibur Rahman, Smit Desai | Natural Language Processing, Artificial Intelligence, Human-Computer Interaction | 01.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.01034v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.01034v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-07-03T10:58:24.972436+03:00"
     },
     {
       "slot": 2,
