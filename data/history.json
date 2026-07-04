@@ -3062,5 +3062,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T20:39:47.912563+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.01916v1",
+    "title": "ContextSniper: AntTrail's Token-Efficient Code Memory for Repository-Level Program Repair",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-04T21:39:41.815556+03:00",
+    "score": 36
   }
 ]
