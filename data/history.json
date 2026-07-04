@@ -3046,5 +3046,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T18:34:40.153955+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.01935v1",
+    "title": "A-TMA: Decoupling State-Aware Memory Failures in Long-Term Agent Memory",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-04T19:36:30.995780+03:00",
+    "score": 37
   }
 ]
