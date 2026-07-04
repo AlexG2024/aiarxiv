@@ -3022,5 +3022,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T14:22:44.758622+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.01767v1",
+    "title": "Repair the Amplifier, Not the Symptom: Stable World-Model Correction for Agent Rollouts",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-04T15:41:36.820601+03:00",
+    "score": 41
   }
 ]
