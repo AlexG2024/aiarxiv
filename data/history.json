@@ -3030,5 +3030,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T15:41:36.820601+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.02387v1",
+    "title": "Bringing Agentic Search to Earth Observation Data Discovery",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-04T17:17:15.556041+03:00",
+    "score": 41
   }
 ]
