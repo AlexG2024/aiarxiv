@@ -3038,5 +3038,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T17:17:15.556041+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.01992v1",
+    "title": "Traceable Fault Diagnosis for Battery Energy Storage Systems via Retrieval-Augmented Multi-Agent O&M Assistant",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-04T18:34:40.153955+03:00",
+    "score": 37
   }
 ]
