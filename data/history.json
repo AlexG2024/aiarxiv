@@ -3014,5 +3014,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T12:53:13.727102+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.02121v1",
+    "title": "Behind the Refusal: Determining Guardrail Activation via Behavioral Monitoring",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-04T14:22:44.758622+03:00",
+    "score": 41
   }
 ]
