@@ -3054,5 +3054,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T19:36:30.995780+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.02024v1",
+    "title": "Spatio-Temporal and Clinical Conditioning for Fine-Grained Radiology Report Retrieval",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-04T20:39:47.912563+03:00",
+    "score": 36
   }
 ]
