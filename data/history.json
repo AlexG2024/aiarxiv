@@ -3070,5 +3070,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T21:39:41.815556+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.01908v1",
+    "title": "Towards Real-World Ultrasound Understanding: Large Vision-Language Models from Multi-Image Examinations with Long-Form Reports",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-07-04T22:02:15.309512+03:00",
+    "score": 35
   }
 ]
