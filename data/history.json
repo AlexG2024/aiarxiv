@@ -2998,5 +2998,13 @@
     "practicality": "high",
     "published_at": "2026-07-03T22:11:24.920896+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.02371v1",
+    "title": "VisionAId: An Offline-First Multimodal Android Assistant for People with Visual Impairment, Featuring Personalized Object Retrieval",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-04T10:41:00.811597+03:00",
+    "score": 55
   }
 ]
