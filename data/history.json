@@ -3006,5 +3006,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T10:41:00.811597+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2607.01814v1",
+    "title": "MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-04T12:53:13.727102+03:00",
+    "score": 42
   }
 ]
