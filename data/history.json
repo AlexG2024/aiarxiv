@@ -3142,5 +3142,13 @@
     "practicality": "high",
     "published_at": "2026-07-05T21:12:39.093734+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.01772v1",
+    "title": "LLM-Empowered Multimodal Fusion Framework for Autonomous Driving: Semantic Enhancement and Channel-Adaptive Design",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-05T22:08:35.688339+03:00",
+    "score": 31
   }
 ]
