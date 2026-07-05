@@ -3102,5 +3102,13 @@
     "practicality": "high",
     "published_at": "2026-07-05T14:45:58.582289+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.02269v1",
+    "title": "AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-07-05T15:55:25.993870+03:00",
+    "score": 32
   }
 ]
