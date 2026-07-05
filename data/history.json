@@ -3110,5 +3110,13 @@
     "practicality": "high",
     "published_at": "2026-07-05T15:55:25.993870+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.02345v1",
+    "title": "SkillFuzz: Fuzzing Skill Composition for Implicit Intents Discovery in Open Skill Marketplaces",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-05T17:38:14.978537+03:00",
+    "score": 32
   }
 ]
