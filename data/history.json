@@ -3086,5 +3086,13 @@
     "practicality": "high",
     "published_at": "2026-07-05T10:53:08.892167+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.02007v1",
+    "title": "EduArt: An educational-level benchmark for evaluating art history knowledge in large language models",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-07-05T13:07:14.753193+03:00",
+    "score": 34
   }
 ]
