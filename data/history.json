@@ -3078,5 +3078,13 @@
     "practicality": "high",
     "published_at": "2026-07-04T22:02:15.309512+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.01936v1",
+    "title": "CausalSteward: An Agentic Divide-Conquer-Combine Copilot for Causal Discovery",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-05T10:53:08.892167+03:00",
+    "score": 34
   }
 ]
