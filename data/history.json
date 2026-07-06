@@ -3166,5 +3166,13 @@
     "practicality": "high",
     "published_at": "2026-07-06T15:48:09.769787+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.01973v1",
+    "title": "Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-06T19:10:34.706823+03:00",
+    "score": 30
   }
 ]
