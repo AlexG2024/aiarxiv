@@ -3150,5 +3150,13 @@
     "practicality": "high",
     "published_at": "2026-07-05T22:08:35.688339+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.02479v1",
+    "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-06T11:57:12.680946+03:00",
+    "score": 30
   }
 ]
