@@ -3158,5 +3158,13 @@
     "practicality": "high",
     "published_at": "2026-07-06T11:57:12.680946+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.01977v1",
+    "title": "OntoLearner: A Modular Python Library for Ontology Learning with Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-06T15:48:09.769787+03:00",
+    "score": 30
   }
 ]
