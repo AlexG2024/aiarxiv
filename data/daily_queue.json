@@ -1,71 +1,11 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-07-06T08:10:00+03:00",
-      "arxiv_id": "2607.02479v1",
-      "title": "EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$",
-      "theme": "multimodal AI",
-      "score": 30,
-      "practicality": "high",
-      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>EAGLE-360: Embodied Active Global-to-Local Exploration in 360$^\\circ$</i>\n\nВ центре статьи фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Jingtao Xu и еще 4 | Computer Vision | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02479v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02479v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-07-06T11:57:12.680946+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-07-06T09:10:00+03:00",
-      "arxiv_id": "2607.01977v1",
-      "title": "OntoLearner: A Modular Python Library for Ontology Learning with Large Language Models",
-      "theme": "языковые модели",
-      "score": 30,
-      "practicality": "high",
-      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>OntoLearner: A Modular Python Library for Ontology Learning with Large Language Models</i>\n\nАвторы представили фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Hamed Babaei Giglou и еще 4 | Artificial Intelligence | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.01977v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.01977v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-07-06T15:48:09.769787+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-07-06T10:10:00+03:00",
-      "arxiv_id": "2607.01973v1",
-      "title": "Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias",
-      "theme": "AI в медицине",
-      "score": 30,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Assessing VLM Reliability for Medical Image Quality Evaluation Under Corruption and Bias</i>\n\nРабота описывает модель, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Sofiane Ouaari и еще 2 | Computer Vision, Artificial Intelligence, Machine Learning | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.01973v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.01973v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-07-06T19:10:34.706823+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-07-06T11:10:00+03:00",
-      "arxiv_id": "2607.02436v1",
-      "title": "Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study",
-      "theme": "AI-агенты",
-      "score": 29,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>Reasoning effort, not tool access, buys first-try reliability in agentic code generation: an observational study</i>\n\nАвторы представили AI-ассистента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Achint Mehta | Software Engineering, Artificial Intelligence | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02436v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02436v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-07-06T21:21:26.253193+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-07-06T12:10:00+03:00",
-      "arxiv_id": "2607.02497v1",
-      "title": "Seek to Segment: Active Perception for Panoramic Referring Segmentation",
-      "theme": "AI для изображений",
-      "score": 29,
-      "practicality": "high",
-      "post_html": "<b>AI для изображений: поиск информации</b>\n<i>Seek to Segment: Active Perception for Panoramic Referring Segmentation</i>\n\nВ центре статьи AI-агента, который помогает AI лучше понимать или создавать изображения.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше понимать или создавать изображения.\n\n<b>Какие проблемы решает:</b> Упрощают создание, анализ и редактирование визуального контента в понятных сценариях\n\n<b>Где пригодится:</b> В генерации, анализе и редактировании изображений\n\n<b>Рекомендация:</b> полезно следить за тем, где модель реально помогает пользователю, а не просто делает красивую демо-генерацию\n\n<b>Вывод:</b> Ценность AI для изображений растет там, где он помогает решать конкретную задачу, а не только впечатляет качеством картинки.\n\n<b>Детали:</b> Song Tang и еще 4 | Computer Vision | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02497v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02497v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-07-06T22:48:42.869321+03:00"
-    },
-    {
-      "slot": 6,
-      "scheduled_time_iso": "2026-07-06T13:10:00+03:00",
+      "scheduled_time_iso": "2026-07-07T08:10:00+03:00",
       "arxiv_id": "2607.02432v1",
       "title": "Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach",
       "theme": "языковые модели",
@@ -76,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-07-06T14:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-07-07T09:10:00+03:00",
       "arxiv_id": "2607.02175v1",
       "title": "A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks",
       "theme": "AI в медицине",
@@ -88,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-07-06T15:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-07-07T10:10:00+03:00",
       "arxiv_id": "2607.02426v1",
       "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
       "theme": "AI-агенты",
@@ -100,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-07-06T16:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-07-07T11:10:00+03:00",
       "arxiv_id": "2607.02370v1",
       "title": "Understanding Agent-Based Patching of Compiler Missed Optimizations",
       "theme": "AI-агенты",
@@ -112,14 +52,74 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-07-06T17:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-07-07T12:10:00+03:00",
       "arxiv_id": "2607.02376v1",
       "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
       "theme": "AI safety и надежность",
       "score": 28,
       "practicality": "high",
       "post_html": "<b>Надежность AI: безопасность AI</b>\n<i>Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems</i>\n\nАвторы представили AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Uwe M. Borghoff и еще 2 | Artificial Intelligence, cs.MA | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02376v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02376v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-07-07T13:10:00+03:00",
+      "arxiv_id": "2607.01831v1",
+      "title": "Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference",
+      "theme": "поиск и работа с информацией",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Wenchen Han и еще 5 | cs.DC, Machine Learning | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.01831v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.01831v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-07-07T14:10:00+03:00",
+      "arxiv_id": "2607.02459v1",
+      "title": "Language Models as Measurement Apparatus for Culture",
+      "theme": "языковые модели",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>Language Models as Measurement Apparatus for Culture</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Kent K. Chang | Natural Language Processing | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02459v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02459v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-07-07T15:10:00+03:00",
+      "arxiv_id": "2607.02516v1",
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "theme": "multimodal AI",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Alignment Is All You Need For X-to-4D Generation</i>\n\nРабота описывает фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Qiaowei Miao и еще 3 | Computer Vision | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02516v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02516v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-07-07T16:10:00+03:00",
+      "arxiv_id": "2607.02509v1",
+      "title": "ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning",
+      "theme": "языковые модели",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: пошаговые рассуждения</b>\n<i>ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning</i>\n\nВ центре статьи модель, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье собирают основу для обучения и сравнения новых систем и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Yanjun Zhao и еще 8 | Artificial Intelligence | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02509v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02509v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-07-07T17:10:00+03:00",
+      "arxiv_id": "2607.02118v1",
+      "title": "Enhancing Fitness Intelligence through Domain-Specific LLM Post-Training",
+      "theme": "языковые модели",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>Enhancing Fitness Intelligence through Domain-Specific LLM Post-Training</i>\n\nАвторы представили систему, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Xingtao Zhao и еще 2 | Artificial Intelligence | 02.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.02118v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.02118v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
