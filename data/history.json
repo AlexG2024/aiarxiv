@@ -3222,5 +3222,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T19:06:38.207428+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.02376v1",
+    "title": "Hardware-Enforced Semantic Coordination for Safety-Critical Real-Time Autonomous Systems",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-07T21:15:18.136298+03:00",
+    "score": 28
   }
 ]
