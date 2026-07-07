@@ -3214,5 +3214,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T16:32:11.295813+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.02370v1",
+    "title": "Understanding Agent-Based Patching of Compiler Missed Optimizations",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-07T19:06:38.207428+03:00",
+    "score": 28
   }
 ]
