@@ -3190,5 +3190,13 @@
     "practicality": "high",
     "published_at": "2026-07-06T22:48:42.869321+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.02432v1",
+    "title": "Automated grading of Linux/bash examinations using large language models: a four-level cognitive taxonomy approach",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-07T11:18:32.470441+03:00",
+    "score": 29
   }
 ]
