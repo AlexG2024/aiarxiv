@@ -3230,5 +3230,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T21:15:18.136298+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.01831v1",
+    "title": "Lynx: Progressive Speculative Quantization for accelerating KV Transfer in Long-Context Inference",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-07T22:47:23.027537+03:00",
+    "score": 28
   }
 ]
