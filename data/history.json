@@ -3206,5 +3206,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T14:20:25.426228+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.02426v1",
+    "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-07T16:32:11.295813+03:00",
+    "score": 28
   }
 ]
