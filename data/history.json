@@ -3198,5 +3198,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T11:18:32.470441+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.02175v1",
+    "title": "A rubric-based controlled comparison of frontier language models on expert-authored clinical reasoning tasks",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-07T14:20:25.426228+03:00",
+    "score": 29
   }
 ]
