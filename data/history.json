@@ -3262,5 +3262,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T14:31:26.760658+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.04884v1",
+    "title": "HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-07-08T16:13:19.731726+03:00",
+    "score": 39
   }
 ]
