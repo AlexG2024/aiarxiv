@@ -3254,5 +3254,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T12:43:43.385161+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2607.04718v1",
+    "title": "FORGE: Research-Trajectory Hijacking Attacks on Deep Research Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-08T14:31:26.760658+03:00",
+    "score": 40
   }
 ]
