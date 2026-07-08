@@ -3294,5 +3294,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T21:39:47.212897+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.04625v1",
+    "title": "Hierarchical Evidence-Driven Reasoning for Long Document Understanding",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-08T22:16:41.133991+03:00",
+    "score": 33
   }
 ]
