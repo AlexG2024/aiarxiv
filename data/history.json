@@ -3246,5 +3246,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T10:24:52.160316+03:00",
     "score": 65
+  },
+  {
+    "arxiv_id": "2607.04907v1",
+    "title": "Medi-Gemma: A Hybrid Clinical Decision Support System Integrating Deterministic EMR Analytics and Retrieval-Augmented Generation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-08T12:43:43.385161+03:00",
+    "score": 45
   }
 ]
