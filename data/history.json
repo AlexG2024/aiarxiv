@@ -3238,5 +3238,13 @@
     "practicality": "high",
     "published_at": "2026-07-07T22:47:23.027537+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.05055v1",
+    "title": "Toward Trustworthy Large Language Model Agents in Healthcare",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-08T10:24:52.160316+03:00",
+    "score": 65
   }
 ]
