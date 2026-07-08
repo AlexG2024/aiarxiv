@@ -3278,5 +3278,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T18:36:37.253217+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.05174v1",
+    "title": "AgentGym2: Benchmarking Large Language Model Agents in De-Idealized Real-World Environments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-08T20:04:42.951537+03:00",
+    "score": 34
   }
 ]
