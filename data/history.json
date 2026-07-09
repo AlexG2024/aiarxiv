@@ -3302,5 +3302,13 @@
     "practicality": "high",
     "published_at": "2026-07-08T22:16:41.133991+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.06229v1",
+    "title": "Spider 2.0-AIFunc: Extending Real-World Text-to-SQL to AI-Native SQL Workflows",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-09T11:24:10.653561+03:00",
+    "score": 49
   }
 ]
