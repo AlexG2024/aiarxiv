@@ -3318,5 +3318,13 @@
     "practicality": "high",
     "published_at": "2026-07-09T14:34:22.797569+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.06482v1",
+    "title": "Data Analysis in the Wild: Benchmarking Large Language Models Against Real-World Data Complexities",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-09T17:03:20.643313+03:00",
+    "score": 46
   }
 ]
