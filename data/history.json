@@ -3326,5 +3326,13 @@
     "practicality": "high",
     "published_at": "2026-07-09T17:03:20.643313+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.06118v1",
+    "title": "WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-09T19:35:43.120020+03:00",
+    "score": 40
   }
 ]
