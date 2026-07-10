@@ -3382,5 +3382,13 @@
     "practicality": "high",
     "published_at": "2026-07-10T18:51:18.523815+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2607.06748v1",
+    "title": "SmartHomeSecure: Automated Detection and Repair of Smart Home Configuration Errors Using Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-10T20:43:54.315225+03:00",
+    "score": 40
   }
 ]
