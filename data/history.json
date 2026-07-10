@@ -3358,5 +3358,13 @@
     "practicality": "high",
     "published_at": "2026-07-10T11:17:20.015624+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2607.06701v1",
+    "title": "SPEAR: A Simulator for Photorealistic Embodied AI Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-10T14:21:06.915737+03:00",
+    "score": 45
   }
 ]
