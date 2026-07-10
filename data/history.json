@@ -3390,5 +3390,13 @@
     "practicality": "high",
     "published_at": "2026-07-10T20:43:54.315225+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.07548v1",
+    "title": "Think Big, Search Small: Where Capacity Matters in Hierarchical Search Agents?",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-10T22:08:54.185984+03:00",
+    "score": 38
   }
 ]
