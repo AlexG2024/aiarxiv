@@ -3350,5 +3350,13 @@
     "practicality": "high",
     "published_at": "2026-07-09T22:36:35.674819+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.07673v1",
+    "title": "MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-10T11:17:20.015624+03:00",
+    "score": 48
   }
 ]
