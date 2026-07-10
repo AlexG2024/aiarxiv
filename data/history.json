@@ -3366,5 +3366,13 @@
     "practicality": "high",
     "published_at": "2026-07-10T14:21:06.915737+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2607.07321v1",
+    "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-10T16:24:16.170959+03:00",
+    "score": 45
   }
 ]
