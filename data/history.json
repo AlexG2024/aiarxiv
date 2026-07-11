@@ -3478,5 +3478,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T19:51:39.399953+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.08740v1",
+    "title": "Workflow as Knowledge: Semantic Persistence for LLM-Mediated Workflows",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-11T20:51:30.267256+03:00",
+    "score": 36
   }
 ]
