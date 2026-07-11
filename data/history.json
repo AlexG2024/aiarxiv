@@ -3438,5 +3438,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T14:26:51.996736+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2607.08028v1",
+    "title": "From Prompts to Contracts: Harness Engineering for Auditable Enterprise LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-11T15:12:49.702610+03:00",
+    "score": 47
   }
 ]
