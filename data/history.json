@@ -3462,5 +3462,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T17:53:01.263632+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.08180v1",
+    "title": "Out of Sight: Compression-Aware Content Protection against Agentic Crawlers",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-11T18:51:03.095020+03:00",
+    "score": 39
   }
 ]
