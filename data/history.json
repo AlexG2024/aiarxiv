@@ -3446,5 +3446,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T15:12:49.702610+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2607.08602v1",
+    "title": "Towards Precision Therapy in Hepatocellular Carcinoma: A Clinical-Reasoning LLM for Risk Stratification and Treatment Guidance",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-11T16:56:47.334130+03:00",
+    "score": 44
   }
 ]
