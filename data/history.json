@@ -3430,5 +3430,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T13:16:30.098194+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2607.08768v1",
+    "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-11T14:26:51.996736+03:00",
+    "score": 49
   }
 ]
