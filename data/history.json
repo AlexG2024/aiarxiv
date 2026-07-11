@@ -3470,5 +3470,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T18:51:03.095020+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.07846v1",
+    "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-07-11T19:51:39.399953+03:00",
+    "score": 39
   }
 ]
