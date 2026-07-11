@@ -3422,5 +3422,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T11:57:35.946505+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2607.08423v1",
+    "title": "OmniFood-Bench: Evaluating VLMs for Nutrient Reasoning and Personalized Health Advice",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-11T13:16:30.098194+03:00",
+    "score": 50
   }
 ]
