@@ -3406,5 +3406,13 @@
     "practicality": "high",
     "published_at": "2026-07-10T22:20:15.491657+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.08038v1",
+    "title": "A safety-oriented hypothetico-deductive framework for AI-assisted differential diagnosis",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-11T10:08:28.363336+03:00",
+    "score": 57
   }
 ]
