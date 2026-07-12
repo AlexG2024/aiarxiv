@@ -3534,5 +3534,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T17:37:01.134186+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.08056v1",
+    "title": "Reinforcing the Generation Order of Multimodal Masked Diffusion Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-12T18:38:56.732628+03:00",
+    "score": 33
   }
 ]
