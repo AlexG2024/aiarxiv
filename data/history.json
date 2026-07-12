@@ -3510,5 +3510,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T13:52:34.118355+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.08497v1",
+    "title": "Cognitive-structured Multimodal Agent for Multimodal Understanding, Generation, and Editing",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-12T14:55:04.904200+03:00",
+    "score": 35
   }
 ]
