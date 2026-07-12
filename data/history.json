@@ -3558,5 +3558,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T20:38:52.753561+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.08257v1",
+    "title": "MentalHospital: A Virtual Environment for Evaluating Psychiatric Clinical Encounters",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-12T21:34:50.404697+03:00",
+    "score": 30
   }
 ]
