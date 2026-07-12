@@ -3486,5 +3486,13 @@
     "practicality": "high",
     "published_at": "2026-07-11T20:51:30.267256+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.08093v1",
+    "title": "CausalDS: Benchmarking Causal Reasoning in Data-Science Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-12T10:26:28.785121+03:00",
+    "score": 36
   }
 ]
