@@ -3542,5 +3542,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T18:38:56.732628+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.08143v1",
+    "title": "ICDAR 2026 HIPE-OCRepair Competition on LLM-Assisted OCR Post-Correction for Historical Documents",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-12T19:33:35.870997+03:00",
+    "score": 33
   }
 ]
