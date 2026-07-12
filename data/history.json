@@ -3518,5 +3518,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T14:55:04.904200+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.08282v1",
+    "title": "Multi-Agent Firewall Architecture for Privacy Protection of Sensitive Data in Interactions with Language Models",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-12T16:09:22.093597+03:00",
+    "score": 35
   }
 ]
