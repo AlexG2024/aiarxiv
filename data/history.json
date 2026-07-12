@@ -3550,5 +3550,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T19:33:35.870997+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.08662v1",
+    "title": "WebSwarm: Recursive Multi-Agent Orchestration for Deep-and-Wide Web Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-12T20:38:52.753561+03:00",
+    "score": 32
   }
 ]
