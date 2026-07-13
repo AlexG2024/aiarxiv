@@ -3606,5 +3606,13 @@
     "practicality": "high",
     "published_at": "2026-07-13T21:10:50.720494+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2607.08112v1",
+    "title": "VSRo-200: A Romanian Visual Speech Recognition Dataset for Studying Supervision and Multimodal Robustness",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-13T22:17:32.318230+03:00",
+    "score": 27
   }
 ]
