@@ -3598,5 +3598,13 @@
     "practicality": "high",
     "published_at": "2026-07-13T19:10:23.588810+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.08579v1",
+    "title": "ImputeViz: A Visual Analytics Dashboard for Diagnosing Missing Data and Comparing Imputation Methods",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-13T21:10:50.720494+03:00",
+    "score": 27
   }
 ]
