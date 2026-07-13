@@ -3590,5 +3590,13 @@
     "practicality": "high",
     "published_at": "2026-07-13T16:39:50.490453+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.08288v1",
+    "title": "From Legacy Documentation to OSCAL: An MCP-Based Agent Pipeline for Threat-Informed Continuous Compliance in Critical Infrastructure",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-13T19:10:23.588810+03:00",
+    "score": 28
   }
 ]
