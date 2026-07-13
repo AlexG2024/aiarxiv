@@ -3566,5 +3566,13 @@
     "practicality": "high",
     "published_at": "2026-07-12T21:34:50.404697+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.07984v1",
+    "title": "Agentic Neural Architecture Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-13T11:13:06.187922+03:00",
+    "score": 29
   }
 ]
