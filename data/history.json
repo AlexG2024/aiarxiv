@@ -3630,5 +3630,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T12:15:16.192889+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2607.09428v1",
+    "title": "Multimodal Scenario Similarity Search for Autonomous Driving",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-14T13:56:49.496828+03:00",
+    "score": 39
   }
 ]
