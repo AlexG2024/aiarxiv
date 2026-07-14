@@ -3654,5 +3654,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T17:15:31.137511+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.09653v1",
+    "title": "VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-14T18:49:05.819653+03:00",
+    "score": 35
   }
 ]
