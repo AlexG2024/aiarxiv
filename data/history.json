@@ -3614,5 +3614,13 @@
     "practicality": "high",
     "published_at": "2026-07-13T22:17:32.318230+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2607.09142v1",
+    "title": "MedRealMM: A Real-World Multimodal Benchmark for Chinese Online Medical Consultation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-14T10:08:28.304978+03:00",
+    "score": 48
   }
 ]
