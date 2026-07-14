@@ -3622,5 +3622,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T10:08:28.304978+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2607.09322v1",
+    "title": "LongMedBench: Benchmarking Medical Agents for Long-Horizon Clinical Decision-Making",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-14T12:15:16.192889+03:00",
+    "score": 45
   }
 ]
