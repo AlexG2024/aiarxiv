@@ -3678,5 +3678,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T21:00:45.822499+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.09452v1",
+    "title": "Practical Source Code Recovery from Binary Functions Using Anchor-Based Retrieval and LLM Reasoning",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-14T22:10:19.070162+03:00",
+    "score": 34
   }
 ]
