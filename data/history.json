@@ -3670,5 +3670,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T19:56:07.530325+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.09616v1",
+    "title": "LLM for EDA in Front-End Design: Challenges and Opportunities",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-14T21:00:45.822499+03:00",
+    "score": 34
   }
 ]
