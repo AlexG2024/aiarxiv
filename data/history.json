@@ -3638,5 +3638,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T13:56:49.496828+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.08894v1",
+    "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-14T15:12:03.159266+03:00",
+    "score": 38
   }
 ]
