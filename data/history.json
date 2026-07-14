@@ -3646,5 +3646,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T15:12:03.159266+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.09092v1",
+    "title": "AgentKGV: Agentic LLM-RAG Framework with Two-Stage Training for the Fact Verification of Knowledge Graphs",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-14T17:15:31.137511+03:00",
+    "score": 37
   }
 ]
