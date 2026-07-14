@@ -3662,5 +3662,13 @@
     "practicality": "high",
     "published_at": "2026-07-14T18:49:05.819653+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.09623v1",
+    "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-14T19:56:07.530325+03:00",
+    "score": 35
   }
 ]
