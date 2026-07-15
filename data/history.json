@@ -3742,5 +3742,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T20:25:14.527423+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.10994v1",
+    "title": "A Multi-Agent Framework for Zero-Dimensional Reduced-Order Model Planning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-15T21:36:19.063075+03:00",
+    "score": 38
   }
 ]
