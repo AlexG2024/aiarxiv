@@ -3702,5 +3702,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T12:22:45.042728+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2607.11423v1",
+    "title": "ToFu: A White-Box, Token-Efficient Agent Harness for Researchers",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-15T14:07:24.456795+03:00",
+    "score": 53
   }
 ]
