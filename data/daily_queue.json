@@ -108,8 +108,8 @@
       "score": 37,
       "practicality": "high",
       "post_html": "<b>AI для обучения: обучение</b>\n<i>The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students</i>\n\nАвторы представили AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают объяснять материал понятнее, подстраивать обучение под человека и снижать барьер входа в сложные темы\n\n<b>Где пригодится:</b> В обучающих сервисах, AI-репетиторах и системах объяснения материала\n\n<b>Рекомендация:</b> имеет смысл смотреть, улучшает ли AI не только ответы, но и само понимание материала\n\n<b>Вывод:</b> Самые интересные AI-идеи для обучения не просто отвечают, а помогают человеку реально понять материал.\n\n<b>Детали:</b> Alexis Popovici и еще 2 | cs.CY, Artificial Intelligence, Natural Language Processing | 13.07.2026\n\n<a href=\"https://arxiv.org/abs/2607.11292v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2607.11292v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-07-15T22:02:43.399520+03:00"
     },
     {
       "slot": 10,
