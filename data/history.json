@@ -3718,5 +3718,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T15:39:55.919228+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2607.11818v1",
+    "title": "MM-ToolSandBox: A Unified Framework for Evaluating Visual Tool-Calling Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-15T17:25:19.875624+03:00",
+    "score": 44
   }
 ]
