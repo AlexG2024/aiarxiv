@@ -3694,5 +3694,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T10:12:23.462923+03:00",
     "score": 56
+  },
+  {
+    "arxiv_id": "2607.11175v1",
+    "title": "The Path to Self-Evolving Clinical Systems: Scaling Medical Agents from Assistance to Autonomy",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-15T12:22:45.042728+03:00",
+    "score": 55
   }
 ]
