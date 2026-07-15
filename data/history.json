@@ -3710,5 +3710,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T14:07:24.456795+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2607.11459v1",
+    "title": "A Multimodal Dataset for Large Language Model Applications in the Energy Domain",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-15T15:39:55.919228+03:00",
+    "score": 52
   }
 ]
