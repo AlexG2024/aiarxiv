@@ -3758,5 +3758,13 @@
     "practicality": "high",
     "published_at": "2026-07-15T22:02:43.399520+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.12764v1",
+    "title": "EvoGraph-R1: Self-Evolving Multimodal Knowledge Hypergraphs for Agentic Retrieval",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-16T10:20:09.520423+03:00",
+    "score": 54
   }
 ]
