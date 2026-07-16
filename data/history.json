@@ -3790,5 +3790,13 @@
     "practicality": "high",
     "published_at": "2026-07-16T15:55:16.330906+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.12406v1",
+    "title": "Isolation as a First-Class Principle for LLM-Agent System Safety: Concepts, Taxonomy, Challenges and Future Directions",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-16T17:56:29.184636+03:00",
+    "score": 42
   }
 ]
