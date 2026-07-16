@@ -3806,5 +3806,13 @@
     "practicality": "high",
     "published_at": "2026-07-16T19:16:03.141699+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.12336v1",
+    "title": "Evaluating Health Misinformation in Low-Resource Languages: Integrating Small Language Models with a Culturally-Sensitive Responsible NLP Framework (Bangla as a Case Study)",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-16T20:41:26.552540+03:00",
+    "score": 40
   }
 ]
