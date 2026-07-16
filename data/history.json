@@ -3814,5 +3814,13 @@
     "practicality": "high",
     "published_at": "2026-07-16T20:41:26.552540+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.12042v1",
+    "title": "SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-16T21:47:52.180908+03:00",
+    "score": 39
   }
 ]
