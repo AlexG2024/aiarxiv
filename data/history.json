@@ -3798,5 +3798,13 @@
     "practicality": "high",
     "published_at": "2026-07-16T17:56:29.184636+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.13034v1",
+    "title": "Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-16T19:16:03.141699+03:00",
+    "score": 40
   }
 ]
