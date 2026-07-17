@@ -3830,5 +3830,13 @@
     "practicality": "high",
     "published_at": "2026-07-16T22:01:49.919394+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.13608v1",
+    "title": "Automatic Ordinary Differential Equations Discovery For Biological Systems Using Large Language Model Powered Agentic System",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-17T10:13:16.045839+03:00",
+    "score": 49
   }
 ]
