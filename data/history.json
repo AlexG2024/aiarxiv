@@ -3862,5 +3862,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T15:18:36.662081+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.13474v1",
+    "title": "MyAG: A Graph-Based Framework for Designing and Analyzing Composable LLM Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-17T17:07:14.221210+03:00",
+    "score": 38
   }
 ]
