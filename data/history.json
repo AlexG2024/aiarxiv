@@ -3902,5 +3902,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T21:43:27.177873+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.13501v1",
+    "title": "LAPO: Leave-One-Turn Attribution for Self-Generated Process Rewards in Multi-Turn Search Reasoning",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-17T21:59:27.413323+03:00",
+    "score": 37
   }
 ]
