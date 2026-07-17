@@ -3846,5 +3846,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T12:22:30.026416+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.13860v1",
+    "title": "Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-17T14:04:11.421909+03:00",
+    "score": 41
   }
 ]
