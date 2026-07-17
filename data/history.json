@@ -3870,5 +3870,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T17:07:14.221210+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.13792v1",
+    "title": "EgoProceVQA: A Novel Egocentric Procedural Understanding Task with Self-Skill-Exploration Agent",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-17T18:35:39.300677+03:00",
+    "score": 38
   }
 ]
