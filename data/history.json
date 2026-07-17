@@ -3838,5 +3838,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T10:13:16.045839+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2607.13854v1",
+    "title": "SPyCE: Skill-Policy Co-evolution for Multimodal Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-17T12:22:30.026416+03:00",
+    "score": 41
   }
 ]
