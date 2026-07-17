@@ -3894,5 +3894,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T20:47:46.026755+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.13881v1",
+    "title": "Unleashing Multimodal Large Language Models for Training-free HOI Detection in the Wild",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-17T21:43:27.177873+03:00",
+    "score": 37
   }
 ]
