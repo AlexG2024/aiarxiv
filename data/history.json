@@ -3854,5 +3854,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T14:04:11.421909+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.13558v1",
+    "title": "Multi-Agent Collaborative Reasoning with Tool-Augmented Evidence for Urban Region Profiling",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-17T15:18:36.662081+03:00",
+    "score": 39
   }
 ]
