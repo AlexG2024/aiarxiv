@@ -3886,5 +3886,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T19:42:55.816839+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.14046v1",
+    "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-07-17T20:47:46.026755+03:00",
+    "score": 37
   }
 ]
