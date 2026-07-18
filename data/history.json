@@ -3910,5 +3910,13 @@
     "practicality": "high",
     "published_at": "2026-07-17T21:59:27.413323+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.14494v1",
+    "title": "SAGA: Schema-Aware Grounding for Agentic Text-to-SPARQL Generation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-18T09:58:08.037910+03:00",
+    "score": 44
   }
 ]
