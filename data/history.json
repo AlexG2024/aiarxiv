@@ -3958,5 +3958,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T16:44:04.159041+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.15253v1",
+    "title": "Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-18T17:39:58.013150+03:00",
+    "score": 37
   }
 ]
