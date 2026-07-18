@@ -3926,5 +3926,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T11:49:44.014722+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.14660v1",
+    "title": "VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-07-18T13:04:44.968050+03:00",
+    "score": 43
   }
 ]
