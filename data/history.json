@@ -3966,5 +3966,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T17:39:58.013150+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.15205v1",
+    "title": "MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-18T18:36:23.160720+03:00",
+    "score": 36
   }
 ]
