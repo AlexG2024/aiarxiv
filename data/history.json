@@ -3942,5 +3942,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T14:16:12.168841+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.15216v1",
+    "title": "Symbal: Detecting Systematic Misalignments in Model-Generated Captions",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-18T15:07:07.977328+03:00",
+    "score": 38
   }
 ]
