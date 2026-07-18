@@ -3934,5 +3934,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T13:04:44.968050+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.14385v1",
+    "title": "MamaBench: Benchmarking LLM Robustness in Maternal and Child Health Diagnosis through Counterfactual Clinical Perturbation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-18T14:16:12.168841+03:00",
+    "score": 41
   }
 ]
