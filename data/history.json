@@ -3974,5 +3974,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T18:36:23.160720+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.14485v1",
+    "title": "Step-Level Preference Learning for Generative Agents in Social Simulations",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-18T19:33:38.334214+03:00",
+    "score": 36
   }
 ]
