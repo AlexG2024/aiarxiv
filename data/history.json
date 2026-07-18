@@ -3950,5 +3950,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T15:07:07.977328+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.14387v1",
+    "title": "Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-18T16:44:04.159041+03:00",
+    "score": 38
   }
 ]
