@@ -3982,5 +3982,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T19:33:38.334214+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.15247v1",
+    "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-18T20:37:14.113572+03:00",
+    "score": 35
   }
 ]
