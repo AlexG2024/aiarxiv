@@ -4022,5 +4022,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T14:53:01.995822+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.14561v1",
+    "title": "MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-19T16:06:14.801552+03:00",
+    "score": 34
   }
 ]
