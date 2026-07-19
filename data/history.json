@@ -4038,5 +4038,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T17:33:29.388208+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.14683v1",
+    "title": "InCarEmo: A Multimodal Dataset for In-Cabin Emotion Recognition and Driver State Monitoring",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-19T18:34:14.952289+03:00",
+    "score": 33
   }
 ]
