@@ -3990,5 +3990,13 @@
     "practicality": "high",
     "published_at": "2026-07-18T20:37:14.113572+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.15193v1",
+    "title": "Plover: Steering GUI Agents through Plan-Centric Interaction",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T10:23:57.057588+03:00",
+    "score": 34
   }
 ]
