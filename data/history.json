@@ -4062,5 +4062,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T20:37:17.282955+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.14989v1",
+    "title": "OmniaBench: Benchmarking General AI Agents Across Diverse Scenarios",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T21:34:46.230890+03:00",
+    "score": 32
   }
 ]
