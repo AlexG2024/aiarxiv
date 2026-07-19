@@ -4054,5 +4054,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T19:30:33.271952+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.14390v1",
+    "title": "Why Git Is the Memory Solution for the Agentic Development Lifecycle",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T20:37:17.282955+03:00",
+    "score": 33
   }
 ]
