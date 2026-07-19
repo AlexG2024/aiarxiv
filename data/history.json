@@ -4046,5 +4046,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T18:34:14.952289+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.14456v1",
+    "title": "Beyond Generalist LLMs: Specialist Agentic Systems for Structured Code Workflow Execution",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T19:30:33.271952+03:00",
+    "score": 33
   }
 ]
