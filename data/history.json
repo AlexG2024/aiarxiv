@@ -3998,5 +3998,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T10:23:57.057588+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.14896v1",
+    "title": "StructureClaw: Traceable LLM Agents and an Executable Benchmark for Structural Engineering Workflows",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T12:25:04.304624+03:00",
+    "score": 34
   }
 ]
