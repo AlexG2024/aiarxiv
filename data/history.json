@@ -4006,5 +4006,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T12:25:04.304624+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.15095v1",
+    "title": "Digital Pantheon: Simulating and Auditing Coalition Formation with LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-19T13:51:13.644765+03:00",
+    "score": 34
   }
 ]
