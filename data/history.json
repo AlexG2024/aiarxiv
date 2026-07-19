@@ -4030,5 +4030,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T16:06:14.801552+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.15272v1",
+    "title": "SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-19T17:33:29.388208+03:00",
+    "score": 33
   }
 ]
