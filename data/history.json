@@ -4086,5 +4086,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T13:46:46.545363+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.15079v1",
+    "title": "BrainPilot: Automating Brain Discovery with Agentic Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-20T15:56:55.528062+03:00",
+    "score": 31
   }
 ]
