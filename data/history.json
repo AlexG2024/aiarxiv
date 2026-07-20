@@ -4070,5 +4070,13 @@
     "practicality": "high",
     "published_at": "2026-07-19T21:34:46.230890+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.14574v1",
+    "title": "Collaborative Spatial Learning with Multi-LLM Agents in Networked Social Experiments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-20T10:54:43.140280+03:00",
+    "score": 32
   }
 ]
