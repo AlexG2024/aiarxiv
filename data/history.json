@@ -4078,5 +4078,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T10:54:43.140280+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.15231v1",
+    "title": "CRISP: Constrained Refinement via Iterative Squeezing Process for Robust Medical Image Segmentation under Domain Shift",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-20T13:46:46.545363+03:00",
+    "score": 31
   }
 ]
