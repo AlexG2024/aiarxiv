@@ -4118,5 +4118,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T21:34:13.182511+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.14777v1",
+    "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-20T22:37:32.332631+03:00",
+    "score": 30
   }
 ]
