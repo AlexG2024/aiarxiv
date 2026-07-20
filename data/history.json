@@ -4102,5 +4102,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T18:11:01.417306+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.15240v1",
+    "title": "TikStance: A Multimodal and Hierarchical Dataset for Multi-target Stance Analysis in TikTok Political Conversations",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-20T19:44:49.904827+03:00",
+    "score": 31
   }
 ]
