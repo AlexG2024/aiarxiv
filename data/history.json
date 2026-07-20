@@ -4094,5 +4094,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T15:56:55.528062+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.14769v1",
+    "title": "Dialogue Summarization with Emotion Dynamics Using Topic- and Participant-Centric Decomposition",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-20T18:11:01.417306+03:00",
+    "score": 31
   }
 ]
