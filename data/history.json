@@ -4126,5 +4126,13 @@
     "practicality": "high",
     "published_at": "2026-07-20T22:37:32.332631+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.16038v1",
+    "title": "SciForge: An AI-Native, Multimodal Workbench for Scientific Discovery",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-21T10:29:40.883017+03:00",
+    "score": 47
   }
 ]
