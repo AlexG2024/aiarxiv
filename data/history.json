@@ -4174,5 +4174,13 @@
     "practicality": "high",
     "published_at": "2026-07-21T20:00:41.999144+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.16193v1",
+    "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-21T21:23:14.214471+03:00",
+    "score": 36
   }
 ]
