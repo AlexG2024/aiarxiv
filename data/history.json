@@ -4142,5 +4142,13 @@
     "practicality": "high",
     "published_at": "2026-07-21T13:03:44.649933+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.15367v1",
+    "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-07-21T14:57:26.940066+03:00",
+    "score": 42
   }
 ]
