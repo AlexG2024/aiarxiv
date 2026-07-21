@@ -4134,5 +4134,13 @@
     "practicality": "high",
     "published_at": "2026-07-21T10:29:40.883017+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2607.15447v1",
+    "title": "LLM4EHR: Aligning Clinical Time Series with Medical Event Sequences via Large Language Models",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-21T13:03:44.649933+03:00",
+    "score": 42
   }
 ]
