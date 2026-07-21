@@ -4158,5 +4158,13 @@
     "practicality": "high",
     "published_at": "2026-07-21T16:53:15.616680+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.15418v1",
+    "title": "DrawingVQA: A Real-World Benchmark for Multi-Depth Visual-Textual Reasoning on Construction Drawings",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-21T18:39:47.793955+03:00",
+    "score": 37
   }
 ]
