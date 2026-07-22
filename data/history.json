@@ -4246,5 +4246,13 @@
     "practicality": "high",
     "published_at": "2026-07-22T21:35:41.888463+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.17963v1",
+    "title": "OntoExtend: A Framework for Requirement-driven and Scalable Ontology Extension with LLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-22T22:05:14.053469+03:00",
+    "score": 35
   }
 ]
