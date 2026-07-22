@@ -4230,5 +4230,13 @@
     "practicality": "high",
     "published_at": "2026-07-22T18:52:41.635739+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.18161v1",
+    "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-22T20:12:08.119407+03:00",
+    "score": 36
   }
 ]
