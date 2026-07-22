@@ -4222,5 +4222,13 @@
     "practicality": "high",
     "published_at": "2026-07-22T17:15:10.616805+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.18029v1",
+    "title": "Natural Language Access to Domain-Specific Metadata: A Reusable Framework for LLM Query Generation",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-22T18:52:41.635739+03:00",
+    "score": 39
   }
 ]
