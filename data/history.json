@@ -4238,5 +4238,13 @@
     "practicality": "high",
     "published_at": "2026-07-22T20:12:08.119407+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.18080v1",
+    "title": "Sparse Evidence Can Suffice: Agentic Evidence Seeking for Multimodal Video Misinformation Detection",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-22T21:35:41.888463+03:00",
+    "score": 35
   }
 ]
