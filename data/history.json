@@ -4294,5 +4294,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T19:06:16.938559+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.18772v1",
+    "title": "RF-Agent: A Practical Framework for Building Language Agents for RFIC Design",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-23T20:42:38.218662+03:00",
+    "score": 38
   }
 ]
