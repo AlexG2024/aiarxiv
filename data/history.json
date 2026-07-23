@@ -4270,5 +4270,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T13:00:29.984227+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.18529v1",
+    "title": "EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-07-23T14:59:52.454620+03:00",
+    "score": 44
   }
 ]
