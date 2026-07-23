@@ -4278,5 +4278,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T14:59:52.454620+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.19261v1",
+    "title": "PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-07-23T17:23:45.442040+03:00",
+    "score": 40
   }
 ]
