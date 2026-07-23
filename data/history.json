@@ -4254,5 +4254,13 @@
     "practicality": "high",
     "published_at": "2026-07-22T22:05:14.053469+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.18665v1",
+    "title": "SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-23T10:28:49.968627+03:00",
+    "score": 46
   }
 ]
