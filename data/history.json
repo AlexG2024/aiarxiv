@@ -4310,5 +4310,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T21:50:54.882264+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.18828v1",
+    "title": "Evaluating medical AI under missing information: same-provider judges and human raters change apparent safety",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-23T22:06:08.027234+03:00",
+    "score": 37
   }
 ]
