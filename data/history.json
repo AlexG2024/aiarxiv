@@ -4286,5 +4286,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T17:23:45.442040+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.19253v1",
+    "title": "Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-07-23T19:06:16.938559+03:00",
+    "score": 39
   }
 ]
