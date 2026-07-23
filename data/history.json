@@ -4302,5 +4302,13 @@
     "practicality": "high",
     "published_at": "2026-07-23T20:42:38.218662+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.19086v1",
+    "title": "Advancing Multimodal Fusion on Heterogeneous Medical Data with Hybrid Geometry Attention",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-23T21:50:54.882264+03:00",
+    "score": 37
   }
 ]
