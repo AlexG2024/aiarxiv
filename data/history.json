@@ -4350,5 +4350,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T16:05:04.782294+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.19747v1",
+    "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-24T18:03:24.691529+03:00",
+    "score": 38
   }
 ]
