@@ -4326,5 +4326,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T10:27:59.513403+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2607.19532v1",
+    "title": "Trustworthy Privacy-Preserving Multimodal Federated Learning for Personalised Breast Cancer Prediction",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-24T12:56:02.757401+03:00",
+    "score": 46
   }
 ]
