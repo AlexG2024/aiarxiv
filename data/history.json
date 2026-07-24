@@ -4334,5 +4334,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T12:56:02.757401+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.19793v1",
+    "title": "Silent Failures in Multimodal Agentic Search:A Diagnostic Taxonomy and Cross-Judge Evaluation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-24T14:39:38.268306+03:00",
+    "score": 42
   }
 ]
