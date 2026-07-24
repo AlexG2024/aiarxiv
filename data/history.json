@@ -4374,5 +4374,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T21:14:49.427284+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.19834v1",
+    "title": "D2VBench: Benchmarking Large Language Models with Value Dilemmas in Daily Scenarios",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-24T22:17:15.214273+03:00",
+    "score": 33
   }
 ]
