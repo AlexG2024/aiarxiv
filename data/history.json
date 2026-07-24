@@ -4342,5 +4342,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T14:39:38.268306+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.19947v1",
+    "title": "ETPDesigner: Multi-Agent Orchestration for Interactive Multimodal Electronic Theater Program",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-24T16:05:04.782294+03:00",
+    "score": 42
   }
 ]
