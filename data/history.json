@@ -4366,5 +4366,13 @@
     "practicality": "high",
     "published_at": "2026-07-24T19:53:00.614705+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.19949v1",
+    "title": "SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-24T21:14:49.427284+03:00",
+    "score": 35
   }
 ]
