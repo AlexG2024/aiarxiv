@@ -4390,5 +4390,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T10:11:48.864867+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2607.21125v1",
+    "title": "Causal-AgentIR: Self-Evolving Causal Memory for Adaptive Image Restoration Agents",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-07-25T12:13:11.956182+03:00",
+    "score": 44
   }
 ]
