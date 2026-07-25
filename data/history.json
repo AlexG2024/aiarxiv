@@ -4414,5 +4414,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T14:51:27.757125+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.21013v1",
+    "title": "EmoAgent-R1: Towards Multimodal Emotion Understanding with Reinforcement Learning-based Dynamic Agent Specialization",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-25T16:14:19.644618+03:00",
+    "score": 41
   }
 ]
