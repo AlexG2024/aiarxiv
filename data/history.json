@@ -4406,5 +4406,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T13:45:54.116029+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.21570v1",
+    "title": "MedGame: Storytelling Gamification Empowered by Large Language Models for Medical Education",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-25T14:51:27.757125+03:00",
+    "score": 42
   }
 ]
