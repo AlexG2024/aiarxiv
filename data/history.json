@@ -4446,5 +4446,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T19:38:36.992540+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.21173v1",
+    "title": "Automated Synthesis and Adversarial Validation of Executable Causal Research Pipelines",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-25T20:39:28.057454+03:00",
+    "score": 35
   }
 ]
