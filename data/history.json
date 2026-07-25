@@ -4454,5 +4454,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T20:39:28.057454+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.20872v1",
+    "title": "LegalCiteTrust: Benchmarking Citation Trustworthiness in Chinese Long-Form Legal Research Reports",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-25T21:37:30.981445+03:00",
+    "score": 35
   }
 ]
