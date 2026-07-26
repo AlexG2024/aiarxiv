@@ -4462,5 +4462,13 @@
     "practicality": "high",
     "published_at": "2026-07-25T21:37:30.981445+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.21482v1",
+    "title": "Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-26T10:32:39.440440+03:00",
+    "score": 35
   }
 ]
