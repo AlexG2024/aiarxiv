@@ -4518,5 +4518,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T19:15:27.318925+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2607.21404v1",
+    "title": "MemTools: A Unified Research Framework for Interoperable Agent Memory",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-26T20:18:44.460511+03:00",
+    "score": 30
   }
 ]
