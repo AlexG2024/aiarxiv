@@ -4486,5 +4486,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T14:06:41.252154+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2607.21557v1",
+    "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-26T15:13:02.260217+03:00",
+    "score": 32
   }
 ]
