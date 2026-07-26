@@ -4470,5 +4470,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T10:32:39.440440+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.21496v1",
+    "title": "Toward Generalizable Cognitive Impairment Detection with Speech-Based Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-26T12:36:45.005079+03:00",
+    "score": 34
   }
 ]
