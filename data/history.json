@@ -4534,5 +4534,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T21:15:25.091422+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.20981v1",
+    "title": "Beyond Independent Optimization: Compression, MoE Routing, and Quantization Interactions in Multimodal Edge Intelligence",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-26T22:02:43.215269+03:00",
+    "score": 30
   }
 ]
