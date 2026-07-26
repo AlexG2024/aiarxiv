@@ -4526,5 +4526,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T20:18:44.460511+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.21057v1",
+    "title": "Achieving Text-based Person Retrieval with Any Granularity",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-26T21:15:25.091422+03:00",
+    "score": 30
   }
 ]
