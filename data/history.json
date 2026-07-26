@@ -4494,5 +4494,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T15:13:02.260217+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.20911v1",
+    "title": "Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-26T16:59:57.904134+03:00",
+    "score": 32
   }
 ]
