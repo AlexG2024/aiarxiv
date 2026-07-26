@@ -4510,5 +4510,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T18:11:43.044293+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.21401v1",
+    "title": "When Are Reasoning-Based Guardrails Not Efficient? ResponseGuard: A Fast Vision-Language Guard for Real-Time Moderation",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-07-26T19:15:27.318925+03:00",
+    "score": 31
   }
 ]
