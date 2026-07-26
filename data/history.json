@@ -4502,5 +4502,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T16:59:57.904134+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.21447v1",
+    "title": "RUMBA: Russian User Memory Benchmark",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-26T18:11:43.044293+03:00",
+    "score": 32
   }
 ]
