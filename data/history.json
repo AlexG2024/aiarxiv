@@ -4542,5 +4542,13 @@
     "practicality": "high",
     "published_at": "2026-07-26T22:02:43.215269+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2607.21274v1",
+    "title": "A Comparative Evaluation of Embeddings and LLMs in a Greek Book Publisher Setting - The CUP Dataset",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-27T11:25:48.507844+03:00",
+    "score": 29
   }
 ]
