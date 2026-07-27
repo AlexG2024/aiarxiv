@@ -4582,5 +4582,13 @@
     "practicality": "high",
     "published_at": "2026-07-27T21:09:53.161436+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.21343v1",
+    "title": "M$^3$-Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-27T22:18:46.235816+03:00",
+    "score": 28
   }
 ]
