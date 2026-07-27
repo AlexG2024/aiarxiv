@@ -4558,5 +4558,13 @@
     "practicality": "high",
     "published_at": "2026-07-27T14:49:36.542033+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.21010v1",
+    "title": "Reexamining zero-shot summarization: Empirical investigation of trustworthiness of LLM-summarizers",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-27T17:01:42.053641+03:00",
+    "score": 29
   }
 ]
