@@ -4550,5 +4550,13 @@
     "practicality": "high",
     "published_at": "2026-07-27T11:25:48.507844+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.21340v1",
+    "title": "Capital Markets LLM Reliability Score (CM-LRS): From Plausible to Bankable",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-07-27T14:49:36.542033+03:00",
+    "score": 29
   }
 ]
