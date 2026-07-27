@@ -4574,5 +4574,13 @@
     "practicality": "high",
     "published_at": "2026-07-27T19:31:24.301380+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.20814v1",
+    "title": "Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-27T21:09:53.161436+03:00",
+    "score": 29
   }
 ]
