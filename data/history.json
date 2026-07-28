@@ -4598,5 +4598,13 @@
     "practicality": "high",
     "published_at": "2026-07-28T10:34:47.245671+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.22319v1",
+    "title": "Towards Trustworthy and Cost-Efficient Data Integration: From Naïve RAG to Agentic RAG",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-28T13:12:27.362504+03:00",
+    "score": 40
   }
 ]
