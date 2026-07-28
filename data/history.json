@@ -4614,5 +4614,13 @@
     "practicality": "high",
     "published_at": "2026-07-28T15:15:21.678179+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2607.22067v1",
+    "title": "Benchmarking Fine-tuning and Retrieval Strategies for a Multimodal Language Model on the NRC Reactor Operator Licensing Examination",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-28T17:40:54.375374+03:00",
+    "score": 39
   }
 ]
