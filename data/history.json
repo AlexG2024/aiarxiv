@@ -4606,5 +4606,13 @@
     "practicality": "high",
     "published_at": "2026-07-28T13:12:27.362504+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.21904v1",
+    "title": "Diffusion Models in Medical Image Inpainting: Challenges, Solution Taxonomy, and Future Directions",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-28T15:15:21.678179+03:00",
+    "score": 39
   }
 ]
