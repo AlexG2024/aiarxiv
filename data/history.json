@@ -4630,5 +4630,13 @@
     "practicality": "high",
     "published_at": "2026-07-28T19:24:41.544885+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.22385v1",
+    "title": "Agentic Root Cause Analysis through Evidence-Grounded Reasoning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-28T20:50:39.071300+03:00",
+    "score": 36
   }
 ]
