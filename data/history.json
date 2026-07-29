@@ -4702,5 +4702,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T21:34:47.843643+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.23809v1",
+    "title": "ACM: Agentic Context Management for Long Horizon Tasks",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-29T22:05:20.621281+03:00",
+    "score": 34
   }
 ]
