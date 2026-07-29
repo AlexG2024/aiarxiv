@@ -4646,5 +4646,13 @@
     "practicality": "high",
     "published_at": "2026-07-28T22:15:16.797289+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.24743v1",
+    "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-29T10:39:25.104348+03:00",
+    "score": 57
   }
 ]
