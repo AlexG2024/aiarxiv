@@ -4678,5 +4678,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T17:39:13.917983+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.24280v1",
+    "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-07-29T19:08:28.733319+03:00",
+    "score": 40
   }
 ]
