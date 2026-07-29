@@ -4662,5 +4662,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T13:16:13.385241+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.24663v1",
+    "title": "A corrective agentic hybrid RAG and an operations-grounded evaluation for a scientific facility",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-29T15:22:52.216847+03:00",
+    "score": 43
   }
 ]
