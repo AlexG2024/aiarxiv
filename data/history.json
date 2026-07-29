@@ -4686,5 +4686,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T19:08:28.733319+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.24588v1",
+    "title": "SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-29T20:34:22.217922+03:00",
+    "score": 38
   }
 ]
