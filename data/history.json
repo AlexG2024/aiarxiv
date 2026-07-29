@@ -4670,5 +4670,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T15:22:52.216847+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.24313v1",
+    "title": "Energy Constrained Hierarchical Underwater Monitoring via Local Multi-Agent RAG",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-29T17:39:13.917983+03:00",
+    "score": 41
   }
 ]
