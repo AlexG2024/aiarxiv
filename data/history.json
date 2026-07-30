@@ -4726,5 +4726,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T13:01:05.825398+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.25485v1",
+    "title": "PatientAgentBench: A Benchmark Framework for Evaluating Patient-Facing Health AI Agents",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-30T15:00:57.023781+03:00",
+    "score": 46
   }
 ]
