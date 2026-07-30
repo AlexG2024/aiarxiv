@@ -4750,5 +4750,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T19:05:45.825742+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.25992v1",
+    "title": "MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-30T20:44:12.586035+03:00",
+    "score": 41
   }
 ]
