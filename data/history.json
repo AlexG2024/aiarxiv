@@ -4710,5 +4710,13 @@
     "practicality": "high",
     "published_at": "2026-07-29T22:05:20.621281+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.25489v1",
+    "title": "Agentic AI in medicine: architectures, applications, evaluation, and challenges for clinical translation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-30T10:31:28.058704+03:00",
+    "score": 74
   }
 ]
