@@ -4758,5 +4758,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T20:44:12.586035+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.25415v1",
+    "title": "A Control System, a Dataset, and a Recipe for Making Frozen LLM Agents Learn a Domain",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-30T22:02:04.885665+03:00",
+    "score": 41
   }
 ]
