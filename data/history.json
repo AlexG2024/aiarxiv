@@ -4718,5 +4718,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T10:31:28.058704+03:00",
     "score": 74
+  },
+  {
+    "arxiv_id": "2607.26042v1",
+    "title": "VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-30T13:01:05.825398+03:00",
+    "score": 46
   }
 ]
