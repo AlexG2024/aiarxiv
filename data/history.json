@@ -4734,5 +4734,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T15:00:57.023781+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2607.25186v1",
+    "title": "MyoCardBench: A Real-World Data Benchmark for Evaluating Large Language Models in Clinically Authentic Cardiovascular Care Scenarios",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-07-30T17:27:06.260436+03:00",
+    "score": 43
   }
 ]
