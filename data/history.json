@@ -4806,5 +4806,13 @@
     "practicality": "high",
     "published_at": "2026-07-31T17:56:41.856518+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.26393v1",
+    "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-07-31T19:45:17.082574+03:00",
+    "score": 41
   }
 ]
