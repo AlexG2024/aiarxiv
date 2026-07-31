@@ -4822,5 +4822,13 @@
     "practicality": "high",
     "published_at": "2026-07-31T21:10:55.702879+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.26520v1",
+    "title": "A Graph-Native Bitemporal Memory Store for Conversational AI Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-31T22:16:35.450076+03:00",
+    "score": 40
   }
 ]
