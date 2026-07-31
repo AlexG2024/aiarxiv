@@ -4774,5 +4774,13 @@
     "practicality": "high",
     "published_at": "2026-07-30T22:17:05.201233+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.26637v1",
+    "title": "Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-31T10:47:53.951731+03:00",
+    "score": 44
   }
 ]
