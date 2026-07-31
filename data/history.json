@@ -4798,5 +4798,13 @@
     "practicality": "high",
     "published_at": "2026-07-31T15:25:30.803884+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2607.26910v1",
+    "title": "CinemaTraj: Composing Atomic Camera Trajectories for 3D Scenes with LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-31T17:56:41.856518+03:00",
+    "score": 41
   }
 ]
