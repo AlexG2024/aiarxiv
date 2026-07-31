@@ -4790,5 +4790,13 @@
     "practicality": "high",
     "published_at": "2026-07-31T13:21:01.850624+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.27130v1",
+    "title": "AgentMap: Joint Equivalence and Subsumption Discovery for Ontology Matching",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-07-31T15:25:30.803884+03:00",
+    "score": 43
   }
 ]
