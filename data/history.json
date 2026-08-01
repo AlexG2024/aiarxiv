@@ -4902,5 +4902,13 @@
     "practicality": "high",
     "published_at": "2026-08-01T21:08:07.258541+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2607.28229v1",
+    "title": "EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-01T22:00:23.588885+03:00",
+    "score": 35
   }
 ]
