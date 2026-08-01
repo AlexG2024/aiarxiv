@@ -4854,5 +4854,13 @@
     "practicality": "high",
     "published_at": "2026-08-01T14:03:36.426170+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2607.27959v1",
+    "title": "FiRE: Enhancing MLLMs with Fine-Grained Context Learning for Complex Image Retrieval",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-01T15:09:08.079316+03:00",
+    "score": 40
   }
 ]
