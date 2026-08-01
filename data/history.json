@@ -4878,5 +4878,13 @@
     "practicality": "high",
     "published_at": "2026-08-01T17:55:51.406286+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.28227v1",
+    "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-01T18:58:13.700018+03:00",
+    "score": 37
   }
 ]
