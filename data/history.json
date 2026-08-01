@@ -4894,5 +4894,13 @@
     "practicality": "high",
     "published_at": "2026-08-01T20:03:07.442580+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2607.28146v1",
+    "title": "Can Agents Deceive? Evaluating Reasoning and Deception in ParliamentBench using a Social Deduction Game",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-01T21:08:07.258541+03:00",
+    "score": 36
   }
 ]
