@@ -4846,5 +4846,13 @@
     "practicality": "high",
     "published_at": "2026-08-01T12:32:15.733197+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2607.28545v1",
+    "title": "ORCA-bench: How Ready Are Language Model Agents for Oncall?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-01T14:03:36.426170+03:00",
+    "score": 42
   }
 ]
