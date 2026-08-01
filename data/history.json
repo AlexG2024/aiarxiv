@@ -4830,5 +4830,13 @@
     "practicality": "high",
     "published_at": "2026-07-31T22:16:35.450076+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2607.28156v1",
+    "title": "RRM: Experience-Driven Reflective Retrieval Memory for Long-Horizon Multimodal Reasoning",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-01T10:24:31.779558+03:00",
+    "score": 44
   }
 ]
