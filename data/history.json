@@ -4926,5 +4926,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T12:34:01.828302+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.28033v1",
+    "title": "DataClawEval: A Benchmark for Data Engineering Agents in Real Industrial Harness",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-02T14:03:43.857500+03:00",
+    "score": 34
   }
 ]
