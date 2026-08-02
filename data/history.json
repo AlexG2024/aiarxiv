@@ -4982,5 +4982,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T21:12:55.027673+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.27845v1",
+    "title": "AutoSupervision: Closing the Feedback Loop in Scientific Workflows with Grounded Revision Verification",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-02T22:01:41.030110+03:00",
+    "score": 29
   }
 ]
