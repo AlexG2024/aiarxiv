@@ -4950,5 +4950,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T16:59:19.221513+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2607.28595v1",
+    "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-02T18:06:59.319800+03:00",
+    "score": 32
   }
 ]
