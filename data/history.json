@@ -4974,5 +4974,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T20:13:24.400513+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.28225v1",
+    "title": "FaithEyes: Towards Faithful Tool Use via Multi-Agent Process-Image Verification",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-02T21:12:55.027673+03:00",
+    "score": 29
   }
 ]
