@@ -4934,5 +4934,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T14:03:43.857500+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2607.28374v1",
+    "title": "LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-02T15:11:24.265185+03:00",
+    "score": 33
   }
 ]
