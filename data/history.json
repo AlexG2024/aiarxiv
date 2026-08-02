@@ -4918,5 +4918,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T10:28:54.073173+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2607.28300v1",
+    "title": "MonoVoc: Decoupling Geometry and Semantics for Lightweight Monocular Open-Vocabulary 3D Gaussians",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-02T12:34:01.828302+03:00",
+    "score": 34
   }
 ]
