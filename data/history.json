@@ -5022,5 +5022,13 @@
     "practicality": "high",
     "published_at": "2026-08-03T19:56:07.058130+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2607.28466v1",
+    "title": "A report-grounded vision-language foundation model for colonoscopy from 280000 routine reports",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-03T21:49:11.591043+03:00",
+    "score": 27
   }
 ]
