@@ -5030,5 +5030,13 @@
     "practicality": "high",
     "published_at": "2026-08-03T21:49:11.591043+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2607.28538v1",
+    "title": "ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-03T22:23:26.706818+03:00",
+    "score": 27
   }
 ]
