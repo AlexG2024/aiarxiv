@@ -4990,5 +4990,13 @@
     "practicality": "high",
     "published_at": "2026-08-02T22:01:41.030110+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2607.28037v1",
+    "title": "ClawTrack: Towards Trace-Level Evaluation and Improvement of Real-World Autonomous Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-03T11:23:58.891800+03:00",
+    "score": 28
   }
 ]
