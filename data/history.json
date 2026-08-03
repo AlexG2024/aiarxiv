@@ -5014,5 +5014,13 @@
     "practicality": "high",
     "published_at": "2026-08-03T17:28:21.490393+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.28591v1",
+    "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-03T19:56:07.058130+03:00",
+    "score": 27
   }
 ]
