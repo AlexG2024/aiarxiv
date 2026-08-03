@@ -4998,5 +4998,13 @@
     "practicality": "high",
     "published_at": "2026-08-03T11:23:58.891800+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2607.28397v1",
+    "title": "GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-03T14:54:56.382400+03:00",
+    "score": 28
   }
 ]
