@@ -5070,5 +5070,13 @@
     "practicality": "high",
     "published_at": "2026-08-04T17:58:41.813885+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2607.29433v1",
+    "title": "Know It, Act on It: Investigating Memory Utilization in LLM Personalization",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-04T19:55:58.636536+03:00",
+    "score": 40
   }
 ]
