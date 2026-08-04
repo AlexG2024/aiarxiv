@@ -5046,5 +5046,13 @@
     "practicality": "high",
     "published_at": "2026-08-04T10:33:41.158555+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2607.29002v1",
+    "title": "MMShopBench: A Real-Log Benchmark for Multimodal, Multi-Turn Shopping Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-04T13:15:52.310963+03:00",
+    "score": 49
   }
 ]
