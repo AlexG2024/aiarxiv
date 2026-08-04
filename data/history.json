@@ -5038,5 +5038,13 @@
     "practicality": "high",
     "published_at": "2026-08-03T22:23:26.706818+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2607.28889v1",
+    "title": "Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-04T10:33:41.158555+03:00",
+    "score": 51
   }
 ]
