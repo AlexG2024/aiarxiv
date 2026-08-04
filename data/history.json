@@ -5054,5 +5054,13 @@
     "practicality": "high",
     "published_at": "2026-08-04T13:15:52.310963+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2607.28840v1",
+    "title": "Benchmarks Are Not Validation: A System-Level View of Financial LLM Applications",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-04T15:20:33.272368+03:00",
+    "score": 45
   }
 ]
