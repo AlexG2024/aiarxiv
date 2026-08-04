@@ -5086,5 +5086,13 @@
     "practicality": "high",
     "published_at": "2026-08-04T21:25:08.776862+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2607.29440v1",
+    "title": "Beyond Retrieval: Analytic Memory for Multimodal Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-04T22:23:10.191556+03:00",
+    "score": 37
   }
 ]
