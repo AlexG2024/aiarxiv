@@ -5062,5 +5062,13 @@
     "practicality": "high",
     "published_at": "2026-08-04T15:20:33.272368+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2607.29347v1",
+    "title": "SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-04T17:58:41.813885+03:00",
+    "score": 41
   }
 ]
