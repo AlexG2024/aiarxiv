@@ -5134,5 +5134,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T19:19:21.732648+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2608.02583v1",
+    "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-05T20:57:07.851289+03:00",
+    "score": 43
   }
 ]
