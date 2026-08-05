@@ -5110,5 +5110,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T13:13:07.887026+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2608.02101v1",
+    "title": "Cross-Domain Hybrid OPD for Generalizable Search Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-05T15:18:21.779223+03:00",
+    "score": 49
   }
 ]
