@@ -5126,5 +5126,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T17:39:08.528051+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.02520v1",
+    "title": "MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-05T19:19:21.732648+03:00",
+    "score": 48
   }
 ]
