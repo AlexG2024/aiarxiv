@@ -5102,5 +5102,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T10:35:10.450801+03:00",
     "score": 58
+  },
+  {
+    "arxiv_id": "2608.01827v1",
+    "title": "DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-05T13:13:07.887026+03:00",
+    "score": 53
   }
 ]
