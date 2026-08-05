@@ -5118,5 +5118,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T15:18:21.779223+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.02372v1",
+    "title": "PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-05T17:39:08.528051+03:00",
+    "score": 49
   }
 ]
