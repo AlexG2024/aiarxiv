@@ -5142,5 +5142,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T20:57:07.851289+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.01995v1",
+    "title": "Long-Horizon Autonomous Architecture Research with a Language-Model Agent: A Behavioural Case Study",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-05T22:21:57.984240+03:00",
+    "score": 42
   }
 ]
