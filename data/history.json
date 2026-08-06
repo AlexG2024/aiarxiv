@@ -5150,5 +5150,13 @@
     "practicality": "high",
     "published_at": "2026-08-05T22:21:57.984240+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.03979v1",
+    "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-06T10:35:28.514789+03:00",
+    "score": 45
   }
 ]
