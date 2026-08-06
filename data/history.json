@@ -5174,5 +5174,13 @@
     "practicality": "high",
     "published_at": "2026-08-06T15:20:27.529225+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.03391v1",
+    "title": "TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-06T17:51:27.140184+03:00",
+    "score": 40
   }
 ]
