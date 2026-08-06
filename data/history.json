@@ -5158,5 +5158,13 @@
     "practicality": "high",
     "published_at": "2026-08-06T10:35:28.514789+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.03474v1",
+    "title": "MT-Web2Code: Benchmarking Coding Agents on Multi-Turn Regional Reconstruction and Localized Modification",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-06T13:15:29.811135+03:00",
+    "score": 44
   }
 ]
