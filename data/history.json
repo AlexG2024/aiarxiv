@@ -5198,5 +5198,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T10:37:48.234444+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2608.05703v1",
+    "title": "StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-07T11:37:43.267165+03:00",
+    "score": 46
   }
 ]
