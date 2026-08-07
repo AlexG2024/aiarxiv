@@ -5238,5 +5238,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T15:08:22.778401+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.06108v1",
+    "title": "Evaluating Investment Logic in Large Language Models: A Real-World Benchmark Towards Personalzied Financial Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-07T16:35:37.521032+03:00",
+    "score": 39
   }
 ]
