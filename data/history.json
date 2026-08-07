@@ -5230,5 +5230,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T14:27:08.641926+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.06128v1",
+    "title": "Contextual Information Policy Optimization for Search Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-07T15:08:22.778401+03:00",
+    "score": 40
   }
 ]
