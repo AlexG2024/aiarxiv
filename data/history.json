@@ -5246,5 +5246,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T16:35:37.521032+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2608.06196v1",
+    "title": "Comparative Approaches to Agent Retrieval over Large Skill Libraries",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-07T17:35:30.058381+03:00",
+    "score": 38
   }
 ]
