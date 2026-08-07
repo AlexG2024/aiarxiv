@@ -5182,5 +5182,13 @@
     "practicality": "high",
     "published_at": "2026-08-06T17:51:27.140184+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.06110v1",
+    "title": "ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-07T09:06:13.924788+03:00",
+    "score": 59
   }
 ]
