@@ -5214,5 +5214,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T12:37:57.185368+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2608.06112v1",
+    "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-07T13:31:04.241031+03:00",
+    "score": 43
   }
 ]
