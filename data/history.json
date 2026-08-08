@@ -5262,5 +5262,13 @@
     "practicality": "high",
     "published_at": "2026-08-07T18:30:18.215206+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.05583v1",
+    "title": "The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-08T08:38:09.092331+03:00",
+    "score": 37
   }
 ]
