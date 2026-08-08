@@ -5278,5 +5278,13 @@
     "practicality": "high",
     "published_at": "2026-08-08T09:23:41.323289+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.06253v1",
+    "title": "MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-08T10:27:41.111854+03:00",
+    "score": 35
   }
 ]
