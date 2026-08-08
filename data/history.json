@@ -5302,5 +5302,13 @@
     "practicality": "high",
     "published_at": "2026-08-08T12:33:53.504812+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.05539v1",
+    "title": "OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-08T13:46:38.607892+03:00",
+    "score": 33
   }
 ]
