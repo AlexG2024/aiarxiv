@@ -5334,5 +5334,13 @@
     "practicality": "high",
     "published_at": "2026-08-08T16:13:50.708773+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2608.05628v1",
+    "title": "SkillHEX: Improving Agent Skills via Hypothesis-Driven Autonomous Exploration and Exploitation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-08T17:36:19.061376+03:00",
+    "score": 31
   }
 ]
