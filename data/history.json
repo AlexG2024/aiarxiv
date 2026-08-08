@@ -5270,5 +5270,13 @@
     "practicality": "high",
     "published_at": "2026-08-08T08:38:09.092331+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.06246v1",
+    "title": "A Six-Dimensional Taxonomy of Post-Training Adaptation Techniques with Applications in AI Governance",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-08T09:23:41.323289+03:00",
+    "score": 35
   }
 ]
