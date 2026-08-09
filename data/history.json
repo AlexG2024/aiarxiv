@@ -5366,5 +5366,13 @@
     "practicality": "high",
     "published_at": "2026-08-09T10:35:22.981614+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2608.06275v1",
+    "title": "TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-09T11:19:32.870901+03:00",
+    "score": 30
   }
 ]
