@@ -5398,5 +5398,13 @@
     "practicality": "high",
     "published_at": "2026-08-09T14:39:20.516179+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.06223v1",
+    "title": "TS-RAG: Retrieval Augmented Generation for Time Series Forecasting",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-09T16:11:05.349912+03:00",
+    "score": 29
   }
 ]
