@@ -5406,5 +5406,13 @@
     "practicality": "high",
     "published_at": "2026-08-09T16:11:05.349912+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.05716v1",
+    "title": "BlockPython: A Process-Aware Agent-Supported Platform for the Transition from Block-Based to Python Programming",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-09T17:00:51.804383+03:00",
+    "score": 29
   }
 ]
