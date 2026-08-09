@@ -5358,5 +5358,13 @@
     "practicality": "high",
     "published_at": "2026-08-09T09:29:49.166111+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2608.05588v1",
+    "title": "Search-Aided Joint Agent-Environment Reinforcement Learning for Robust Lifelong Multi-Agent Path Finding with Rotations",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-09T10:35:22.981614+03:00",
+    "score": 30
   }
 ]
