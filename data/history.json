@@ -5414,5 +5414,13 @@
     "practicality": "high",
     "published_at": "2026-08-09T17:00:51.804383+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.05938v1",
+    "title": "MirrorNet: Can Medical Image Anonymization Really Protect Patient Identity?",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-09T17:47:54.219993+03:00",
+    "score": 29
   }
 ]
