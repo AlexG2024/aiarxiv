@@ -5462,5 +5462,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T14:35:49.636264+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.06060v1",
+    "title": "Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-10T15:27:51.699409+03:00",
+    "score": 28
   }
 ]
