@@ -5478,5 +5478,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T16:55:52.862010+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.05876v1",
+    "title": "Personalized Deep Research Query Refinement with Graph-Scaffolded Evidence Grounding",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-10T17:54:31.813777+03:00",
+    "score": 28
   }
 ]
