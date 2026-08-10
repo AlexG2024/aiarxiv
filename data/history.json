@@ -5494,5 +5494,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T18:55:32.667947+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2608.05949v1",
+    "title": "VLMs for Videogame Data Annotation",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-10T19:50:27.438645+03:00",
+    "score": 27
   }
 ]
