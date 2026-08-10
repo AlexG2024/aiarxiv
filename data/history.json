@@ -5430,5 +5430,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T09:07:45.538781+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.05747v1",
+    "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-10T11:01:27.809917+03:00",
+    "score": 29
   }
 ]
