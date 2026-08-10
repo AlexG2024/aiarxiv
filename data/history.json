@@ -5446,5 +5446,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T12:43:47.674808+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.05604v1",
+    "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-10T13:48:39.961862+03:00",
+    "score": 29
   }
 ]
