@@ -5502,5 +5502,13 @@
     "practicality": "high",
     "published_at": "2026-08-10T19:50:27.438645+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2608.07418v1",
+    "title": "ResidencyRL: Reinforcement Learning in Simulated Clinical Environments",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-11T08:50:06.721857+03:00",
+    "score": 56
   }
 ]
