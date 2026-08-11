@@ -5550,5 +5550,13 @@
     "practicality": "high",
     "published_at": "2026-08-11T13:35:48.199565+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.06811v1",
+    "title": "Coupling Planning with Episodic Memory in LLM Agents for Software Issue Resolution",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-11T14:24:55.875489+03:00",
+    "score": 34
   }
 ]
