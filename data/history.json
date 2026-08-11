@@ -5542,5 +5542,13 @@
     "practicality": "high",
     "published_at": "2026-08-11T12:44:36.348000+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.06865v1",
+    "title": "Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-11T13:35:48.199565+03:00",
+    "score": 37
   }
 ]
