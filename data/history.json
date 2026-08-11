@@ -5510,5 +5510,13 @@
     "practicality": "high",
     "published_at": "2026-08-11T08:50:06.721857+03:00",
     "score": 56
+  },
+  {
+    "arxiv_id": "2608.06871v1",
+    "title": "CEDAR: Agent-Orchestrated Tree Search for Goal-Directed Optimization of Complex Systems",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-11T09:39:54.200502+03:00",
+    "score": 44
   }
 ]
