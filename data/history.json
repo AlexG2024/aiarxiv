@@ -5526,5 +5526,13 @@
     "practicality": "high",
     "published_at": "2026-08-11T10:53:21.445069+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.06948v1",
+    "title": "LMM Modality Transfer: A Pre-requisite for Autonomous GIS Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-11T11:48:41.734488+03:00",
+    "score": 41
   }
 ]
