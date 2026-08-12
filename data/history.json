@@ -5638,5 +5638,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T15:57:37.428454+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.09532v1",
+    "title": "Carnot: Interpretable, Interactive, and Optimized Execution of Deep Research Queries",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-12T17:20:22.845835+03:00",
+    "score": 40
   }
 ]
