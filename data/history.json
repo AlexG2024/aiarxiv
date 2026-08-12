@@ -5606,5 +5606,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T11:54:25.041768+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2608.09650v1",
+    "title": "Listwise Cross-Encoder Fine-Tuning vs. Agentic Instruction Tuning for LLM Rerankers: A Systematic Study in Medical Procedure Reranking",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-12T12:56:52.289030+03:00",
+    "score": 47
   }
 ]
