@@ -5646,5 +5646,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T17:20:22.845835+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.09443v1",
+    "title": "Coupled Graph--Policy Distillation for Personalized Medication Safety in Older Adults with Multimorbidity",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-12T18:28:14.259707+03:00",
+    "score": 40
   }
 ]
