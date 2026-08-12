@@ -5598,5 +5598,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T10:48:53.506737+03:00",
     "score": 57
+  },
+  {
+    "arxiv_id": "2608.09474v1",
+    "title": "FaLCon: Facet-Anchored Retrieval with Late Consensus for Sim2Real Text-Based Person Anomaly Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-12T11:54:25.041768+03:00",
+    "score": 52
   }
 ]
