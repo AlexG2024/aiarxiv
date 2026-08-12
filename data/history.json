@@ -5654,5 +5654,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T18:28:14.259707+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.09214v1",
+    "title": "AkasicDB: Demonstrating Omni RAG with a Unified Vector-Graph-Relational DBMS",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-12T19:26:16.755479+03:00",
+    "score": 38
   }
 ]
