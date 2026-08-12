@@ -5630,5 +5630,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T14:51:51.969419+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.09830v1",
+    "title": "Deep Multimodal Wearable Sensor Fusion for Detection of Body-Focused Repetitive Behaviors",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-12T15:57:37.428454+03:00",
+    "score": 40
   }
 ]
