@@ -5614,5 +5614,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T12:56:52.289030+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2608.09185v1",
+    "title": "SiriusDeliver: Automating Data Warehouse Delivery at Tencent",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-12T13:59:11.895869+03:00",
+    "score": 43
   }
 ]
