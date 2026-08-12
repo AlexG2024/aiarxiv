@@ -5590,5 +5590,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T09:09:18.722435+03:00",
     "score": 70
+  },
+  {
+    "arxiv_id": "2608.09142v1",
+    "title": "An Agentic Generative Large Language Model for Treatment Planning of Colorectal Cancer",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-12T10:48:53.506737+03:00",
+    "score": 57
   }
 ]
