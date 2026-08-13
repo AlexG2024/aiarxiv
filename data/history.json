@@ -5694,5 +5694,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T13:19:31.439453+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.10408v1",
+    "title": "VisEditBench: Can Vision-Language Models Edit Visualization Code from Multimodal Feedback?",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-13T14:13:33.064265+03:00",
+    "score": 40
   }
 ]
