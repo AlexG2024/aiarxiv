@@ -5686,5 +5686,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T12:08:22.928281+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.10915v1",
+    "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-13T13:19:31.439453+03:00",
+    "score": 40
   }
 ]
