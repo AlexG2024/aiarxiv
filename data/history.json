@@ -5702,5 +5702,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T14:13:33.064265+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.10775v1",
+    "title": "SkillLens: Visual Skill Cards for Retrieval-Augmented GUI Action Prediction and On-Policy Distillation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-13T15:01:29.027847+03:00",
+    "score": 39
   }
 ]
