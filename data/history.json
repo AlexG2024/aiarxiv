@@ -5662,5 +5662,13 @@
     "practicality": "high",
     "published_at": "2026-08-12T19:26:16.755479+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.10692v1",
+    "title": "SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-08-13T09:12:37.674988+03:00",
+    "score": 49
   }
 ]
