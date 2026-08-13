@@ -5710,5 +5710,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T15:01:29.027847+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2608.10827v1",
+    "title": "MIRA: Medical Image Reflection for Agentic Diagnosis",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-13T16:38:54.208515+03:00",
+    "score": 37
   }
 ]
