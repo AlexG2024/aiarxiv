@@ -5670,5 +5670,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T09:12:37.674988+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.10494v1",
+    "title": "GeoForge: Non-Parametric Self-Evolving Agents for Earth-Observation Reasoning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-13T10:55:49.606748+03:00",
+    "score": 45
   }
 ]
