@@ -5678,5 +5678,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T10:55:49.606748+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.10530v1",
+    "title": "On Understanding, Identifying, and Mitigating Vulnerabilities in Agentic Large Language Models",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-13T12:08:22.928281+03:00",
+    "score": 43
   }
 ]
