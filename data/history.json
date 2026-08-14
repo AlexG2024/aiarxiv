@@ -5782,5 +5782,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T13:53:52.560649+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.11967v1",
+    "title": "LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-14T14:40:21.441084+03:00",
+    "score": 40
   }
 ]
