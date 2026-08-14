@@ -5798,5 +5798,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T15:28:59.464862+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.11679v1",
+    "title": "AgenticTwin: An Agentic LLM Framework Integrated with Digital Twin for Anomaly Detection",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-14T16:54:53.829444+03:00",
+    "score": 39
   }
 ]
