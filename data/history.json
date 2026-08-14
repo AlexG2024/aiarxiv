@@ -5766,5 +5766,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T11:50:20.921913+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2608.12025v1",
+    "title": "From Safety Documentation to Safety Knowledge Support: An Evidence-Grounded LLM Framework for Medical Devices",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-14T12:55:09.129471+03:00",
+    "score": 43
   }
 ]
