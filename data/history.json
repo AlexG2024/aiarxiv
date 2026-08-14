@@ -5742,5 +5742,13 @@
     "practicality": "high",
     "published_at": "2026-08-13T20:38:41.382433+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2608.12290v1",
+    "title": "Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-14T09:09:24.378770+03:00",
+    "score": 51
   }
 ]
