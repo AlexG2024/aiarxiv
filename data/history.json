@@ -5758,5 +5758,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T10:47:24.735367+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2608.11738v1",
+    "title": "Advancing MLLM-based UAV Image Understanding and Reasoning: A Benchmark and a Training-Free Multi-Agent System",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-14T11:50:20.921913+03:00",
+    "score": 44
   }
 ]
