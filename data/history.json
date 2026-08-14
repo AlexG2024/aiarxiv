@@ -5750,5 +5750,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T09:09:24.378770+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2608.11616v1",
+    "title": "MBA: Multimodal Benchmark and Agents for Real-World Business Ideation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-14T10:47:24.735367+03:00",
+    "score": 47
   }
 ]
