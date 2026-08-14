@@ -5814,5 +5814,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T17:46:16.824246+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2608.11891v1",
+    "title": "Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-14T18:36:48.335256+03:00",
+    "score": 36
   }
 ]
