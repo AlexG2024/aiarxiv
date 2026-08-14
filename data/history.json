@@ -5790,5 +5790,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T14:40:21.441084+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.11878v1",
+    "title": "ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-14T15:28:59.464862+03:00",
+    "score": 40
   }
 ]
