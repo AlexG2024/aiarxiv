@@ -5806,5 +5806,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T16:54:53.829444+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2608.12133v1",
+    "title": "GUIDE: Governed Unified Intelligence for Document-to-Artifact Generation in Enterprise Settings",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-14T17:46:16.824246+03:00",
+    "score": 36
   }
 ]
