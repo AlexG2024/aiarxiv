@@ -5774,5 +5774,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T12:55:09.129471+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.12138v1",
+    "title": "A corpus-specific clinical RAG system matches or outperforms newer frontier LLMs on HealthBench",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-14T13:53:52.560649+03:00",
+    "score": 41
   }
 ]
