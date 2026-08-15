@@ -5822,5 +5822,13 @@
     "practicality": "high",
     "published_at": "2026-08-14T18:36:48.335256+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2608.13031v1",
+    "title": "UniTraffic-Agent: Unified Traffic Video Reasoning for AI City Challenge 2026 Track 3 with Two Out-of-Domain Evaluations",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-15T08:20:11.741913+03:00",
+    "score": 43
   }
 ]
