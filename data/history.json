@@ -5878,5 +5878,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T14:14:52.176975+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.13334v1",
+    "title": "RippleMem: From Isolated Retrieval to Associative Recollection for Long-Term Agent Memory",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-15T15:27:15.720000+03:00",
+    "score": 37
   }
 ]
