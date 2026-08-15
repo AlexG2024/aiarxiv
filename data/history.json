@@ -5830,5 +5830,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T08:20:11.741913+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.13463v1",
+    "title": "MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-15T09:54:10.599330+03:00",
+    "score": 42
   }
 ]
