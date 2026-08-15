@@ -5854,5 +5854,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T11:21:08.557245+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.13472v1",
+    "title": "AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-15T12:20:27.464745+03:00",
+    "score": 40
   }
 ]
