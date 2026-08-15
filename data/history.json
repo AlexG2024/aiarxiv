@@ -5894,5 +5894,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T16:40:29.506342+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2608.12751v1",
+    "title": "SynAct: A Reasoning-Acting Large Language Model Agent for Adaptive Synthesis Optimization",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-15T17:34:15.349464+03:00",
+    "score": 34
   }
 ]
