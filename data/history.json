@@ -5846,5 +5846,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T10:25:40.951613+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.12888v1",
+    "title": "When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-15T11:21:08.557245+03:00",
+    "score": 41
   }
 ]
