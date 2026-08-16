@@ -5966,5 +5966,13 @@
     "practicality": "high",
     "published_at": "2026-08-16T15:29:16.723487+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.12851v1",
+    "title": "Practice Makes Unsafe: Skill Misevolution in Self-Improving LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-16T16:10:10.399478+03:00",
+    "score": 28
   }
 ]
