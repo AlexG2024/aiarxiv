@@ -5910,5 +5910,13 @@
     "practicality": "high",
     "published_at": "2026-08-16T08:22:20.736745+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2608.13428v1",
+    "title": "RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-16T09:31:17.875187+03:00",
+    "score": 33
   }
 ]
