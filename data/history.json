@@ -5902,5 +5902,13 @@
     "practicality": "high",
     "published_at": "2026-08-15T17:34:15.349464+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.12987v1",
+    "title": "Generative Universal Multimodal Retrieval with Dual-role Identifiers",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-16T08:22:20.736745+03:00",
+    "score": 33
   }
 ]
