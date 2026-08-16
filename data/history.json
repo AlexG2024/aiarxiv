@@ -5950,5 +5950,13 @@
     "practicality": "high",
     "published_at": "2026-08-16T13:34:17.860283+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2608.12984v1",
+    "title": "Reconcile Once, Write Anytime: A Trust-Tiered Librarian and a Multi-Agent Writer for Drift-Free, Point-in-Time Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-16T14:15:28.801867+03:00",
+    "score": 29
   }
 ]
