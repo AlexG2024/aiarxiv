@@ -5974,5 +5974,13 @@
     "practicality": "high",
     "published_at": "2026-08-16T16:10:10.399478+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.13129v1",
+    "title": "Numeracy in Large Language Models: Fundamental Limitations and Paths to Improvement",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-16T17:34:20.491114+03:00",
+    "score": 28
   }
 ]
