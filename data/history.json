@@ -5934,5 +5934,13 @@
     "practicality": "high",
     "published_at": "2026-08-16T11:10:12.903508+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2608.12720v1",
+    "title": "ERSkill: Evolving for Skill-Guided Adaptive Memory Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-16T12:12:03.324314+03:00",
+    "score": 32
   }
 ]
