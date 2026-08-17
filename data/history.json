@@ -5990,5 +5990,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T08:30:27.519224+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2608.12904v1",
+    "title": "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-17T10:12:02.975030+03:00",
+    "score": 27
   }
 ]
