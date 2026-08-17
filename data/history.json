@@ -6022,5 +6022,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T12:37:32.375234+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2608.12843v1",
+    "title": "Heterogeneous Vision-Language Ensemble with Disagreement-Aware Reranking for Text-Based Person Anomaly Retrieval",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-17T13:46:04.723673+03:00",
+    "score": 26
   }
 ]
