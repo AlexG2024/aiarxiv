@@ -6054,5 +6054,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T16:25:00.964384+03:00",
     "score": 25
+  },
+  {
+    "arxiv_id": "2608.13004v1",
+    "title": "HybridRAG-BN: A Retrieval-Augmented Framework with Fine-Tuned Verification for Bangla KBQA",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-17T17:36:24.347251+03:00",
+    "score": 25
   }
 ]
