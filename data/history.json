@@ -6038,5 +6038,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T14:10:00.699406+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2608.13095v1",
+    "title": "Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-17T15:39:53.039390+03:00",
+    "score": 25
   }
 ]
