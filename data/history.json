@@ -6030,5 +6030,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T13:46:04.723673+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2608.12781v1",
+    "title": "Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-17T14:10:00.699406+03:00",
+    "score": 26
   }
 ]
