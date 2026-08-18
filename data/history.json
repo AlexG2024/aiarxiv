@@ -6126,5 +6126,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T15:15:23.373324+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.13884v1",
+    "title": "Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-18T16:10:23.870016+03:00",
+    "score": 34
   }
 ]
