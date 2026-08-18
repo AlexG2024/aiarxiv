@@ -24,8 +24,8 @@
       "score": 52,
       "practicality": "high",
       "post_html": "<b>AI-агент: рекомендации</b>\n<i>MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Juli Huang и еще 5 | Information Retrieval, Artificial Intelligence | 14.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.14068v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.14068v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-08-18T09:34:09.902424+03:00"
     },
     {
       "slot": 3,

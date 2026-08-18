@@ -6070,5 +6070,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T08:23:15.470660+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2608.14068v1",
+    "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-18T09:34:09.902424+03:00",
+    "score": 52
   }
 ]
