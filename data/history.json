@@ -6086,5 +6086,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T10:22:05.968557+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.13889v1",
+    "title": "Consensus-gated Multi-Agent Neural Architecture Search for Seismic Fault Segmentation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-18T11:50:04.630244+03:00",
+    "score": 48
   }
 ]
