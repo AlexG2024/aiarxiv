@@ -6062,5 +6062,13 @@
     "practicality": "high",
     "published_at": "2026-08-17T17:36:24.347251+03:00",
     "score": 25
+  },
+  {
+    "arxiv_id": "2608.13900v1",
+    "title": "Agentic Transaction: Towards ACID-Compliant Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-18T08:23:15.470660+03:00",
+    "score": 53
   }
 ]
