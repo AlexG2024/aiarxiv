@@ -6094,5 +6094,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T11:50:04.630244+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2608.14132v1",
+    "title": "Act2Intention: A Benchmark For Developing Active Mobile Agents Through Inferring User Intention from GUI Actions",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-18T12:17:26.945245+03:00",
+    "score": 44
   }
 ]
