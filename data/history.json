@@ -6118,5 +6118,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T14:20:18.144211+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2608.14270v1",
+    "title": "TimeSage-EV: A Live Benchmark for Agentic Time Series Analysis in Evolving Environments",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-18T15:15:23.373324+03:00",
+    "score": 37
   }
 ]
