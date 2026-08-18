@@ -6110,5 +6110,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T13:22:12.336352+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.13791v1",
+    "title": "VLM- and LLM-Driven Multi-Agent System for PET Image Denoising",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-18T14:20:18.144211+03:00",
+    "score": 39
   }
 ]
