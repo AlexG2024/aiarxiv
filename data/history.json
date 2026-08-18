@@ -6078,5 +6078,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T09:34:09.902424+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2608.13786v1",
+    "title": "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-18T10:22:05.968557+03:00",
+    "score": 49
   }
 ]
