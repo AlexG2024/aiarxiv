@@ -6174,5 +6174,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T11:50:37.861418+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.16690v1",
+    "title": "AnchorScore: A CLIP-Based Diagnostic of MLLM Annotation Difficulty",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-19T12:27:44.734309+03:00",
+    "score": 35
   }
 ]
