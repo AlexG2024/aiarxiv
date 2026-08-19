@@ -6182,5 +6182,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T12:27:44.734309+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.16276v1",
+    "title": "PolyDebate: A Game-Orchestrated Multimodal System for Debate Skills Practice and Evaluation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-19T13:32:16.904230+03:00",
+    "score": 34
   }
 ]
