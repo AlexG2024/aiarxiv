@@ -6198,5 +6198,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T14:27:00.503371+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.16246v1",
+    "title": "CompoSkill: Compositional Skill Chain Attacks from Individually Scanner-Passing LLM Agent Skills",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-19T15:36:03.537162+03:00",
+    "score": 34
   }
 ]
