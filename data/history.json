@@ -6166,5 +6166,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T10:22:43.925019+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.16285v1",
+    "title": "Audio-Visual Segmentation via Depth-Guided Collaborative Modeling",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-19T11:50:37.861418+03:00",
+    "score": 35
   }
 ]
