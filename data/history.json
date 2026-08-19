@@ -6214,5 +6214,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T16:27:39.523422+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.16742v1",
+    "title": "TDD-Agent: Test-Driven Reasoning for Code Generation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-19T17:48:42.315025+03:00",
+    "score": 34
   }
 ]
