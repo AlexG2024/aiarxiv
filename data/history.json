@@ -6142,5 +6142,13 @@
     "practicality": "high",
     "published_at": "2026-08-18T17:36:23.573275+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.16211v1",
+    "title": "BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-19T08:24:39.605213+03:00",
+    "score": 38
   }
 ]
