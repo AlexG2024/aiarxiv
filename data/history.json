@@ -6158,5 +6158,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T09:34:54.514392+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2608.16824v1",
+    "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-19T10:22:43.925019+03:00",
+    "score": 35
   }
 ]
