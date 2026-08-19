@@ -6150,5 +6150,13 @@
     "practicality": "high",
     "published_at": "2026-08-19T08:24:39.605213+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.16721v1",
+    "title": "GenRouter: Unified Workflow Routing for Agentic Image Generation",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-19T09:34:54.514392+03:00",
+    "score": 36
   }
 ]
