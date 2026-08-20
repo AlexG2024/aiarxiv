@@ -6230,5 +6230,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T08:25:06.628686+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2608.17800v1",
+    "title": "StartupBench: Benchmarking General-Purpose Agents on Market-Validated End-to-End Workflows",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-20T09:36:35.740603+03:00",
+    "score": 45
   }
 ]
