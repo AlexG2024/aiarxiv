@@ -6246,5 +6246,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T10:25:31.580422+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.17605v1",
+    "title": "Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-20T11:51:37.679675+03:00",
+    "score": 42
   }
 ]
