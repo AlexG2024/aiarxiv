@@ -6286,5 +6286,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T15:58:23.524635+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.17911v1",
+    "title": "CABLE: Extending the Reach of Memory Retrieval via Complementary Antecedent-Based Linking and Expansion",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-20T16:50:00.250253+03:00",
+    "score": 35
   }
 ]
