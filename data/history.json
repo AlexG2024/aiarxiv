@@ -6262,5 +6262,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T12:28:26.570048+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.17906v1",
+    "title": "AutoResearch: Insight In, Hallucination Out",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-20T13:42:30.400066+03:00",
+    "score": 38
   }
 ]
