@@ -6278,5 +6278,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T14:38:37.208822+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.17550v1",
+    "title": "Code as Representation: A Compilable Parsing Paradigm for Academic Documents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-20T15:58:23.524635+03:00",
+    "score": 37
   }
 ]
