@@ -6254,5 +6254,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T11:51:37.679675+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.17975v1",
+    "title": "aDSL: Agentic 3D Creation via Joint Agent-Program Design",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-20T12:28:26.570048+03:00",
+    "score": 40
   }
 ]
