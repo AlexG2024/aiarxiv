@@ -6294,5 +6294,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T16:50:00.250253+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.18009v1",
+    "title": "Memory Tree Guided Key Frame Querying for Efficient 3D Question Answering",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-20T17:21:53.722483+03:00",
+    "score": 35
   }
 ]
