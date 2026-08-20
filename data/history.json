@@ -6270,5 +6270,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T13:42:30.400066+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.17834v1",
+    "title": "AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-20T14:38:37.208822+03:00",
+    "score": 38
   }
 ]
