@@ -6238,5 +6238,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T09:36:35.740603+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.17659v1",
+    "title": "MobileWorldSafety: Benchmarking GUI Agent Safety Against Environmental Injection Attacks in Android Apps",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-20T10:25:31.580422+03:00",
+    "score": 43
   }
 ]
