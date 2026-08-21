@@ -6342,5 +6342,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T12:48:32.545265+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2608.19025v1",
+    "title": "Self-prompting and cross-model consensus enable reproducible data extraction from scientific literature with large language models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-21T13:14:16.790639+03:00",
+    "score": 36
   }
 ]
