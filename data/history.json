@@ -6310,5 +6310,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T08:26:47.088820+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.18316v1",
+    "title": "A Configurable Privacy-Preserving MRI Processing Workflow Using Deep Learning-Based Brain Extraction and Adaptive Anatomical Preservation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-21T09:49:19.867492+03:00",
+    "score": 42
   }
 ]
