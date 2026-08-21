@@ -6318,5 +6318,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T09:49:19.867492+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.18878v1",
+    "title": "DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-21T10:30:39.245024+03:00",
+    "score": 41
   }
 ]
