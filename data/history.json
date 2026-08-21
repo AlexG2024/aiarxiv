@@ -6326,5 +6326,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T10:30:39.245024+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.18682v1",
+    "title": "RTPO: Reverse-Turn Policy Optimization for Stabilizing Agentic RL Training",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-21T11:17:32.427186+03:00",
+    "score": 37
   }
 ]
