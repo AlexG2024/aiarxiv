@@ -6302,5 +6302,13 @@
     "practicality": "high",
     "published_at": "2026-08-20T17:21:53.722483+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.19029v1",
+    "title": "Adaptive Memory and Reflection Multi-Agent System for Medical Question Answering",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-21T08:26:47.088820+03:00",
+    "score": 49
   }
 ]
