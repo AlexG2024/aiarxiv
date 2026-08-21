@@ -6358,5 +6358,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T14:12:27.717238+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.18524v1",
+    "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-21T16:05:46.432372+03:00",
+    "score": 34
   }
 ]
