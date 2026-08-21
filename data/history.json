@@ -6366,5 +6366,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T16:05:46.432372+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.18833v1",
+    "title": "EVADE: Evidence-Verified Agentic Diagnosis with Escape",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-21T16:54:18.694901+03:00",
+    "score": 33
   }
 ]
