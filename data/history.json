@@ -6454,5 +6454,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T16:15:48.496147+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2608.19526v1",
+    "title": "Automated Summarization of Financial News Using Large Language Models and Retrieval-Augmented Generation: An Early Empirical Study (Fall 2023)",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-22T17:33:24.478872+03:00",
+    "score": 30
   }
 ]
