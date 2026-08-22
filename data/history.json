@@ -6382,5 +6382,13 @@
     "practicality": "high",
     "published_at": "2026-08-21T17:29:04.128217+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2608.20320v1",
+    "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-22T08:21:31.320333+03:00",
+    "score": 56
   }
 ]
