@@ -6390,5 +6390,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T08:21:31.320333+03:00",
     "score": 56
+  },
+  {
+    "arxiv_id": "2608.19875v1",
+    "title": "A knowledge-guided agentic framework for mitigating patient-context ambiguity in health queries",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-22T09:30:50.913559+03:00",
+    "score": 53
   }
 ]
