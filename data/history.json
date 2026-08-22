@@ -6406,5 +6406,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T10:16:30.806660+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.19621v1",
+    "title": "Mitigating Identity Essentialism in LLM Agents with Longitudinal Life Trajectories",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-22T11:11:32.858158+03:00",
+    "score": 41
   }
 ]
