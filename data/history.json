@@ -6398,5 +6398,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T09:30:50.913559+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2608.20331v1",
+    "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-22T10:16:30.806660+03:00",
+    "score": 43
   }
 ]
