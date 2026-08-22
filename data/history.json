@@ -6438,5 +6438,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T14:16:09.585916+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2608.20144v1",
+    "title": "PelviNeXt: A Modality-Agnostic Hybrid Network for Pelvic Imaging in Women's Health",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-22T15:31:58.318837+03:00",
+    "score": 32
   }
 ]
