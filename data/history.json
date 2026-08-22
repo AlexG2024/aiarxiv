@@ -6446,5 +6446,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T15:31:58.318837+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2608.19355v1",
+    "title": "GRACE: Grounded Reasoning via Adapter Composition and Evidence-Aware Calibration for Educational Visual Question Answering",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-08-22T16:15:48.496147+03:00",
+    "score": 31
   }
 ]
