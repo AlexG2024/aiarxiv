@@ -6486,5 +6486,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T10:18:16.748464+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.19487v1",
+    "title": "Accelerated Genetic Programming Hyper-Heuristics for Simulation-Based Scheduling via Agentic AI",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-23T11:22:54.573602+03:00",
+    "score": 28
   }
 ]
