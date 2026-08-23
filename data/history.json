@@ -6478,5 +6478,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T09:32:14.361222+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.19653v1",
+    "title": "DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-23T10:18:16.748464+03:00",
+    "score": 28
   }
 ]
