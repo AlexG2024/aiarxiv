@@ -6462,5 +6462,13 @@
     "practicality": "high",
     "published_at": "2026-08-22T17:33:24.478872+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2608.19902v1",
+    "title": "Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-23T08:23:39.226979+03:00",
+    "score": 29
   }
 ]
