@@ -6502,5 +6502,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T12:24:20.681999+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.20319v1",
+    "title": "Inducing Task Models from Computer-Use Traces",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-23T13:17:58.731925+03:00",
+    "score": 27
   }
 ]
