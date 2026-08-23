@@ -6494,5 +6494,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T11:22:54.573602+03:00",
     "score": 28
+  },
+  {
+    "arxiv_id": "2608.20318v1",
+    "title": "AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-23T12:24:20.681999+03:00",
+    "score": 28
   }
 ]
