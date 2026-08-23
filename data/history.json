@@ -6526,5 +6526,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T15:29:38.660641+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2608.19652v1",
+    "title": "Can Agent Memory Systems Track Evolving State?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-23T16:11:35.625032+03:00",
+    "score": 26
   }
 ]
