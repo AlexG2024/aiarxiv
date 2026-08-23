@@ -6470,5 +6470,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T08:23:39.226979+03:00",
     "score": 29
+  },
+  {
+    "arxiv_id": "2608.19380v1",
+    "title": "CAViAR: A Causal Video Dataset for Fine-Grained Accident Reasoning in Real-World Scenarios",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-23T09:32:14.361222+03:00",
+    "score": 29
   }
 ]
