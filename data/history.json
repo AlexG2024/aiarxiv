@@ -6534,5 +6534,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T16:11:35.625032+03:00",
     "score": 26
+  },
+  {
+    "arxiv_id": "2608.20127v1",
+    "title": "ID-VTG: Image-Disambiguated Video Temporal Grounding",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-08-23T17:34:52.824842+03:00",
+    "score": 25
   }
 ]
