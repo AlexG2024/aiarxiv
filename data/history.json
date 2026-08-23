@@ -6510,5 +6510,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T13:17:58.731925+03:00",
     "score": 27
+  },
+  {
+    "arxiv_id": "2608.19794v1",
+    "title": "Towards general embodied intelligence: integrating large language models, knowledge bases, and reasoning capabilities to build the next generation of AI agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-23T14:30:55.236673+03:00",
+    "score": 27
   }
 ]
