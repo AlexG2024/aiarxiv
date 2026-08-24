@@ -6566,5 +6566,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T11:06:09.240208+03:00",
     "score": 24
+  },
+  {
+    "arxiv_id": "2608.19857v1",
+    "title": "Inadvertent Context Leakage in Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-24T11:59:42.541857+03:00",
+    "score": 24
   }
 ]
