@@ -6582,5 +6582,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T12:55:37.310188+03:00",
     "score": 24
+  },
+  {
+    "arxiv_id": "2608.19739v1",
+    "title": "Question-Guided Evidence Acquisition for Multimodal Visual Question Answering",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-24T13:33:22.949288+03:00",
+    "score": 24
   }
 ]
