@@ -6558,5 +6558,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T10:15:54.401149+03:00",
     "score": 25
+  },
+  {
+    "arxiv_id": "2608.20169v1",
+    "title": "Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-24T11:06:09.240208+03:00",
+    "score": 24
   }
 ]
