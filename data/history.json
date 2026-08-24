@@ -6542,5 +6542,13 @@
     "practicality": "high",
     "published_at": "2026-08-23T17:34:52.824842+03:00",
     "score": 25
+  },
+  {
+    "arxiv_id": "2608.19701v1",
+    "title": "Beyond Memory Majority: Latent-Source Reasoning for Multi-Agent Memory Arbitration",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-24T08:33:22.604153+03:00",
+    "score": 25
   }
 ]
