@@ -6590,5 +6590,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T13:33:22.949288+03:00",
     "score": 24
+  },
+  {
+    "arxiv_id": "2608.20338v1",
+    "title": "ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-24T14:38:35.584342+03:00",
+    "score": 23
   }
 ]
