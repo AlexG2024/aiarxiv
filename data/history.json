@@ -6574,5 +6574,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T11:59:42.541857+03:00",
     "score": 24
+  },
+  {
+    "arxiv_id": "2608.19842v1",
+    "title": "SAPO: Single-Rollout Autoregressive Policy Optimization for Agentic Reinforcement Learning",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-24T12:55:37.310188+03:00",
+    "score": 24
   }
 ]
