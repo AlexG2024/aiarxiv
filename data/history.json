@@ -6606,5 +6606,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T16:03:48.358596+03:00",
     "score": 23
+  },
+  {
+    "arxiv_id": "2608.19964v1",
+    "title": "G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-24T16:58:03.049021+03:00",
+    "score": 23
   }
 ]
