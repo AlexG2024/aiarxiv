@@ -6694,5 +6694,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T16:32:17.691788+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.20771v1",
+    "title": "CAS: Conformalized Agentic Search via Adaptive Retrieval and Policy Weighting",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-25T17:24:04.035692+03:00",
+    "score": 34
   }
 ]
