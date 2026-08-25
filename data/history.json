@@ -6646,5 +6646,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T10:31:02.806144+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.20844v1",
+    "title": "TRACE: Agentic Catalog Enrichment with Multi-source Evidence Grounding",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-25T11:20:59.072159+03:00",
+    "score": 45
   }
 ]
