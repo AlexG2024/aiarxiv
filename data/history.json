@@ -6662,5 +6662,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T12:47:59.005668+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.20886v1",
+    "title": "EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-25T13:15:34.268544+03:00",
+    "score": 38
   }
 ]
