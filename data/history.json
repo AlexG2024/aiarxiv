@@ -6654,5 +6654,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T11:20:59.072159+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.20756v1",
+    "title": "Vis-Poison: Poisoning Visual Knowledge in Multimodal Retrieval-Augmented Generation",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-25T12:47:59.005668+03:00",
+    "score": 42
   }
 ]
