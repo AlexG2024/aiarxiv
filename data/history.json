@@ -6638,5 +6638,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T09:46:19.406567+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.20549v1",
+    "title": "Volumetric Radiology AI in the Era of Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-25T10:31:02.806144+03:00",
+    "score": 45
   }
 ]
