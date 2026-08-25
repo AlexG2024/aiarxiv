@@ -6678,5 +6678,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T14:21:58.578710+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.21133v1",
+    "title": "Masking Is Not Enough: Generative Restoration for Multimodal De-Identification in Medical AI",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-25T15:37:27.409931+03:00",
+    "score": 35
   }
 ]
