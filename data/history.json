@@ -6630,5 +6630,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T08:26:11.537668+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2608.21095v1",
+    "title": "Trustworthy RAG: An Evaluation Agent for Detecting Misinformation and Knowledge Poisoning in Generative AI Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-25T09:46:19.406567+03:00",
+    "score": 45
   }
 ]
