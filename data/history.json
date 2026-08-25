@@ -6622,5 +6622,13 @@
     "practicality": "high",
     "published_at": "2026-08-24T17:44:42.511350+03:00",
     "score": 23
+  },
+  {
+    "arxiv_id": "2608.20481v1",
+    "title": "AEGIS: Preventing Cross-Domain Resource Abuse in MCP",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-25T08:26:11.537668+03:00",
+    "score": 49
   }
 ]
