@@ -6670,5 +6670,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T13:15:34.268544+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.21107v1",
+    "title": "Large Language Models at the Intersection of Software Engineering and Software Security:An Evidence-Centered Structured Survey and Research Agenda",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-25T14:21:58.578710+03:00",
+    "score": 38
   }
 ]
