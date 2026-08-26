@@ -6702,5 +6702,13 @@
     "practicality": "high",
     "published_at": "2026-08-25T17:24:04.035692+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2608.23058v1",
+    "title": "LLM-based Agents for Forecasting and Prediction: Methods, Training, Evaluation, and Applications",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-26T08:29:03.164942+03:00",
+    "score": 53
   }
 ]
