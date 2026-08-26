@@ -6734,5 +6734,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T11:36:48.990426+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.23102v1",
+    "title": "Training-Free Pseudo-Fusion for Composed Image Retrieval with Diffusion Models and Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-26T12:22:44.476547+03:00",
+    "score": 41
   }
 ]
