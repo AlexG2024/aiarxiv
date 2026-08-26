@@ -6718,5 +6718,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T10:04:06.439214+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2608.23329v1",
+    "title": "Thinking Beyond Videos: Unifying Video Reasoning and Deep Research for Open-World Video Agents",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-08-26T10:55:02.833207+03:00",
+    "score": 41
   }
 ]
