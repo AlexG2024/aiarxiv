@@ -6742,5 +6742,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T12:22:44.476547+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.22762v1",
+    "title": "Compositional Chain-of-Relations for Faithful Knowledge Graph Question Answering with Large Language Models",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-26T13:48:06.224929+03:00",
+    "score": 41
   }
 ]
