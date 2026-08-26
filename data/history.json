@@ -6750,5 +6750,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T13:48:06.224929+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.23336v1",
+    "title": "Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-26T14:14:52.570586+03:00",
+    "score": 40
   }
 ]
