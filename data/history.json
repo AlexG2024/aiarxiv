@@ -6766,5 +6766,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T15:18:28.983978+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2608.22852v1",
+    "title": "Your AI, On a Dial: Controlling Investment Bias in LLMs with a Single Neuron",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-26T16:27:08.839478+03:00",
+    "score": 39
   }
 ]
