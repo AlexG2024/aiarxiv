@@ -6710,5 +6710,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T08:29:03.164942+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2608.23028v1",
+    "title": "PsychJail: Exploring Psychological Jailbreaks via Multi-Turn Persuasion of LLM Policies",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-26T10:04:06.439214+03:00",
+    "score": 46
   }
 ]
