@@ -6726,5 +6726,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T10:55:02.833207+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.23268v1",
+    "title": "Dual-Grained Agent Memory and Shapley Context Attribution for Multimodal Agentic Learner",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-26T11:36:48.990426+03:00",
+    "score": 41
   }
 ]
