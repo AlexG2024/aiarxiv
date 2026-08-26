@@ -6758,5 +6758,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T14:14:52.570586+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.23503v1",
+    "title": "Action-Aligned Retrieval with Pairwise Multimodal Reranking for Text-Based Person Anomaly Search",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-26T15:18:28.983978+03:00",
+    "score": 39
   }
 ]
