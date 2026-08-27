@@ -6782,5 +6782,13 @@
     "practicality": "high",
     "published_at": "2026-08-26T17:11:26.385088+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.24053v1",
+    "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-27T19:03:12.477119+03:00",
+    "score": 50
   }
 ]
