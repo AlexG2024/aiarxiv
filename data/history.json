@@ -6790,5 +6790,13 @@
     "practicality": "high",
     "published_at": "2026-08-27T19:03:12.477119+03:00",
     "score": 50
+  },
+  {
+    "arxiv_id": "2608.27110v1",
+    "title": "DocTalkBN: A Novel Dataset of Expert Telemedicine Conversations in Bengali",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-08-28T20:07:02.871270+03:00",
+    "score": 65
   }
 ]
