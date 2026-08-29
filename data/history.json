@@ -6806,5 +6806,13 @@
     "practicality": "high",
     "published_at": "2026-08-29T14:26:54.044982+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2608.26596v1",
+    "title": "Not Just Reason, Not Just Scan: Reinforcement Learning for Proactive Scientific Error Verification over Academic Paper",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-08-29T18:43:53.525932+03:00",
+    "score": 45
   }
 ]
