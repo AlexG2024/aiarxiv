@@ -6798,5 +6798,13 @@
     "practicality": "high",
     "published_at": "2026-08-28T20:07:02.871270+03:00",
     "score": 65
+  },
+  {
+    "arxiv_id": "2608.27102v1",
+    "title": "LAAF: A Layered Accountability Architecture Framework for LLM Applications",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-08-29T14:26:54.044982+03:00",
+    "score": 47
   }
 ]
