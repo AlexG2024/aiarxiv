@@ -6830,5 +6830,13 @@
     "practicality": "high",
     "published_at": "2026-08-29T23:17:48.500130+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2608.27219v1",
+    "title": "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-30T13:13:55.636411+03:00",
+    "score": 42
   }
 ]
