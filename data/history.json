@@ -6854,5 +6854,13 @@
     "practicality": "high",
     "published_at": "2026-08-30T21:22:25.839874+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2608.27021v1",
+    "title": "FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-08-30T23:24:27.028621+03:00",
+    "score": 35
   }
 ]
