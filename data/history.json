@@ -6838,5 +6838,13 @@
     "practicality": "high",
     "published_at": "2026-08-30T13:13:55.636411+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2608.26990v1",
+    "title": "DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-30T17:52:59.112761+03:00",
+    "score": 40
   }
 ]
