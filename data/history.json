@@ -6846,5 +6846,13 @@
     "practicality": "high",
     "published_at": "2026-08-30T17:52:59.112761+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2608.26807v1",
+    "title": "Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-08-30T21:22:25.839874+03:00",
+    "score": 38
   }
 ]
