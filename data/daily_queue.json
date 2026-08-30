@@ -1,59 +1,11 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-08-30T08:10:00+03:00",
-      "arxiv_id": "2608.27219v1",
-      "title": "BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing",
-      "theme": "AI в медицине",
-      "score": 42,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: здоровье</b>\n<i>BALMS: Benchmarking Agentic LLMs for Longitudinal Mental Health Sensing</i>\n\nВ центре статьи AI-агента, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Yu Yvonne Wu и еще 9 | Natural Language Processing | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.27219v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.27219v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-08-30T13:13:55.636411+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-08-30T09:10:00+03:00",
-      "arxiv_id": "2608.26990v1",
-      "title": "DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research",
-      "theme": "поиск и работа с информацией",
-      "score": 40,
-      "practicality": "high",
-      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Linsen Zhu, Yi Shi | Artificial Intelligence, cs.MA | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26990v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26990v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-08-30T17:52:59.112761+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-08-30T10:10:00+03:00",
-      "arxiv_id": "2608.26807v1",
-      "title": "Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory",
-      "theme": "поиск и работа с информацией",
-      "score": 38,
-      "practicality": "high",
-      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Behavior2Trip: Towards Personalized Travel Planning via User Behavior Trajectory</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Zihao Cheng и еще 8 | Natural Language Processing, Artificial Intelligence | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26807v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26807v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-08-30T21:22:25.839874+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-08-30T11:10:00+03:00",
-      "arxiv_id": "2608.27021v1",
-      "title": "FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets",
-      "theme": "AI-агенты",
-      "score": 35,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>FaulT-Bench: Towards Benchmarking Network Troubleshooting LLM Agents under Unreliable User Tickets</i>\n\nВ центре статьи AI-агента, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Kuan-Hao Tseng и еще 5 | cs.NI, Artificial Intelligence | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.27021v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.27021v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-08-30T23:24:27.028621+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-08-30T12:10:00+03:00",
+      "scheduled_time_iso": "2026-08-31T08:10:00+03:00",
       "arxiv_id": "2608.26856v1",
       "title": "From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation",
       "theme": "AI в медицине",
@@ -64,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 6,
-      "scheduled_time_iso": "2026-08-30T13:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-08-31T09:10:00+03:00",
       "arxiv_id": "2608.26833v1",
       "title": "Rethinking Image Processing for the Age of AI: A Problem-First Framework for Scientific Progress",
       "theme": "AI для изображений",
@@ -76,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-08-30T14:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-08-31T10:10:00+03:00",
       "arxiv_id": "2608.26546v1",
       "title": "DuMateBench: Evaluating Autonomous Agents in Complex Real-World Workflows",
       "theme": "AI-агенты",
@@ -88,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-08-30T15:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-08-31T11:10:00+03:00",
       "arxiv_id": "2608.27121v1",
       "title": "How AI Experiences Art: Emergent Aesthetic Structure in a Self-Supervised Multimodal Embedding Space",
       "theme": "multimodal AI",
@@ -100,8 +52,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-08-30T16:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-08-31T12:10:00+03:00",
       "arxiv_id": "2608.27049v1",
       "title": "Research Design Tracking and Assessment for the Social Sciences",
       "theme": "поиск и работа с информацией",
@@ -112,14 +64,62 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-08-30T17:10:00+03:00",
+      "slot": 6,
+      "scheduled_time_iso": "2026-08-31T13:10:00+03:00",
       "arxiv_id": "2608.27239v1",
       "title": "A Point-of-Prescription Safety-Check System for Adverse Drug Reactions in Rural Bangladeshi Hospitals: A Feasibility Study",
       "theme": "AI safety и надежность",
       "score": 33,
       "practicality": "high",
       "post_html": "<b>Надежность AI: безопасность AI</b>\n<i>A Point-of-Prescription Safety-Check System for Adverse Drug Reactions in Rural Bangladeshi Hospitals: A Feasibility Study</i>\n\nАвторы представили фреймворк, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Shahir Abdullah | Human-Computer Interaction, Machine Learning | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.27239v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.27239v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-08-31T14:10:00+03:00",
+      "arxiv_id": "2608.26809v1",
+      "title": "Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning",
+      "theme": "AI для видео",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning</i>\n\nРабота описывает AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Chenyang Wu и еще 6 | Computer Vision, Multimedia | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26809v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26809v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-08-31T15:10:00+03:00",
+      "arxiv_id": "2608.26581v1",
+      "title": "Activation Outliers Matter: Robust Recovery for Quantized Multimodal LLMs",
+      "theme": "multimodal AI",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Activation Outliers Matter: Robust Recovery for Quantized Multimodal LLMs</i>\n\nРабота описывает фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Tanzila Rahman и еще 12 | Machine Learning | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26581v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26581v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-08-31T16:10:00+03:00",
+      "arxiv_id": "2608.26753v1",
+      "title": "Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research",
+      "theme": "поиск и работа с информацией",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Lezhi Yu и еще 4 | Software Engineering, Artificial Intelligence | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26753v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26753v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-08-31T17:10:00+03:00",
+      "arxiv_id": "2608.26950v1",
+      "title": "From Atomic to Agentic: Towards Interpretable Evaluation of LLMs' Agentic Mathematical Capabilities",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: работа с несколькими типами данных</b>\n<i>From Atomic to Agentic: Towards Interpretable Evaluation of LLMs&#x27; Agentic Mathematical Capabilities</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jiayi Kuang и еще 13 | Artificial Intelligence, Natural Language Processing | 27.08.2026\n\n<a href=\"https://arxiv.org/abs/2608.26950v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2608.26950v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
