@@ -6862,5 +6862,13 @@
     "practicality": "high",
     "published_at": "2026-08-30T23:24:27.028621+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2608.26856v1",
+    "title": "From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-08-31T14:18:14.686264+03:00",
+    "score": 35
   }
 ]
