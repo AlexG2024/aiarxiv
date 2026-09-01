@@ -6902,5 +6902,13 @@
     "practicality": "high",
     "published_at": "2026-09-01T20:52:08.753624+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2608.27871v1",
+    "title": "Temporal Tree of Thought: Reasoning-Guided Visual Cue Search for Long-Video Understanding",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-09-01T23:24:42.013550+03:00",
+    "score": 44
   }
 ]
