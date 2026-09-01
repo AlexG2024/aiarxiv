@@ -6886,5 +6886,13 @@
     "practicality": "high",
     "published_at": "2026-09-01T12:42:43.096604+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2608.27856v1",
+    "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-01T17:18:49.748428+03:00",
+    "score": 46
   }
 ]
