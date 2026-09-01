@@ -6894,5 +6894,13 @@
     "practicality": "high",
     "published_at": "2026-09-01T17:18:49.748428+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2608.28062v1",
+    "title": "WeAgent-MMSearch: Native Text-Vision Interaction for Multimodal Search Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-01T20:52:08.753624+03:00",
+    "score": 44
   }
 ]
