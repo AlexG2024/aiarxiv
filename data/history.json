@@ -6910,5 +6910,13 @@
     "practicality": "high",
     "published_at": "2026-09-01T23:24:42.013550+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2608.30676v1",
+    "title": "MedAgent-R1: Faithfulness-Aware Reinforcement Learning for Evidence-Grounded Medical Reasoning",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-02T12:15:31.844663+03:00",
+    "score": 45
   }
 ]
