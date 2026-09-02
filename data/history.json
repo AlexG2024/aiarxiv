@@ -6942,5 +6942,13 @@
     "practicality": "high",
     "published_at": "2026-09-02T22:57:50.592521+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2608.30738v1",
+    "title": "Not All Fallbacks Are Failures: Understanding and Recovering from Fallbacks in Mobile Voice Assistants",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-09-02T23:24:39.803752+03:00",
+    "score": 40
   }
 ]
