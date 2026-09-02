@@ -6918,5 +6918,13 @@
     "practicality": "high",
     "published_at": "2026-09-02T12:15:31.844663+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2608.31128v1",
+    "title": "DIASENTINEL: An Auditable Multi-Agent System for Guideline-Grounded Diabetes Risk Screening",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-02T16:42:36.303578+03:00",
+    "score": 42
   }
 ]
