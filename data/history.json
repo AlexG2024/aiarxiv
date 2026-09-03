@@ -6974,5 +6974,13 @@
     "practicality": "high",
     "published_at": "2026-09-03T20:16:52.916329+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2609.00935v1",
+    "title": "DualStake: Dual-Path Confidence Calibration in Deep Research Agents",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-03T22:55:20.201675+03:00",
+    "score": 34
   }
 ]
