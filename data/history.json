@@ -6966,5 +6966,13 @@
     "practicality": "high",
     "published_at": "2026-09-03T16:44:08.568747+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2609.01111v1",
+    "title": "ClinTraceBench: Source-Verifiable Longitudinal Clinical Reasoning over EHR-Derived Dialogues",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-03T20:16:52.916329+03:00",
+    "score": 38
   }
 ]
