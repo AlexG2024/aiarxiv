@@ -6982,5 +6982,13 @@
     "practicality": "high",
     "published_at": "2026-09-03T22:55:20.201675+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2609.00961v1",
+    "title": "Few-Shot Out of Domain Intent Detection with Covariance Corrected Mahalanobis Distance",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-09-03T23:23:42.931042+03:00",
+    "score": 34
   }
 ]
