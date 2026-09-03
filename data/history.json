@@ -6958,5 +6958,13 @@
     "practicality": "high",
     "published_at": "2026-09-03T12:23:50.197425+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2609.01404v1",
+    "title": "Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-03T16:44:08.568747+03:00",
+    "score": 45
   }
 ]
