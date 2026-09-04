@@ -7014,5 +7014,13 @@
     "practicality": "high",
     "published_at": "2026-09-04T20:02:47.871372+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2609.01976v1",
+    "title": "Knowing Is Not Enough: Information Retrievability as a Precondition to Effective LLM Oversight",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-09-04T22:29:16.050124+03:00",
+    "score": 37
   }
 ]
