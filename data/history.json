@@ -6990,5 +6990,13 @@
     "practicality": "high",
     "published_at": "2026-09-03T23:23:42.931042+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2609.02149v1",
+    "title": "OmegaUse-SOP: SOP Engineering for Professional Computer Use from Human Demonstrations",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-04T12:16:53.312926+03:00",
+    "score": 54
   }
 ]
