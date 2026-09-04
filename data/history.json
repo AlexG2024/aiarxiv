@@ -7006,5 +7006,13 @@
     "practicality": "high",
     "published_at": "2026-09-04T16:34:55.666339+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2609.02054v1",
+    "title": "A Tri-Agent Framework for Evaluating and Aligning Question Clarification Capabilities of Large Language Models",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-04T20:02:47.871372+03:00",
+    "score": 37
   }
 ]
