@@ -6998,5 +6998,13 @@
     "practicality": "high",
     "published_at": "2026-09-04T12:16:53.312926+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2609.02780v1",
+    "title": "ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-09-04T16:34:55.666339+03:00",
+    "score": 49
   }
 ]
