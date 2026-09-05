@@ -7030,5 +7030,13 @@
     "practicality": "high",
     "published_at": "2026-09-04T23:09:37.842735+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2609.03414v1",
+    "title": "StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios",
+    "theme": "AI для аудио",
+    "practicality": "high",
+    "published_at": "2026-09-05T11:45:45.206748+03:00",
+    "score": 43
   }
 ]
