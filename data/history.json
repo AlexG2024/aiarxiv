@@ -7038,5 +7038,13 @@
     "practicality": "high",
     "published_at": "2026-09-05T11:45:45.206748+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2609.03454v1",
+    "title": "When Retrieval Helps: Selective Retrieval for Single-Turn Mental-Health QA",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-05T15:07:32.280212+03:00",
+    "score": 41
   }
 ]
