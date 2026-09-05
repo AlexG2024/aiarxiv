@@ -7070,5 +7070,13 @@
     "practicality": "high",
     "published_at": "2026-09-05T22:07:01.094517+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2609.04131v1",
+    "title": "Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-09-05T22:49:15.886952+03:00",
+    "score": 34
   }
 ]
