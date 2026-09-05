@@ -7054,5 +7054,13 @@
     "practicality": "high",
     "published_at": "2026-09-05T18:08:40.234652+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2609.03402v1",
+    "title": "A Prompt-Engineering Approach to Develop Scalable, Flexible, and Real-Time Hybrid Micro-Level Personalization in a General Purpose AI Teaching Assistant",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-09-05T20:18:55.094481+03:00",
+    "score": 39
   }
 ]
