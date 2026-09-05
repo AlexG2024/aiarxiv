@@ -7062,5 +7062,13 @@
     "practicality": "high",
     "published_at": "2026-09-05T20:18:55.094481+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2609.03423v1",
+    "title": "DuplexSpeechBench-IFEval: Evaluating Implicit Instruction Following in Full-Duplex Voice Agents",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-09-05T22:07:01.094517+03:00",
+    "score": 38
   }
 ]
