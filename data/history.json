@@ -7078,5 +7078,13 @@
     "practicality": "high",
     "published_at": "2026-09-05T22:49:15.886952+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2609.03718v1",
+    "title": "What Do CAE Simulation Agents Really Need Beyond a Generic Harness?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-06T12:06:49.003298+03:00",
+    "score": 34
   }
 ]
