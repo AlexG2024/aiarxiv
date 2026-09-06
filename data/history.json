@@ -7102,5 +7102,13 @@
     "practicality": "high",
     "published_at": "2026-09-06T18:56:58.303721+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2609.03619v1",
+    "title": "Remember and Reweight: Enhancing Multi-Agent Debate with Experience Memory and Confidence Estimation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-06T21:04:16.652516+03:00",
+    "score": 31
   }
 ]
