@@ -7094,5 +7094,13 @@
     "practicality": "high",
     "published_at": "2026-09-06T15:51:49.809460+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2609.03416v1",
+    "title": "Dude: A Dual-Detection Multi-Agent System for Paper-Code Discrepancy Detection",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-06T18:56:58.303721+03:00",
+    "score": 31
   }
 ]
