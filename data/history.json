@@ -7110,5 +7110,13 @@
     "practicality": "high",
     "published_at": "2026-09-06T21:04:16.652516+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2609.03493v1",
+    "title": "Making Every Tool Call Count: Necessary Tool-Evidence Path Rewards for Agentic Vision-Language Models",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-06T22:52:59.018178+03:00",
+    "score": 31
   }
 ]
