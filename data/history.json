@@ -7086,5 +7086,13 @@
     "practicality": "high",
     "published_at": "2026-09-06T12:06:49.003298+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2609.04196v1",
+    "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-06T15:51:49.809460+03:00",
+    "score": 33
   }
 ]
