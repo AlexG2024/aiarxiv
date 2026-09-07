@@ -7118,5 +7118,13 @@
     "practicality": "high",
     "published_at": "2026-09-06T22:52:59.018178+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2609.03941v1",
+    "title": "Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-07T12:54:17.631450+03:00",
+    "score": 30
   }
 ]
