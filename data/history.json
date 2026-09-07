@@ -7134,5 +7134,13 @@
     "practicality": "high",
     "published_at": "2026-09-07T18:27:34.638721+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2609.03874v1",
+    "title": "STAIR (STructure Aware Information Retriever): A novel dataset and LLM based retriever for document structure augmentation",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-09-07T22:20:16.811750+03:00",
+    "score": 30
   }
 ]
