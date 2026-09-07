@@ -7126,5 +7126,13 @@
     "practicality": "high",
     "published_at": "2026-09-07T12:54:17.631450+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2609.03527v1",
+    "title": "NeoRed: A Knowledge-Logic-Alignment Multimodal Large Language Model for Neonatal Respiratory Disease Diagnosis",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-07T18:27:34.638721+03:00",
+    "score": 30
   }
 ]
