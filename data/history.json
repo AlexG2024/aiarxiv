@@ -7166,5 +7166,13 @@
     "practicality": "high",
     "published_at": "2026-09-08T20:32:51.525728+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2609.05141v1",
+    "title": "SciDocBench: A Workflow-Centered Benchmark and Data Pipeline for Scientific Document Understanding",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-08T23:12:58.386551+03:00",
+    "score": 41
   }
 ]
