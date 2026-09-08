@@ -7150,5 +7150,13 @@
     "practicality": "high",
     "published_at": "2026-09-08T12:18:31.705123+03:00",
     "score": 64
+  },
+  {
+    "arxiv_id": "2609.04999v1",
+    "title": "BIT.UA at BioASQ 14B: Modular Retrieval with pg_textsearch and Qdrant, and Agent-Based Answer Generation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-08T16:41:26.447663+03:00",
+    "score": 44
   }
 ]
