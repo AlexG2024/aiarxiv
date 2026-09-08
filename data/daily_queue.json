@@ -1,71 +1,11 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-09-08T08:10:00+03:00",
-      "arxiv_id": "2609.04842v1",
-      "title": "MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain",
-      "theme": "AI в медицине",
-      "score": 64,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain</i>\n\nРабота описывает систему, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Sourav Malakar и еще 6 | Natural Language Processing, Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04842v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04842v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-09-08T12:18:31.705123+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-09-08T09:10:00+03:00",
-      "arxiv_id": "2609.04999v1",
-      "title": "BIT.UA at BioASQ 14B: Modular Retrieval with pg_textsearch and Qdrant, and Agent-Based Answer Generation",
-      "theme": "поиск и работа с информацией",
-      "score": 44,
-      "practicality": "high",
-      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>BIT.UA at BioASQ 14B: Modular Retrieval with pg_textsearch and Qdrant, and Agent-Based Answer Generation</i>\n\nАвторы представили AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> André Ribeiro и еще 4 | Natural Language Processing | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04999v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04999v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-09-08T16:41:26.447663+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-09-08T10:10:00+03:00",
-      "arxiv_id": "2609.05069v1",
-      "title": "A Structured Debate-Mixture-of-Agents Framework for Complex Clinical Diagnostic Decision Support",
-      "theme": "AI в медицине",
-      "score": 42,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>A Structured Debate-Mixture-of-Agents Framework for Complex Clinical Diagnostic Decision Support</i>\n\nВ центре статьи AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Chang Xia и еще 4 | Natural Language Processing, Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.05069v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.05069v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-09-08T20:32:51.525728+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-09-08T11:10:00+03:00",
-      "arxiv_id": "2609.05141v1",
-      "title": "SciDocBench: A Workflow-Centered Benchmark and Data Pipeline for Scientific Document Understanding",
-      "theme": "multimodal AI",
-      "score": 41,
-      "practicality": "high",
-      "post_html": "<b>Multimodal AI: сравнение подходов</b>\n<i>SciDocBench: A Workflow-Centered Benchmark and Data Pipeline for Scientific Document Understanding</i>\n\nВ центре статьи AI-ассистента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Shenxi Wu и еще 10 | Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.05141v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.05141v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-09-08T23:12:58.386551+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-09-08T12:10:00+03:00",
-      "arxiv_id": "2609.04699v1",
-      "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
-      "theme": "AI в медицине",
-      "score": 41,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Model Retirement Creates Reproducibility Risk in Biomedical AI Publications</i>\n\nАвторы представили AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы смотрят, где система становится точнее, а где у нее остаются слабые места и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Nathan Wolfrath и еще 9 | Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04699v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04699v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-09-08T23:35:16.888021+03:00"
-    },
-    {
-      "slot": 6,
-      "scheduled_time_iso": "2026-09-08T13:10:00+03:00",
+      "scheduled_time_iso": "2026-09-09T08:10:00+03:00",
       "arxiv_id": "2609.05314v1",
       "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
       "theme": "языковые модели",
@@ -76,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-09-08T14:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-09-09T09:10:00+03:00",
       "arxiv_id": "2609.04690v1",
       "title": "Enhancing Multimodal Emotion Recognition via Multi-Feature Encoding and Attention-Based Fusion",
       "theme": "multimodal AI",
@@ -88,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-09-08T15:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-09-09T10:10:00+03:00",
       "arxiv_id": "2609.05224v1",
       "title": "First Things First: Teaching LLM-Based Agents to Prioritize Must-Haves before Nice-to-Haves",
       "theme": "AI-агенты",
@@ -100,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-09-08T16:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-09-09T11:10:00+03:00",
       "arxiv_id": "2609.05258v1",
       "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
       "theme": "поиск и работа с информацией",
@@ -112,14 +52,74 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-09-08T17:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-09-09T12:10:00+03:00",
       "arxiv_id": "2609.05143v1",
       "title": "A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment",
       "theme": "AI в обучении",
       "score": 35,
       "practicality": "high",
       "post_html": "<b>AI для обучения: поиск информации</b>\n<i>A Human-in-the-Loop Framework for AI-Assisted Scoring in Large-Scale Writing Assessment</i>\n\nАвторы представили фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Помогают объяснять материал понятнее, подстраивать обучение под человека и снижать барьер входа в сложные темы\n\n<b>Где пригодится:</b> В обучающих сервисах, AI-репетиторах и системах объяснения материала\n\n<b>Рекомендация:</b> имеет смысл смотреть, улучшает ли AI не только ответы, но и само понимание материала\n\n<b>Вывод:</b> Самые интересные AI-идеи для обучения не просто отвечают, а помогают человеку реально понять материал.\n\n<b>Детали:</b> María Eugenia Curi и еще 6 | Natural Language Processing, Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.05143v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.05143v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-09-09T13:10:00+03:00",
+      "arxiv_id": "2609.04773v1",
+      "title": "Persistent Teacher Anchoring for Tool-Using Agents",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Persistent Teacher Anchoring for Tool-Using Agents</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи показывают, как агентный подход можно использовать на практике и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Hyun Bin Park и еще 3 | Machine Learning, Artificial Intelligence, Natural Language Processing | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04773v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04773v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-09-09T14:10:00+03:00",
+      "arxiv_id": "2609.04598v1",
+      "title": "PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning",
+      "theme": "AI в медицине",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>PetQA: Benchmarking Veterinary Knowledge and Clinical Reasoning</i>\n\nВ центре статьи систему, который помогает AI надежнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может надежнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Taegyun Kim и еще 5 | Natural Language Processing, Artificial Intelligence, Computer Vision | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04598v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04598v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-09-09T15:10:00+03:00",
+      "arxiv_id": "2609.05019v1",
+      "title": "TROVE: Adaptive Agent Skill Orchestration via Trace-Grounded Route Validation and Editing",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>TROVE: Adaptive Agent Skill Orchestration via Trace-Grounded Route Validation and Editing</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Tianxing Wang и еще 6 | Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.05019v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.05019v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-09-09T16:10:00+03:00",
+      "arxiv_id": "2609.04778v1",
+      "title": "Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: работа с несколькими типами данных</b>\n<i>Diffusion Language Models for Mobile Edge Agentic AI: Foundations, Applications, and Challenges</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Chenqi Li и еще 3 | Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04778v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04778v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-09-09T17:10:00+03:00",
+      "arxiv_id": "2609.04749v1",
+      "title": "DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>DCFA: Dual-view Causal-inspired Attribution for Failure Reasoning in LLM-based Multi-agent Systems</i>\n\nРабота описывает AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Zehao Wang и еще 4 | Artificial Intelligence | 04.09.2026\n\n<a href=\"https://arxiv.org/abs/2609.04749v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2609.04749v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
