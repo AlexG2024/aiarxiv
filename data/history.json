@@ -7174,5 +7174,13 @@
     "practicality": "high",
     "published_at": "2026-09-08T23:12:58.386551+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2609.04699v1",
+    "title": "Model Retirement Creates Reproducibility Risk in Biomedical AI Publications",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-08T23:35:16.888021+03:00",
+    "score": 41
   }
 ]
