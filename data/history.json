@@ -7142,5 +7142,13 @@
     "practicality": "high",
     "published_at": "2026-09-07T22:20:16.811750+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2609.04842v1",
+    "title": "MMTClinic: Multimodal, Multilingual Time Series Question Answering and Reasoning Benchmark for Clinical Domain",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-08T12:18:31.705123+03:00",
+    "score": 64
   }
 ]
