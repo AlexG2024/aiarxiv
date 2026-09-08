@@ -7158,5 +7158,13 @@
     "practicality": "high",
     "published_at": "2026-09-08T16:41:26.447663+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2609.05069v1",
+    "title": "A Structured Debate-Mixture-of-Agents Framework for Complex Clinical Diagnostic Decision Support",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-08T20:32:51.525728+03:00",
+    "score": 42
   }
 ]
