@@ -7190,5 +7190,13 @@
     "practicality": "high",
     "published_at": "2026-09-09T12:21:19.600984+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2609.04690v1",
+    "title": "Enhancing Multimodal Emotion Recognition via Multi-Feature Encoding and Attention-Based Fusion",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-09T16:48:50.457365+03:00",
+    "score": 40
   }
 ]
