@@ -7206,5 +7206,13 @@
     "practicality": "high",
     "published_at": "2026-09-09T20:20:08.124011+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2609.05258v1",
+    "title": "Ask Before You Optimize: Dynamic Pre-Formulation Clarification for Interactive Optimization",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-09T22:52:07.329204+03:00",
+    "score": 35
   }
 ]
