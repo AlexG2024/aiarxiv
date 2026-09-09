@@ -7198,5 +7198,13 @@
     "practicality": "high",
     "published_at": "2026-09-09T16:48:50.457365+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2609.05224v1",
+    "title": "First Things First: Teaching LLM-Based Agents to Prioritize Must-Haves before Nice-to-Haves",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-09T20:20:08.124011+03:00",
+    "score": 39
   }
 ]
