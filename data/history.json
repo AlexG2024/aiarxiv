@@ -7182,5 +7182,13 @@
     "practicality": "high",
     "published_at": "2026-09-08T23:35:16.888021+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2609.05314v1",
+    "title": "Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-09-09T12:21:19.600984+03:00",
+    "score": 40
   }
 ]
