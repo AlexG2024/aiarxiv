@@ -7238,5 +7238,13 @@
     "practicality": "high",
     "published_at": "2026-09-10T16:43:58.250157+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2609.08273v1",
+    "title": "MemForest: Efficient Agent Memory Management via EventTree Partitioning and Progressive Merging",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-09-10T20:15:49.157079+03:00",
+    "score": 45
   }
 ]
