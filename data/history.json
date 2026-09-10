@@ -7246,5 +7246,13 @@
     "practicality": "high",
     "published_at": "2026-09-10T20:15:49.157079+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2609.09140v1",
+    "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-10T22:45:20.786713+03:00",
+    "score": 44
   }
 ]
