@@ -7230,5 +7230,13 @@
     "practicality": "high",
     "published_at": "2026-09-10T12:20:47.052846+03:00",
     "score": 53
+  },
+  {
+    "arxiv_id": "2609.08599v1",
+    "title": "Graph-Based Personalized Memory for LLM Agents: Representation, Evolution, Retrieval, and Evaluation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-10T16:43:58.250157+03:00",
+    "score": 46
   }
 ]
