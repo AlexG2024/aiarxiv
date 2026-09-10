@@ -7254,5 +7254,13 @@
     "practicality": "high",
     "published_at": "2026-09-10T22:45:20.786713+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2609.08887v1",
+    "title": "Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-10T23:20:00.616249+03:00",
+    "score": 42
   }
 ]
