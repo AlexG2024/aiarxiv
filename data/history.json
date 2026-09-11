@@ -7286,5 +7286,13 @@
     "practicality": "high",
     "published_at": "2026-09-11T20:13:23.573375+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2609.09569v1",
+    "title": "Reproducing Omitted Temporal Expressions in Japanese News for Retrieval-Augmented Applications",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-11T22:46:06.734959+03:00",
+    "score": 36
   }
 ]
