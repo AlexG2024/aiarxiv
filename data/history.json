@@ -7270,5 +7270,13 @@
     "practicality": "high",
     "published_at": "2026-09-11T12:19:12.508754+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2609.09664v1",
+    "title": "PRAGMA: Evaluating Personalized Guidance with Memory Alignment in Lifelong Conversations",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-11T16:38:49.224636+03:00",
+    "score": 44
   }
 ]
