@@ -7262,5 +7262,13 @@
     "practicality": "high",
     "published_at": "2026-09-10T23:20:00.616249+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2609.09852v1",
+    "title": "$S^3$-Bench: Evaluating Speech Interaction Models as Scientific Voice Assistants",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-09-11T12:19:12.508754+03:00",
+    "score": 46
   }
 ]
