@@ -7294,5 +7294,13 @@
     "practicality": "high",
     "published_at": "2026-09-11T22:46:06.734959+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2609.10001v1",
+    "title": "From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-11T23:20:12.157890+03:00",
+    "score": 35
   }
 ]
