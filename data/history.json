@@ -7310,5 +7310,13 @@
     "practicality": "high",
     "published_at": "2026-09-12T11:58:54.308935+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2609.11318v1",
+    "title": "Mr.LHDR: A Benchmark for Multimodal Real-World Long-Horizon Deep Research Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-12T15:46:40.880088+03:00",
+    "score": 52
   }
 ]
