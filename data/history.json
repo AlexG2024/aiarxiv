@@ -7326,5 +7326,13 @@
     "practicality": "high",
     "published_at": "2026-09-12T18:52:01.586096+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2609.11244v1",
+    "title": "OmniHallu: Unified Hallucination Detection for Cross-Modal Comprehension and Generation in Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-09-12T21:02:06.370731+03:00",
+    "score": 47
   }
 ]
