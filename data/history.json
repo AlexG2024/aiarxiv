@@ -7334,5 +7334,13 @@
     "practicality": "high",
     "published_at": "2026-09-12T21:02:06.370731+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2609.10943v1",
+    "title": "CamPilot: A Multi-Agent Cinematic Assistant for Camera-Controlled Movie Generation",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-09-12T23:02:52.208492+03:00",
+    "score": 42
   }
 ]
