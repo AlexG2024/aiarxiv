@@ -7318,5 +7318,13 @@
     "practicality": "high",
     "published_at": "2026-09-12T15:46:40.880088+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2609.11115v1",
+    "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-12T18:52:01.586096+03:00",
+    "score": 48
   }
 ]
