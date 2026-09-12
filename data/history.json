@@ -7302,5 +7302,13 @@
     "practicality": "high",
     "published_at": "2026-09-11T23:20:12.157890+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2609.10939v1",
+    "title": "Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-12T11:58:54.308935+03:00",
+    "score": 54
   }
 ]
