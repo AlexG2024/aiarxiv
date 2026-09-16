@@ -7358,5 +7358,13 @@
     "practicality": "high",
     "published_at": "2026-09-16T17:21:02.431112+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2609.15695v1",
+    "title": "NoteVQA: Benchmarking VLMs on Real-Life Questions from Human Communities",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-09-16T21:16:56.895967+03:00",
+    "score": 45
   }
 ]
