@@ -7342,5 +7342,13 @@
     "practicality": "high",
     "published_at": "2026-09-12T23:02:52.208492+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2609.15129v1",
+    "title": "Medical Knowledge Simplification for Patients in the Era of LLMs: A Case Study on Diabetes",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-16T12:38:23.677897+03:00",
+    "score": 59
   }
 ]
