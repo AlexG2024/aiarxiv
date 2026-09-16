@@ -7366,5 +7366,13 @@
     "practicality": "high",
     "published_at": "2026-09-16T21:16:56.895967+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2609.15859v1",
+    "title": "LongAgent: History-Guided Agentic Search for Longitudinal Outcome Prediction",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-16T23:45:50.258358+03:00",
+    "score": 41
   }
 ]
