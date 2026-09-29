@@ -7374,5 +7374,13 @@
     "practicality": "high",
     "published_at": "2026-09-16T23:45:50.258358+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2609.31568v1",
+    "title": "DeepEdu-v1: Efficient and Scalable Agentic LLMs for Vietnamese Education",
+    "theme": "AI в обучении",
+    "practicality": "high",
+    "published_at": "2026-09-29T14:01:30.859062+03:00",
+    "score": 52
   }
 ]
