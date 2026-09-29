@@ -7382,5 +7382,13 @@
     "practicality": "high",
     "published_at": "2026-09-29T14:01:30.859062+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2609.30882v1",
+    "title": "Effects of Transcript Compression on LLM-based Medical Misinformation Detection in Japanese YouTube Videos",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-09-29T19:51:55.858574+03:00",
+    "score": 48
   }
 ]
