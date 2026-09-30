@@ -7406,5 +7406,13 @@
     "practicality": "high",
     "published_at": "2026-09-30T19:37:41.826187+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2609.35285v1",
+    "title": "Textual User Taste: Natural-Language User Context for Foundation-Model Recommender System at Scale",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-09-30T23:59:08.292029+03:00",
+    "score": 35
   }
 ]
