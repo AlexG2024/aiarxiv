@@ -7414,5 +7414,13 @@
     "practicality": "high",
     "published_at": "2026-09-30T23:59:08.292029+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2609.37788v1",
+    "title": "A Proposed Rubric for Evaluating Expressed Clinical Reasoning in Large Language Model Responses",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-01T14:18:43.200499+03:00",
+    "score": 54
   }
 ]
