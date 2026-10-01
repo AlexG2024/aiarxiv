@@ -7422,5 +7422,13 @@
     "practicality": "high",
     "published_at": "2026-10-01T14:18:43.200499+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2609.37426v1",
+    "title": "LazySloth: Bounded LLM-based Lazy Tree Search for Fast Long Video Comprehension",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-10-01T20:24:33.656156+03:00",
+    "score": 48
   }
 ]
