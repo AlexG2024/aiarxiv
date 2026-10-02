@@ -7446,5 +7446,13 @@
     "practicality": "high",
     "published_at": "2026-10-02T19:27:22.639705+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2609.40325v1",
+    "title": "WorldAuditBench: Interactive 3D World Auditing with Multimodal Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-02T23:52:10.005292+03:00",
+    "score": 39
   }
 ]
