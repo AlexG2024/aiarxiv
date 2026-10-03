@@ -7478,5 +7478,13 @@
     "practicality": "high",
     "published_at": "2026-10-03T21:18:09.617465+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2610.01870v1",
+    "title": "From Pixels to Policy: A Multi-Agent System for Intervention and Geo-Spatial Decision Support",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-03T23:30:28.976991+03:00",
+    "score": 41
   }
 ]
