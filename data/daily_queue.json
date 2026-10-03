@@ -1,59 +1,11 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-10-03T08:10:00+03:00",
-      "arxiv_id": "2610.01871v1",
-      "title": "Walking the Embedding Space: Datastore Extraction from Multimodal RAG",
-      "theme": "multimodal AI",
-      "score": 58,
-      "practicality": "high",
-      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Walking the Embedding Space: Datastore Extraction from Multimodal RAG</i>\n\nРабота описывает AI-ассистента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Maria Carmen Jica и еще 3 | Security, Artificial Intelligence | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01871v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01871v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-03T13:10:26.650200+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-10-03T09:10:00+03:00",
-      "arxiv_id": "2610.01451v1",
-      "title": "A Multi-Agent LLM Framework for Personalized Health Checkup Interpretation and Guidance",
-      "theme": "AI в медицине",
-      "score": 48,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: здоровье</b>\n<i>A Multi-Agent LLM Framework for Personalized Health Checkup Interpretation and Guidance</i>\n\nРабота описывает AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> HyungJun Kim и еще 2 | Artificial Intelligence, cs.MA | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01451v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01451v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-03T17:45:08.500197+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-10-03T10:10:00+03:00",
-      "arxiv_id": "2610.01936v1",
-      "title": "Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning",
-      "theme": "AI safety и надежность",
-      "score": 45,
-      "practicality": "high",
-      "post_html": "<b>Надежность AI: пошаговые рассуждения</b>\n<i>Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning</i>\n\nВ центре статьи фреймворк, который помогает AI лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Meghana Sunil и еще 3 | Artificial Intelligence | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01936v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01936v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-03T21:18:09.617465+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-10-03T11:10:00+03:00",
-      "arxiv_id": "2610.01870v1",
-      "title": "From Pixels to Policy: A Multi-Agent System for Intervention and Geo-Spatial Decision Support",
-      "theme": "AI-агенты",
-      "score": 41,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: здоровье</b>\n<i>From Pixels to Policy: A Multi-Agent System for Intervention and Geo-Spatial Decision Support</i>\n\nВ центре статьи AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Hosam Elgendy, Utkarsh Mall | Computer Vision | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01870v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01870v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-03T23:30:28.976991+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-10-03T12:10:00+03:00",
+      "scheduled_time_iso": "2026-10-04T08:10:00+03:00",
       "arxiv_id": "2610.01861v1",
       "title": "AVSD-Scenes: A Dataset for Audio-Visual Description of Urban Scenes",
       "theme": "multimodal AI",
@@ -64,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 6,
-      "scheduled_time_iso": "2026-10-03T13:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-04T09:10:00+03:00",
       "arxiv_id": "2610.01637v1",
       "title": "Fusing Visual and Textual Representations via Multi-layer Fusing Transformers for Vietnamese Visual Question Answering",
       "theme": "AI в медицине",
@@ -76,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-10-03T14:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-04T10:10:00+03:00",
       "arxiv_id": "2610.02045v1",
       "title": "Form and Void: Entangled Composition through an Autonomous AI Agent",
       "theme": "AI-агенты",
@@ -88,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-10-03T15:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-04T11:10:00+03:00",
       "arxiv_id": "2610.01887v1",
       "title": "TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design",
       "theme": "AI-агенты",
@@ -100,8 +52,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-10-03T16:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-04T12:10:00+03:00",
       "arxiv_id": "2610.01938v1",
       "title": "A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined",
       "theme": "AI в медицине",
@@ -112,14 +64,62 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-10-03T17:10:00+03:00",
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-04T13:10:00+03:00",
       "arxiv_id": "2610.02023v1",
       "title": "SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL",
       "theme": "языковые модели",
       "score": 34,
       "practicality": "high",
       "post_html": "<b>Языковые модели: поиск и отбор данных</b>\n<i>SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL</i>\n\nВ центре статьи фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Hyeonmin Lee и еще 5 | Artificial Intelligence, Human-Computer Interaction | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.02023v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.02023v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-04T14:10:00+03:00",
+      "arxiv_id": "2610.02117v1",
+      "title": "Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes",
+      "theme": "языковые модели",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: работа с несколькими типами данных</b>\n<i>Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes</i>\n\nРабота описывает модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Sophia Sirko-Galouchenko и еще 4 | Computer Vision, Artificial Intelligence, Natural Language Processing | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.02117v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.02117v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-04T15:10:00+03:00",
+      "arxiv_id": "2610.01826v1",
+      "title": "Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities",
+      "theme": "multimodal AI",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Token Communication-Assisted Collaborative Embodied Artificial Intelligence: Concepts, Framework, and Opportunities</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Peng Yi, Ying-Chang Liang | eess.SP, Artificial Intelligence, cs.MA | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01826v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01826v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-04T16:10:00+03:00",
+      "arxiv_id": "2610.01452v1",
+      "title": "Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation",
+      "theme": "AI safety и надежность",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Надежность AI: клинические сценарии</b>\n<i>Uncertainty-Guided Handshake: Efficient Human-in-the-Loop Refinement for Surgical-Grade Glioma Segmentation</i>\n\nАвторы представили фреймворк, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Samuel Hart и еще 2 | Computer Vision | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01452v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01452v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-04T17:10:00+03:00",
+      "arxiv_id": "2610.01892v1",
+      "title": "Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents",
+      "theme": "multimodal AI",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Feiyu Gavin Zhu и еще 11 | Machine Learning, Artificial Intelligence | 01.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.01892v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.01892v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
