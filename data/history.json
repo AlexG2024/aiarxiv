@@ -7470,5 +7470,13 @@
     "practicality": "high",
     "published_at": "2026-10-03T17:45:08.500197+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2610.01936v1",
+    "title": "Mapping the RAG Landscape: A Four Axis Taxonomy of Efficiency, Defense, Interactivity, and Reasoning",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-10-03T21:18:09.617465+03:00",
+    "score": 45
   }
 ]
