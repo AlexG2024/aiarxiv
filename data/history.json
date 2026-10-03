@@ -7454,5 +7454,13 @@
     "practicality": "high",
     "published_at": "2026-10-02T23:52:10.005292+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2610.01871v1",
+    "title": "Walking the Embedding Space: Datastore Extraction from Multimodal RAG",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-03T13:10:26.650200+03:00",
+    "score": 58
   }
 ]
