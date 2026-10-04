@@ -7494,5 +7494,13 @@
     "practicality": "high",
     "published_at": "2026-10-04T13:51:25.728230+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2610.01637v1",
+    "title": "Fusing Visual and Textual Representations via Multi-layer Fusing Transformers for Vietnamese Visual Question Answering",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-04T18:37:40.383568+03:00",
+    "score": 36
   }
 ]
