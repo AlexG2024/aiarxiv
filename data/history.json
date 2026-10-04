@@ -7510,5 +7510,13 @@
     "practicality": "high",
     "published_at": "2026-10-04T21:46:40.669428+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2610.01887v1",
+    "title": "TRACE: Tackling Real-World Resource Assignment Problems via Agentic Heuristic Design",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-04T23:46:40.952215+03:00",
+    "score": 35
   }
 ]
