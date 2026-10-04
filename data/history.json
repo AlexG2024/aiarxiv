@@ -7486,5 +7486,13 @@
     "practicality": "high",
     "published_at": "2026-10-03T23:30:28.976991+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2610.01861v1",
+    "title": "AVSD-Scenes: A Dataset for Audio-Visual Description of Urban Scenes",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-04T13:51:25.728230+03:00",
+    "score": 37
   }
 ]
