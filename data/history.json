@@ -7518,5 +7518,13 @@
     "practicality": "high",
     "published_at": "2026-10-04T23:46:40.952215+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2610.01938v1",
+    "title": "A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-05T14:59:36.087160+03:00",
+    "score": 35
   }
 ]
