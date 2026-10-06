@@ -7526,5 +7526,13 @@
     "practicality": "high",
     "published_at": "2026-10-05T14:59:36.087160+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2610.04215v1",
+    "title": "TCMClinicalReason-Bench: Can Language Models Reason from Pathogenesis to Prescription over Real-World Clinical Cases?",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-06T14:42:32.807597+03:00",
+    "score": 49
   }
 ]
