@@ -1,6 +1,127 @@
 {
   "date": "2026-10-07",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-07T08:10:00+03:00",
+      "arxiv_id": "2610.06695v1",
+      "title": "MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks",
+      "theme": "AI в медицине",
+      "score": 47,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks</i>\n\nРабота описывает AI-агента, который помогает AI лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Jiuheng Wan и еще 7 | Natural Language Processing | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06695v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06695v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-07T09:10:00+03:00",
+      "arxiv_id": "2610.06207v1",
+      "title": "AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation",
+      "theme": "AI в обучении",
+      "score": 46,
+      "practicality": "high",
+      "post_html": "<b>AI для обучения: обучение</b>\n<i>AI-Decision Checkpoints for AI-Augmented Business Process Management: Framework and Educational Instantiation</i>\n\nАвторы представили AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Помогают объяснять материал понятнее, подстраивать обучение под человека и снижать барьер входа в сложные темы\n\n<b>Где пригодится:</b> В обучающих сервисах, AI-репетиторах и системах объяснения материала\n\n<b>Рекомендация:</b> имеет смысл смотреть, улучшает ли AI не только ответы, но и само понимание материала\n\n<b>Вывод:</b> Самые интересные AI-идеи для обучения не просто отвечают, а помогают человеку реально понять материал.\n\n<b>Детали:</b> Amin Jalali | Artificial Intelligence | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06207v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06207v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-07T10:10:00+03:00",
+      "arxiv_id": "2610.06293v1",
+      "title": "VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction",
+      "theme": "AI для видео",
+      "score": 44,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Qiutong Chen и еще 12 | Computer Vision | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06293v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06293v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-07T11:10:00+03:00",
+      "arxiv_id": "2610.06685v1",
+      "title": "Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs",
+      "theme": "AI в медицине",
+      "score": 42,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>Aligning Multimodal Patient Evidence with Biomedical Knowledge Graphs for Clinical LLMs</i>\n\nВ центре статьи систему, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Jiawen Du и еще 9 | Machine Learning, Natural Language Processing | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06685v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06685v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-07T12:10:00+03:00",
+      "arxiv_id": "2610.06170v1",
+      "title": "MS-Exam-Gen: Source-Grounded Benchmark Construction for Evaluating LLMs on Textual Multiple Sclerosis MRI Knowledge",
+      "theme": "языковые модели",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: сравнение подходов</b>\n<i>MS-Exam-Gen: Source-Grounded Benchmark Construction for Evaluating LLMs on Textual Multiple Sclerosis MRI Knowledge</i>\n\nРабота описывает фреймворк, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Abdul Basit и еще 2 | Artificial Intelligence, Natural Language Processing | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06170v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06170v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-07T13:10:00+03:00",
+      "arxiv_id": "2610.06597v1",
+      "title": "Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving",
+      "theme": "AI-агенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Can Agent Harnesses and Inference Engines Hear Each Other? The HEAR Protocol for Agentic LLM Serving</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jiaqi Zhao и еще 6 | Artificial Intelligence | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06597v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06597v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-07T14:10:00+03:00",
+      "arxiv_id": "2610.06571v1",
+      "title": "BrainTRACE: Tracing Longitudinal, Multimodal, and Volumetric Evidence in Brain MRI Clinical Reasoning",
+      "theme": "AI в медицине",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>BrainTRACE: Tracing Longitudinal, Multimodal, and Volumetric Evidence in Brain MRI Clinical Reasoning</i>\n\nВ центре статьи систему, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Qizhen Lan и еще 7 | Computer Vision, Artificial Intelligence | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06571v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06571v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-07T15:10:00+03:00",
+      "arxiv_id": "2610.06064v1",
+      "title": "TrustMI: Causally controlling how assistants trust their users",
+      "theme": "AI-ассистенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-ассистент: пошаговые рассуждения</b>\n<i>TrustMI: Causally controlling how assistants trust their users</i>\n\nВ центре статьи AI-ассистента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье проверяют, насколько надежно это работает в реальных сценариях и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Уменьшают число ручных действий, делают помощь AI более последовательной и упрощают выполнение повседневных задач\n\n<b>Где пригодится:</b> В корпоративных помощниках, чат-ботах и рабочих AI-сценариях\n\n<b>Рекомендация:</b> стоит следить за тем, как такие помощники подключают инструменты, работают с памятью и справляются с реальными задачами\n\n<b>Вывод:</b> AI-ассистенты становятся полезнее, когда их проверяют не на демо, а на реальных задачах пользователя.\n\n<b>Детали:</b> Théo Lasnier и еще 3 | Natural Language Processing | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06064v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06064v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-07T16:10:00+03:00",
+      "arxiv_id": "2610.06672v1",
+      "title": "VideoTapestry: Query-Adaptive Memory Refinement for Multi-Agent Long-Video Understanding",
+      "theme": "AI для видео",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>VideoTapestry: Query-Adaptive Memory Refinement for Multi-Agent Long-Video Understanding</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Yucheng Liu и еще 5 | Computer Vision, Artificial Intelligence | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06672v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06672v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-07T17:10:00+03:00",
+      "arxiv_id": "2610.06190v1",
+      "title": "Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Bridging the Evidence-to-Execution Gap:A Reflective Agent for Multi-Objective Peptide Design</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Haosen Zhang, Yang Yang | Artificial Intelligence | 05.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.06190v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.06190v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
