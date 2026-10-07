@@ -7542,5 +7542,13 @@
     "practicality": "high",
     "published_at": "2026-10-06T20:25:22.836057+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2610.06695v1",
+    "title": "MedPrune: Topology-Efficient Multimodal Multi-Agent Communication Evolution for Medical VQA Tasks",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-07T14:28:34.997063+03:00",
+    "score": 47
   }
 ]
