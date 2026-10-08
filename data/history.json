@@ -7558,5 +7558,13 @@
     "practicality": "high",
     "published_at": "2026-10-07T20:55:38.646749+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2610.08452v1",
+    "title": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-08T14:44:24.044482+03:00",
+    "score": 57
   }
 ]
