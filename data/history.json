@@ -7566,5 +7566,13 @@
     "practicality": "high",
     "published_at": "2026-10-08T14:44:24.044482+03:00",
     "score": 57
+  },
+  {
+    "arxiv_id": "2610.08102v1",
+    "title": "DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-08T21:00:13.062799+03:00",
+    "score": 51
   }
 ]
