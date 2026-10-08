@@ -1,6 +1,127 @@
 {
   "date": "2026-10-08",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-08T08:10:00+03:00",
+      "arxiv_id": "2610.08452v1",
+      "title": "Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents",
+      "theme": "AI-агенты",
+      "score": 57,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>Agentic AutoRAG: RAG Pipeline Optimization through Reasoning-Driven Agents</i>\n\nВ центре статьи AI-агента, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Lasse B. Strand и еще 3 | Natural Language Processing, Information Retrieval, Machine Learning | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08452v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08452v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-08T09:10:00+03:00",
+      "arxiv_id": "2610.08102v1",
+      "title": "DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents",
+      "theme": "multimodal AI",
+      "score": 51,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>DSV-Mem: Evaluating Multimodal Memory in Professional Workflows for MLLM Agents</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Jike Zhong и еще 6 | Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08102v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08102v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-08T10:10:00+03:00",
+      "arxiv_id": "2610.07886v1",
+      "title": "ShanLiangRen: A Nutrition Agent for Personalized Daily Meal Planning",
+      "theme": "AI-агенты",
+      "score": 50,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: здоровье</b>\n<i>ShanLiangRen: A Nutrition Agent for Personalized Daily Meal Planning</i>\n\nРабота описывает AI-агента, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Miao Xie и еще 4 | Artificial Intelligence, Information Retrieval | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.07886v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.07886v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-08T11:10:00+03:00",
+      "arxiv_id": "2610.08364v1",
+      "title": "Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations",
+      "theme": "AI-агенты",
+      "score": 46,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Toby D. Pilditch и еще 3 | Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08364v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08364v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-08T12:10:00+03:00",
+      "arxiv_id": "2610.08205v1",
+      "title": "Tool-calling retrieval versus vector RAG for a small Greek--English knowledge base: accuracy and robustness to how users type Greek",
+      "theme": "поиск и работа с информацией",
+      "score": 42,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>Tool-calling retrieval versus vector RAG for a small Greek--English knowledge base: accuracy and robustness to how users type Greek</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Nikolaos D. Tantaroudas и еще 2 | cs.CE, Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08205v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08205v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-08T13:10:00+03:00",
+      "arxiv_id": "2610.08586v1",
+      "title": "MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory",
+      "theme": "AI-агенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>MINDSET: Energy-based Schema Evolution for Long Conversational Agent Memory</i>\n\nАвторы представили AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sujato Dutta и еще 3 | Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08586v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08586v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-08T14:10:00+03:00",
+      "arxiv_id": "2610.08279v1",
+      "title": "Whose Face Is It Anyway? A Multi-Model Audit of Facial Affect Recognition on Children, and Why the Gap Is the Head, Not the Features",
+      "theme": "AI в медицине",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: здоровье</b>\n<i>Whose Face Is It Anyway? A Multi-Model Audit of Facial Affect Recognition on Children, and Why the Gap Is the Head, Not the Features</i>\n\nРабота описывает архитектуру, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Tobias Hallmen и еще 2 | Computer Vision | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08279v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08279v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-08T15:10:00+03:00",
+      "arxiv_id": "2610.08327v1",
+      "title": "MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation",
+      "theme": "AI в медицине",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>MedZERO: Self-Evolving Agents for Open-Ended Medical Reasoning Through Controlled Knowledge Accumulation</i>\n\nРабота описывает AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Xilin Dang и еще 6 | Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08327v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08327v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-08T16:10:00+03:00",
+      "arxiv_id": "2610.07937v1",
+      "title": "Leveraging a four-quadrant approach for evaluating Redpine Science",
+      "theme": "поиск и работа с информацией",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Leveraging a four-quadrant approach for evaluating Redpine Science</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Filip Dorm, Leonora Vesterbacka | Natural Language Processing | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.07937v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.07937v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-08T17:10:00+03:00",
+      "arxiv_id": "2610.08106v1",
+      "title": "ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>ChartBmkAgent: Harness-Governed Multi-Agent Construction of Chart QA Benchmarks from Sparse Error-Taxonomy Specifications</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Langxi Huang и еще 6 | Artificial Intelligence | 06.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.08106v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.08106v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
