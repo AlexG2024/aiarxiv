@@ -7582,5 +7582,13 @@
     "practicality": "high",
     "published_at": "2026-10-09T14:37:23.470150+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2610.11651v1",
+    "title": "Evidence-Traceable Dynamic Interviewer Architecture for Expertise-Adaptive Qualitative Interviews Using Local LLMs",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-10-09T20:32:19.641187+03:00",
+    "score": 42
   }
 ]
