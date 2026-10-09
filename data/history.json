@@ -7574,5 +7574,13 @@
     "practicality": "high",
     "published_at": "2026-10-08T21:00:13.062799+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2610.11578v1",
+    "title": "Chronos Enables Code Agents to Reason over Software Evolution",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-09T14:37:23.470150+03:00",
+    "score": 47
   }
 ]
