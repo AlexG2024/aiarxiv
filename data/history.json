@@ -7598,5 +7598,13 @@
     "practicality": "high",
     "published_at": "2026-10-10T13:55:03.023402+03:00",
     "score": 57
+  },
+  {
+    "arxiv_id": "2610.12419v1",
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-10T19:05:05.096202+03:00",
+    "score": 51
   }
 ]
