@@ -7606,5 +7606,13 @@
     "practicality": "high",
     "published_at": "2026-10-10T19:05:05.096202+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2610.12248v1",
+    "title": "EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-10T23:01:01.710697+03:00",
+    "score": 40
   }
 ]
