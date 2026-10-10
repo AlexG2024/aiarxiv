@@ -7590,5 +7590,13 @@
     "practicality": "high",
     "published_at": "2026-10-09T20:32:19.641187+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2610.11899v1",
+    "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-10T13:55:03.023402+03:00",
+    "score": 57
   }
 ]
