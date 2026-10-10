@@ -1,6 +1,127 @@
 {
   "date": "2026-10-10",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-10T08:10:00+03:00",
+      "arxiv_id": "2610.11899v1",
+      "title": "Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System",
+      "theme": "AI-агенты",
+      "score": 57,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Forms of LLM-Integrated Applications from LLM-Chats to Autonomous AI Agent System</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Irene Weber | Natural Language Processing, Artificial Intelligence, Software Engineering | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.11899v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.11899v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-10T09:10:00+03:00",
+      "arxiv_id": "2610.12419v1",
+      "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+      "theme": "multimodal AI",
+      "score": 51,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Hongyu Li и еще 13 | Computer Vision | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12419v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12419v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-10T10:10:00+03:00",
+      "arxiv_id": "2610.12248v1",
+      "title": "EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams",
+      "theme": "multimodal AI",
+      "score": 40,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>EgoVoice: Proactive Spoken Assistance from Egocentric Multimodal Streams</i>\n\nРабота описывает AI-ассистента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Heeseung Kim | Natural Language Processing, Computer Vision, Software Engineering | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12248v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12248v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-10T11:10:00+03:00",
+      "arxiv_id": "2610.12310v1",
+      "title": "Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?",
+      "theme": "multimodal AI",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Xingwu Zhang и еще 7 | Computer Vision | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12310v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12310v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-10T12:10:00+03:00",
+      "arxiv_id": "2610.12022v1",
+      "title": "Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology",
+      "theme": "языковые модели",
+      "score": 37,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: пошаговые рассуждения</b>\n<i>Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Zhaoxin Yu и еще 3 | Natural Language Processing, Artificial Intelligence, Machine Learning | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12022v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12022v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-10T13:10:00+03:00",
+      "arxiv_id": "2610.11768v1",
+      "title": "Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System",
+      "theme": "AI-агенты",
+      "score": 37,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System</i>\n\nРабота описывает AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Younghwan Joo, Sung-il Kim | eess.SY, Artificial Intelligence | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.11768v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.11768v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-10T14:10:00+03:00",
+      "arxiv_id": "2610.12134v1",
+      "title": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression",
+      "theme": "multimodal AI",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression</i>\n\nРабота описывает AI-агента, который помогает AI надежнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может надежнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Sixu Chen и еще 3 | Artificial Intelligence, cs.MA | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12134v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12134v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-10T15:10:00+03:00",
+      "arxiv_id": "2610.11963v1",
+      "title": "Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes",
+      "theme": "языковые модели",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: работа с несколькими типами данных</b>\n<i>Can LLMs Fix It Without Code? Toward Automated Verification of No-Code Bug Fixes</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Utku Boran Torun и еще 2 | Software Engineering, Artificial Intelligence | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.11963v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.11963v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-10T16:10:00+03:00",
+      "arxiv_id": "2610.11920v1",
+      "title": "Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Event-Centric Memory with Query-Aware Graph Augmentation for Long-Term Conversational Agents</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yichen Liu и еще 7 | Natural Language Processing | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.11920v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.11920v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-10T17:10:00+03:00",
+      "arxiv_id": "2610.12081v1",
+      "title": "Perception Test 2026: Challenge Summary and Extension to City-scale Audio-Visual Reasoning",
+      "theme": "multimodal AI",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа со звуком и изображением</b>\n<i>Perception Test 2026: Challenge Summary and Extension to City-scale Audio-Visual Reasoning</i>\n\nАвторы представили AI-агента, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Fedor Kitashov и еще 5 | Computer Vision, Machine Learning | 08.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.12081v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.12081v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
