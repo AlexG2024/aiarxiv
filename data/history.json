@@ -7614,5 +7614,13 @@
     "practicality": "high",
     "published_at": "2026-10-10T23:01:01.710697+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2610.12310v1",
+    "title": "Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-11T14:09:43.106897+03:00",
+    "score": 39
   }
 ]
