@@ -7630,5 +7630,13 @@
     "practicality": "high",
     "published_at": "2026-10-11T19:38:10.607156+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2610.11768v1",
+    "title": "Narrow and Deep: An Ontology Tower as the Knowledge of an LLM Agent for an Industrial Equipment System",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-11T23:33:32.885553+03:00",
+    "score": 37
   }
 ]
