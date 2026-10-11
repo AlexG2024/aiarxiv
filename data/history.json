@@ -7622,5 +7622,13 @@
     "practicality": "high",
     "published_at": "2026-10-11T14:09:43.106897+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2610.12022v1",
+    "title": "Examining Social Attribution in LLM Reasoning: A Theory-Guided Probing Methodology",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-10-11T19:38:10.607156+03:00",
+    "score": 37
   }
 ]
