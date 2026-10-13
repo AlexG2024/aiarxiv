@@ -1,6 +1,127 @@
 {
   "date": "2026-10-13",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-13T08:10:00+03:00",
+      "arxiv_id": "2610.13399v1",
+      "title": "RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning",
+      "theme": "AI в обучении",
+      "score": 44,
+      "practicality": "high",
+      "post_html": "<b>AI для обучения: поиск информации</b>\n<i>RegulaTutor: A Theory-Informed Framework for Long-Term Personalized Learning</i>\n\nВ центре статьи фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Помогают объяснять материал понятнее, подстраивать обучение под человека и снижать барьер входа в сложные темы\n\n<b>Где пригодится:</b> В обучающих сервисах, AI-репетиторах и системах объяснения материала\n\n<b>Рекомендация:</b> имеет смысл смотреть, улучшает ли AI не только ответы, но и само понимание материала\n\n<b>Вывод:</b> Самые интересные AI-идеи для обучения не просто отвечают, а помогают человеку реально понять материал.\n\n<b>Детали:</b> Yonggang Li и еще 4 | Artificial Intelligence | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13399v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13399v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-13T09:10:00+03:00",
+      "arxiv_id": "2610.13335v1",
+      "title": "AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents",
+      "theme": "AI-агенты",
+      "score": 43,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> R E Zera Marveen Lyngkhoi и еще 5 | Machine Learning | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13335v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13335v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-13T10:10:00+03:00",
+      "arxiv_id": "2610.13296v1",
+      "title": "PRIME: Pre-Retrieval Index Modeling Enhancement for Structured Document Retrieval-Real",
+      "theme": "поиск и работа с информацией",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>PRIME: Pre-Retrieval Index Modeling Enhancement for Structured Document Retrieval-Real</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Cheuk Hei Chung, Li Liu | Information Retrieval, Artificial Intelligence | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13296v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13296v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-13T11:10:00+03:00",
+      "arxiv_id": "2610.13485v1",
+      "title": "Proactive Agentic Orchestration",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Proactive Agentic Orchestration</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Xueyang Feng и еще 6 | Natural Language Processing | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13485v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13485v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-13T12:10:00+03:00",
+      "arxiv_id": "2610.13416v1",
+      "title": "Web$hell: A Unified Interface for Agentic Web Access",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Web$hell: A Unified Interface for Agentic Web Access</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sunghwan Kim и еще 4 | Artificial Intelligence, Information Retrieval | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13416v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13416v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-13T13:10:00+03:00",
+      "arxiv_id": "2610.13273v1",
+      "title": "Agent4Spec: An LLM-based Agentic System to Optimize API Specifications through Automated Validation and Market Analysis",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Agent4Spec: An LLM-based Agentic System to Optimize API Specifications through Automated Validation and Market Analysis</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yongjian Tang и еще 5 | Software Engineering, Artificial Intelligence | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13273v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13273v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-13T14:10:00+03:00",
+      "arxiv_id": "2610.13889v1",
+      "title": "RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics",
+      "theme": "поиск и работа с информацией",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>RATED: Reliability-Aware AI Agent Tool Retrieval via Execution Dynamics</i>\n\nРабота описывает AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Weiliang Chen, Song Liao | Artificial Intelligence, Information Retrieval | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13889v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13889v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-13T15:10:00+03:00",
+      "arxiv_id": "2610.13157v1",
+      "title": "SOAR: Source-Aware Reinforcement Learning with Precise Credit Assignment for Search Agents",
+      "theme": "поиск и работа с информацией",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>SOAR: Source-Aware Reinforcement Learning with Precise Credit Assignment for Search Agents</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Shengze Huang и еще 13 | Natural Language Processing | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13157v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13157v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-13T16:10:00+03:00",
+      "arxiv_id": "2610.13166v1",
+      "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+      "theme": "AI-агенты",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Scaling Agentic Data for Long-Horizon Terminal Intelligence</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Shun Zou и еще 8 | Natural Language Processing | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13166v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13166v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-13T17:10:00+03:00",
+      "arxiv_id": "2610.13455v1",
+      "title": "Agentic Large Language Models",
+      "theme": "AI-агенты",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: практическое применение</b>\n<i>Agentic Large Language Models</i>\n\nАвторы представили AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Авторы показывают, как агентный подход можно использовать на практике и показывают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Max van Duijn и еще 3 | Artificial Intelligence | 09.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.13455v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.13455v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
