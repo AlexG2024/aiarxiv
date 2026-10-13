@@ -7654,5 +7654,13 @@
     "practicality": "high",
     "published_at": "2026-10-13T15:25:31.701561+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2610.13335v1",
+    "title": "AgentTune: A Unified Training Lifecycle for Tool-Using LLM Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-13T22:25:31.645102+03:00",
+    "score": 43
   }
 ]
