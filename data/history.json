@@ -7670,5 +7670,13 @@
     "practicality": "high",
     "published_at": "2026-10-14T12:53:12.073338+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2610.13485v1",
+    "title": "Proactive Agentic Orchestration",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-14T17:50:11.220801+03:00",
+    "score": 34
   }
 ]
