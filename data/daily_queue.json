@@ -1,6 +1,127 @@
 {
   "date": "2026-10-15",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-15T08:10:00+03:00",
+      "arxiv_id": "2610.18269v1",
+      "title": "PAINT: A Framework for Multilingual Pain Representation from Medical Licensing Exams to Real-World Clinical Texts",
+      "theme": "AI в медицине",
+      "score": 49,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>PAINT: A Framework for Multilingual Pain Representation from Medical Licensing Exams to Real-World Clinical Texts</i>\n\nРабота описывает фреймворк, который помогает AI лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Boya Zhang и еще 16 | Natural Language Processing | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18269v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18269v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-15T09:10:00+03:00",
+      "arxiv_id": "2610.18611v1",
+      "title": "Legal-R1: Agentic Retrieval for Evidence-Based Legal Reasoning",
+      "theme": "поиск и работа с информацией",
+      "score": 40,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>Legal-R1: Agentic Retrieval for Evidence-Based Legal Reasoning</i>\n\nРабота описывает AI-ассистента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Huaiwen Pang и еще 4 | Natural Language Processing | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18611v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18611v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-15T10:10:00+03:00",
+      "arxiv_id": "2610.18465v1",
+      "title": "How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries",
+      "theme": "AI в медицине",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: здоровье</b>\n<i>How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries</i>\n\nАвторы представили модель, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Shreyasi Roy Chowdhury, Kiran Garimella | cs.CY, Natural Language Processing, Human-Computer Interaction | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18465v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18465v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-15T11:10:00+03:00",
+      "arxiv_id": "2610.18615v1",
+      "title": "VideoJev: System One Model for Video Understanding and Interaction",
+      "theme": "AI для видео",
+      "score": 37,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>VideoJev: System One Model for Video Understanding and Interaction</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Yuhan Zhu и еще 17 | Computer Vision | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18615v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18615v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-15T12:10:00+03:00",
+      "arxiv_id": "2610.18792v1",
+      "title": "SEAR: Self-Evolving Agentic Robotics",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>SEAR: Self-Evolving Agentic Robotics</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Xinyi Wang и еще 7 | Robotics, Artificial Intelligence, Natural Language Processing | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18792v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18792v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-15T13:10:00+03:00",
+      "arxiv_id": "2610.18688v1",
+      "title": "RSIgen: Reciprocal Self-Improvement for Agentic Visual Generation",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>RSIgen: Reciprocal Self-Improvement for Agentic Visual Generation</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yidi Liu и еще 5 | Computer Vision | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18688v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18688v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-15T14:10:00+03:00",
+      "arxiv_id": "2610.18567v1",
+      "title": "Configuring RAG Systems: What Breaks, Where Originates, and How to Fix",
+      "theme": "AI в медицине",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: оценка симптомов</b>\n<i>Configuring RAG Systems: What Breaks, Where Originates, and How to Fix</i>\n\nАвторы представили систему, который помогает AI лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Liangyu Chen и еще 4 | Artificial Intelligence | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18567v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18567v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-15T15:10:00+03:00",
+      "arxiv_id": "2610.18858v1",
+      "title": "Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs",
+      "theme": "multimodal AI",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs</i>\n\nАвторы представили архитектуру, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Aimon Rahman и еще 3 | Computer Vision | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18858v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18858v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-15T16:10:00+03:00",
+      "arxiv_id": "2610.18684v1",
+      "title": "Knowing the User Is Not Knowing What We Established: Grounding Awareness in Personal Agents",
+      "theme": "AI-агенты",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Knowing the User Is Not Knowing What We Established: Grounding Awareness in Personal Agents</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jiajun Chen и еще 3 | Artificial Intelligence, Human-Computer Interaction, Machine Learning | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18684v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18684v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-15T17:10:00+03:00",
+      "arxiv_id": "2610.18829v1",
+      "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
+      "theme": "AI для видео",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding</i>\n\nВ центре статьи систему, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Xuyang Liu и еще 7 | Computer Vision, Natural Language Processing, Multimedia | 13.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.18829v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.18829v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
