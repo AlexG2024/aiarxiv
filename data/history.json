@@ -7662,5 +7662,13 @@
     "practicality": "high",
     "published_at": "2026-10-13T22:25:31.645102+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2610.13296v1",
+    "title": "PRIME: Pre-Retrieval Index Modeling Enhancement for Structured Document Retrieval-Real",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-14T12:53:12.073338+03:00",
+    "score": 35
   }
 ]
