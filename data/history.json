@@ -7686,5 +7686,13 @@
     "practicality": "high",
     "published_at": "2026-10-14T22:07:52.712840+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2610.18269v1",
+    "title": "PAINT: A Framework for Multilingual Pain Representation from Medical Licensing Exams to Real-World Clinical Texts",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-15T12:33:59.009169+03:00",
+    "score": 49
   }
 ]
