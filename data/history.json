@@ -7694,5 +7694,13 @@
     "practicality": "high",
     "published_at": "2026-10-15T12:33:59.009169+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2610.18611v1",
+    "title": "Legal-R1: Agentic Retrieval for Evidence-Based Legal Reasoning",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-15T17:22:34.075802+03:00",
+    "score": 40
   }
 ]
