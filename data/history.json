@@ -7726,5 +7726,13 @@
     "practicality": "high",
     "published_at": "2026-10-16T12:26:54.616039+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2610.20116v1",
+    "title": "Maximising Transparency in Context Compaction Improves Retention of Facts and Commitments for Lightweight Coding Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-16T17:07:14.231624+03:00",
+    "score": 43
   }
 ]
