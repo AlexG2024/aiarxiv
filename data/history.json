@@ -7718,5 +7718,13 @@
     "practicality": "high",
     "published_at": "2026-10-15T23:50:23.402751+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2610.20191v1",
+    "title": "HEM-Med: A Hierarchical Agentic Memory Framework for Safe Multi-Center Medication Recommendation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-16T12:26:54.616039+03:00",
+    "score": 48
   }
 ]
