@@ -7734,5 +7734,13 @@
     "practicality": "high",
     "published_at": "2026-10-16T17:07:14.231624+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2610.20085v1",
+    "title": "Designing Textual Interfaces To Enhance Llm Reasoning On Audio-Visual Question Answering",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-16T20:59:22.236353+03:00",
+    "score": 43
   }
 ]
