@@ -7782,5 +7782,13 @@
     "practicality": "high",
     "published_at": "2026-10-17T21:19:01.034133+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2610.21604v1",
+    "title": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-17T22:58:20.912076+03:00",
+    "score": 37
   }
 ]
