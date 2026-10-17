@@ -7766,5 +7766,13 @@
     "practicality": "high",
     "published_at": "2026-10-17T15:47:44.807995+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2610.22344v1",
+    "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-17T18:58:48.018890+03:00",
+    "score": 38
   }
 ]
