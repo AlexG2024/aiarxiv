@@ -7750,5 +7750,13 @@
     "practicality": "high",
     "published_at": "2026-10-16T23:24:10.045434+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2610.21794v1",
+    "title": "MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-17T11:58:28.621505+03:00",
+    "score": 41
   }
 ]
