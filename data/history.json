@@ -7822,5 +7822,13 @@
     "practicality": "high",
     "published_at": "2026-10-18T21:58:54.967196+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2610.22273v1",
+    "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-18T22:58:07.573163+03:00",
+    "score": 34
   }
 ]
