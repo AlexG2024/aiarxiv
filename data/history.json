@@ -7790,5 +7790,13 @@
     "practicality": "high",
     "published_at": "2026-10-17T22:58:20.912076+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2610.22234v1",
+    "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-18T12:17:31.957242+03:00",
+    "score": 36
   }
 ]
