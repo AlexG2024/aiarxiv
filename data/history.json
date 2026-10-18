@@ -7806,5 +7806,13 @@
     "practicality": "high",
     "published_at": "2026-10-18T16:21:42.307592+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2610.21561v1",
+    "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-18T19:40:17.126505+03:00",
+    "score": 36
   }
 ]
