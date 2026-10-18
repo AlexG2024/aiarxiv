@@ -7814,5 +7814,13 @@
     "practicality": "high",
     "published_at": "2026-10-18T19:40:17.126505+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2610.22240v1",
+    "title": "MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-18T21:58:54.967196+03:00",
+    "score": 35
   }
 ]
