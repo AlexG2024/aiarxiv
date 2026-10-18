@@ -1,71 +1,11 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-10-18T08:10:00+03:00",
-      "arxiv_id": "2610.22234v1",
-      "title": "OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents",
-      "theme": "AI-агенты",
-      "score": 36,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: работа с несколькими типами данных</b>\n<i>OS-Helix: Unifying GUI Interaction and Code Execution in Native Computer-Using Agents</i>\n\nВ центре статьи AI-ассистента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Bowen Yang и еще 10 | Machine Learning, Artificial Intelligence, Computer Vision | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22234v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22234v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-18T12:17:31.957242+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-10-18T09:10:00+03:00",
-      "arxiv_id": "2610.21568v1",
-      "title": "From Perception to Prediction and Intervention: Benchmarking Proactive Video Assistants in Real-Life Scenarios",
-      "theme": "AI для видео",
-      "score": 36,
-      "practicality": "high",
-      "post_html": "<b>AI для видео: работа с видео</b>\n<i>From Perception to Prediction and Intervention: Benchmarking Proactive Video Assistants in Real-Life Scenarios</i>\n\nВ центре статьи AI-ассистента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Boyu Cui и еще 7 | Machine Learning | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.21568v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.21568v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-18T16:21:42.307592+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-10-18T10:10:00+03:00",
-      "arxiv_id": "2610.21561v1",
-      "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
-      "theme": "AI-агенты",
-      "score": 36,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents</i>\n\nАвторы представили AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sergio Burdisso и еще 6 | Natural Language Processing, Artificial Intelligence, Machine Learning | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.21561v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.21561v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-18T19:40:17.126505+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-10-18T11:10:00+03:00",
-      "arxiv_id": "2610.22240v1",
-      "title": "MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents",
-      "theme": "multimodal AI",
-      "score": 35,
-      "practicality": "high",
-      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье показывают, как агентный подход можно использовать на практике и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Huanyao Zhang и еще 11 | Computer Vision | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22240v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22240v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-18T21:58:54.967196+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-10-18T12:10:00+03:00",
-      "arxiv_id": "2610.22273v1",
-      "title": "Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries",
-      "theme": "AI-агенты",
-      "score": 34,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Anikait Singh и еще 5 | Machine Learning, Artificial Intelligence, Natural Language Processing | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22273v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22273v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-18T22:58:07.573163+03:00"
-    },
-    {
-      "slot": 6,
-      "scheduled_time_iso": "2026-10-18T13:10:00+03:00",
+      "scheduled_time_iso": "2026-10-19T08:10:00+03:00",
       "arxiv_id": "2610.22017v1",
       "title": "CARA: Causally Guided Retrieval Agent for Question Answering",
       "theme": "поиск и работа с информацией",
@@ -76,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-10-18T14:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-19T09:10:00+03:00",
       "arxiv_id": "2610.22316v1",
       "title": "Learning to Steer LLM Agents and Multi-Agent Systems",
       "theme": "AI-агенты",
@@ -88,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-10-18T15:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-19T10:10:00+03:00",
       "arxiv_id": "2610.21914v1",
       "title": "CodeHealth Predicts the Token Cost of Agentic Code Review: A Pre-Registered Study of 465 Agent-Authored Pull Requests",
       "theme": "AI в медицине",
@@ -100,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-10-18T16:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-19T11:10:00+03:00",
       "arxiv_id": "2610.21910v1",
       "title": "CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness",
       "theme": "multimodal AI",
@@ -112,14 +52,74 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-10-18T17:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-19T12:10:00+03:00",
       "arxiv_id": "2610.21690v1",
       "title": "Abstracts or full text? Evaluating input scope and computational efficiency in biomedical lay summarization",
       "theme": "AI в медицине",
       "score": 32,
       "practicality": "high",
       "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Abstracts or full text? Evaluating input scope and computational efficiency in biomedical lay summarization</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Egecan Çelik Evgin и еще 2 | Natural Language Processing | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.21690v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.21690v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-19T13:10:00+03:00",
+      "arxiv_id": "2610.22195v1",
+      "title": "HTN-Orchestrate: A Hierarchical Task Network Framework for Multi-Agent Orchestration",
+      "theme": "AI-агенты",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>HTN-Orchestrate: A Hierarchical Task Network Framework for Multi-Agent Orchestration</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yanchen Deng и еще 8 | Artificial Intelligence, Natural Language Processing | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22195v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22195v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-19T14:10:00+03:00",
+      "arxiv_id": "2610.22155v1",
+      "title": "Realtime-Bench: Can Frontier Models Solve Real-time Interactive Problems?",
+      "theme": "multimodal AI",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Realtime-Bench: Can Frontier Models Solve Real-time Interactive Problems?</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Jingyu Tang и еще 9 | Artificial Intelligence | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22155v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22155v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-19T15:10:00+03:00",
+      "arxiv_id": "2610.22137v1",
+      "title": "CART: Compatible Routing for Multimodal Continual Instruction Tuning",
+      "theme": "multimodal AI",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>CART: Compatible Routing for Multimodal Continual Instruction Tuning</i>\n\nАвторы представили модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают прикладной подход и показывают, где он может быть полезен и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Ling-Xiang Zhang и еще 2 | Artificial Intelligence | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.22137v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.22137v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-19T16:10:00+03:00",
+      "arxiv_id": "2610.21948v1",
+      "title": "Following Delegation Traces to Study Human Oversight in Interaction with Multimodal AI",
+      "theme": "multimodal AI",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Following Delegation Traces to Study Human Oversight in Interaction with Multimodal AI</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Agnese Chiatti и еще 2 | Human-Computer Interaction, Artificial Intelligence, Computer Vision | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.21948v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.21948v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-19T17:10:00+03:00",
+      "arxiv_id": "2610.21588v1",
+      "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
+      "theme": "multimodal AI",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа со звуком и изображением</b>\n<i>Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs</i>\n\nАвторы представили модель, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Kim Sung-Bin и еще 6 | Computer Vision, Software Engineering | 15.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.21588v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.21588v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
