@@ -7830,5 +7830,13 @@
     "practicality": "high",
     "published_at": "2026-10-18T22:58:07.573163+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2610.22017v1",
+    "title": "CARA: Causally Guided Retrieval Agent for Question Answering",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-19T13:27:18.624688+03:00",
+    "score": 32
   }
 ]
