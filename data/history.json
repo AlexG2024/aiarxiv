@@ -7838,5 +7838,13 @@
     "practicality": "high",
     "published_at": "2026-10-19T13:27:18.624688+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2610.22316v1",
+    "title": "Learning to Steer LLM Agents and Multi-Agent Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-19T20:04:19.512989+03:00",
+    "score": 32
   }
 ]
