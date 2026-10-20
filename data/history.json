@@ -7862,5 +7862,13 @@
     "practicality": "high",
     "published_at": "2026-10-20T17:30:40.106233+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2610.23071v1",
+    "title": "Before Retrieval Begins: Safety and Tool-Use Decisions in LLM Agents",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-10-20T21:41:27.755456+03:00",
+    "score": 43
   }
 ]
