@@ -7854,5 +7854,13 @@
     "practicality": "high",
     "published_at": "2026-10-20T12:45:54.441125+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2610.23480v1",
+    "title": "MuninAI: A Self-Hosted Agentic Framework for Independent Research Groups",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-20T17:30:40.106233+03:00",
+    "score": 44
   }
 ]
