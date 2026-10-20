@@ -7846,5 +7846,13 @@
     "practicality": "high",
     "published_at": "2026-10-19T20:04:19.512989+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2610.23214v1",
+    "title": "MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-20T12:45:54.441125+03:00",
+    "score": 46
   }
 ]
