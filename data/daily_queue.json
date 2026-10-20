@@ -1,6 +1,127 @@
 {
   "date": "2026-10-20",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-20T08:10:00+03:00",
+      "arxiv_id": "2610.23214v1",
+      "title": "MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025",
+      "theme": "multimodal AI",
+      "score": 46,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>MLLM Frame Subset Ensembling for Audio-Visual Video QA and MLLM-based Reranking for Ad-hoc Video Search in TRECVID 2025</i>\n\nАвторы представили фреймворк, который помогает AI одновременно понимать звук и изображение.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно понимать звук и изображение.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Andreas Goulas и еще 3 | Computer Vision | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23214v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23214v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-20T09:10:00+03:00",
+      "arxiv_id": "2610.23480v1",
+      "title": "MuninAI: A Self-Hosted Agentic Framework for Independent Research Groups",
+      "theme": "поиск и работа с информацией",
+      "score": 44,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>MuninAI: A Self-Hosted Agentic Framework for Independent Research Groups</i>\n\nРабота описывает AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Markus Fischer и еще 2 | Natural Language Processing | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23480v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23480v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-20T10:10:00+03:00",
+      "arxiv_id": "2610.23071v1",
+      "title": "Before Retrieval Begins: Safety and Tool-Use Decisions in LLM Agents",
+      "theme": "AI safety и надежность",
+      "score": 43,
+      "practicality": "high",
+      "post_html": "<b>Надежность AI: поиск и отбор данных</b>\n<i>Before Retrieval Begins: Safety and Tool-Use Decisions in LLM Agents</i>\n\nВ центре статьи AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Aditya Nawal и еще 2 | Natural Language Processing | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23071v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23071v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-20T11:10:00+03:00",
+      "arxiv_id": "2610.23062v1",
+      "title": "ParetoChat: An LLM-Based Interface for Interactive Multi-Objective Optimization",
+      "theme": "языковые модели",
+      "score": 42,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>ParetoChat: An LLM-Based Interface for Interactive Multi-Objective Optimization</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Gokhan Ceyhan | Natural Language Processing, math.OC | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23062v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23062v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-20T12:10:00+03:00",
+      "arxiv_id": "2610.23707v1",
+      "title": "Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs",
+      "theme": "AI-агенты",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: рекомендации</b>\n<i>Tool Recommendation for Multi-Step Agents: Finding Every Tool a Task Needs</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sam Partee и еще 3 | Machine Learning, Information Retrieval | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23707v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23707v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-20T13:10:00+03:00",
+      "arxiv_id": "2610.23266v1",
+      "title": "Beyond Marginal Influence: Interaction-Aware Memory Selection for LLM Agents",
+      "theme": "AI-агенты",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Beyond Marginal Influence: Interaction-Aware Memory Selection for LLM Agents</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> BHVSP Subrahmanyam, Neeraj Choudhary | Machine Learning, Artificial Intelligence | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23266v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23266v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-20T14:10:00+03:00",
+      "arxiv_id": "2610.23789v1",
+      "title": "The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change",
+      "theme": "AI в медицине",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>The Collection of a Real-World, Large-Scale Dataset for Automated Skill Evaluation in Central Line Dressing Change</i>\n\nРабота описывает модель, который помогает AI надежнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может надежнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Ummey Tanin и еще 4 | Computer Vision | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23789v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23789v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-20T15:10:00+03:00",
+      "arxiv_id": "2610.23304v1",
+      "title": "Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data Assistant Using Knowledge Graphs",
+      "theme": "AI-ассистенты",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>AI-ассистент: поиск информации</b>\n<i>Designing for Imperfect Prompts: A Simulation-Based Evaluation of an LLM-Based Enterprise Data Assistant Using Knowledge Graphs</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Уменьшают число ручных действий, делают помощь AI более последовательной и упрощают выполнение повседневных задач\n\n<b>Где пригодится:</b> В корпоративных помощниках, чат-ботах и рабочих AI-сценариях\n\n<b>Рекомендация:</b> стоит следить за тем, как такие помощники подключают инструменты, работают с памятью и справляются с реальными задачами\n\n<b>Вывод:</b> AI-ассистенты становятся полезнее, когда их проверяют не на демо, а на реальных задачах пользователя.\n\n<b>Детали:</b> Niklas Wagner, Alexander Mädche | Human-Computer Interaction, Artificial Intelligence, cs.DB | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23304v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23304v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-20T16:10:00+03:00",
+      "arxiv_id": "2610.23226v1",
+      "title": "Characterising and Analysing Retrieval-Augmented Generation Techniques",
+      "theme": "поиск и работа с информацией",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>Characterising and Analysing Retrieval-Augmented Generation Techniques</i>\n\nАвторы представили фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Emmanuel Igbekele, Olawande Daramola | Artificial Intelligence, Machine Learning | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23226v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23226v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-20T17:10:00+03:00",
+      "arxiv_id": "2610.23038v1",
+      "title": "Where Research Ideation Begins: Forward-Citation Supervision for Actionable Limitation Generation",
+      "theme": "поиск и работа с информацией",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Where Research Ideation Begins: Forward-Citation Supervision for Actionable Limitation Generation</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Liyang Zhao и еще 2 | Artificial Intelligence | 16.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.23038v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.23038v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
