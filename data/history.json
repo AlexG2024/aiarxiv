@@ -7878,5 +7878,13 @@
     "practicality": "high",
     "published_at": "2026-10-21T12:47:12.284773+03:00",
     "score": 46
+  },
+  {
+    "arxiv_id": "2610.26185v1",
+    "title": "MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-21T17:41:59.626738+03:00",
+    "score": 41
   }
 ]
