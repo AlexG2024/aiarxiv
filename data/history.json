@@ -7870,5 +7870,13 @@
     "practicality": "high",
     "published_at": "2026-10-20T21:41:27.755456+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2610.26168v1",
+    "title": "VISAGENT: An Agent-Based End-to-End Voice Interaction System",
+    "theme": "голосовые AI-сценарии",
+    "practicality": "high",
+    "published_at": "2026-10-21T12:47:12.284773+03:00",
+    "score": 46
   }
 ]
