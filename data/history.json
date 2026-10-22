@@ -7910,5 +7910,13 @@
     "practicality": "high",
     "published_at": "2026-10-22T17:42:18.510254+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2610.28346v1",
+    "title": "Auto-Director: Leveraging Multi-Agent Collaboration for Autonomous Video Editing",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-10-22T21:52:37.990251+03:00",
+    "score": 39
   }
 ]
