@@ -1,6 +1,127 @@
 {
   "date": "2026-10-23",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-23T08:10:00+03:00",
+      "arxiv_id": "2610.29812v1",
+      "title": "Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents",
+      "theme": "AI в медицине",
+      "score": 55,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents</i>\n\nВ центре статьи AI-ассистента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье смотрят, где система становится точнее, а где у нее остаются слабые места и разбирают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Mohammed Saqlain | Artificial Intelligence, Natural Language Processing, Information Retrieval | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29812v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29812v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-23T09:10:00+03:00",
+      "arxiv_id": "2610.29249v1",
+      "title": "MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents",
+      "theme": "AI-агенты",
+      "score": 49,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents</i>\n\nРабота описывает AI-ассистента, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Hong Ting Tsang и еще 9 | Natural Language Processing, Artificial Intelligence | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29249v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29249v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-23T10:10:00+03:00",
+      "arxiv_id": "2610.29294v1",
+      "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
+      "theme": "языковые модели",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: здоровье</b>\n<i>Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support</i>\n\nРабота описывает модель, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Yuyao Zhang и еще 5 | Artificial Intelligence, Natural Language Processing | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29294v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29294v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-23T11:10:00+03:00",
+      "arxiv_id": "2610.29722v1",
+      "title": "Retrieval Augmented Generation Compositionality",
+      "theme": "поиск и работа с информацией",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск и отбор данных</b>\n<i>Retrieval Augmented Generation Compositionality</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Ido Levy и еще 2 | Natural Language Processing, Artificial Intelligence | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29722v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29722v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-23T12:10:00+03:00",
+      "arxiv_id": "2610.29346v1",
+      "title": "Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents",
+      "theme": "поиск и работа с информацией",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Benchmarking and Error Analysis of Deep Search and Deep Research LLM Agents</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Zixuan Yu и еще 3 | Machine Learning | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29346v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29346v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-23T13:10:00+03:00",
+      "arxiv_id": "2610.30089v1",
+      "title": "ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video",
+      "theme": "AI для видео",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>ProactEgoMem: Benchmarking Proactive Memory in Streaming Egocentric Video</i>\n\nРабота описывает AI-ассистента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Ruotong Liao и еще 8 | Computer Vision | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.30089v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.30089v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-23T14:10:00+03:00",
+      "arxiv_id": "2610.29995v1",
+      "title": "Remembering Through Change: Provenance-Preserving Hypergraph Memory for Multimodal Agents",
+      "theme": "multimodal AI",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Remembering Through Change: Provenance-Preserving Hypergraph Memory for Multimodal Agents</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Jielong Tang и еще 9 | Natural Language Processing | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29995v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29995v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-23T15:10:00+03:00",
+      "arxiv_id": "2610.29792v1",
+      "title": "MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation",
+      "theme": "поиск и работа с информацией",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>MAPS: Macro-Adaptive Parallel Reasoning for Regulating Search Momentum in Retrieval-Augmented Generation</i>\n\nРабота описывает фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Xinze Li и еще 7 | Natural Language Processing | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29792v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29792v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-23T16:10:00+03:00",
+      "arxiv_id": "2610.30113v1",
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "theme": "поиск и работа с информацией",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Houde Qian и еще 11 | Natural Language Processing, Artificial Intelligence, cs.CE | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.30113v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.30113v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-23T17:10:00+03:00",
+      "arxiv_id": "2610.29784v1",
+      "title": "Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting",
+      "theme": "поиск и работа с информацией",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Zhipeng Chen и еще 14 | Natural Language Processing | 21.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.29784v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.29784v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
