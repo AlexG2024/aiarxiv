@@ -7894,5 +7894,13 @@
     "practicality": "high",
     "published_at": "2026-10-21T21:58:14.477722+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2610.28010v1",
+    "title": "RANGER: Retrieval Agent for Navigating Graphs with Semantic Evaluation Rewards",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-22T12:48:05.345884+03:00",
+    "score": 41
   }
 ]
