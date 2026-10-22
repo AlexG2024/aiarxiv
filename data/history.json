@@ -7902,5 +7902,13 @@
     "practicality": "high",
     "published_at": "2026-10-22T12:48:05.345884+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2610.28629v1",
+    "title": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-22T17:42:18.510254+03:00",
+    "score": 40
   }
 ]
