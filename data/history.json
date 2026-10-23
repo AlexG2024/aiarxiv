@@ -7942,5 +7942,13 @@
     "practicality": "high",
     "published_at": "2026-10-23T21:36:56.251780+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2610.29722v1",
+    "title": "Retrieval Augmented Generation Compositionality",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-10-23T23:53:19.221366+03:00",
+    "score": 38
   }
 ]
