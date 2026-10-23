@@ -7934,5 +7934,13 @@
     "practicality": "high",
     "published_at": "2026-10-23T17:27:56.549205+03:00",
     "score": 49
+  },
+  {
+    "arxiv_id": "2610.29294v1",
+    "title": "Same Probabilities, Different Advice: Gain-Loss Framing Effects in High-Stakes LLM Decision Support",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-10-23T21:36:56.251780+03:00",
+    "score": 39
   }
 ]
