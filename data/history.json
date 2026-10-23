@@ -7918,5 +7918,13 @@
     "practicality": "high",
     "published_at": "2026-10-22T21:52:37.990251+03:00",
     "score": 39
+  },
+  {
+    "arxiv_id": "2610.29812v1",
+    "title": "Real PMIDs, Wrong Papers: Harness Design for Biomedical Claim-Verification Agents",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-23T12:42:46.052732+03:00",
+    "score": 55
   }
 ]
