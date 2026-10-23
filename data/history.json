@@ -7926,5 +7926,13 @@
     "practicality": "high",
     "published_at": "2026-10-23T12:42:46.052732+03:00",
     "score": 55
+  },
+  {
+    "arxiv_id": "2610.29249v1",
+    "title": "MOSAIC: An Omni-Modal Benchmark for Long-Term Memory and Cross-Modal Reasoning in Conversational Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-23T17:27:56.549205+03:00",
+    "score": 49
   }
 ]
