@@ -7958,5 +7958,13 @@
     "practicality": "high",
     "published_at": "2026-10-24T12:15:27.217921+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2610.31256v1",
+    "title": "IndoNutriQA: An Indonesian Clinical Nutrition Question Answering Benchmark",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-24T16:22:24.457824+03:00",
+    "score": 44
   }
 ]
