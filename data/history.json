@@ -7974,5 +7974,13 @@
     "practicality": "high",
     "published_at": "2026-10-24T19:46:24.687548+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2610.31467v1",
+    "title": "From Structured Records to Patient Narratives: Preserving Clinical Alignment in LLM-Generated Health Summaries",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-24T22:03:48.598311+03:00",
+    "score": 44
   }
 ]
