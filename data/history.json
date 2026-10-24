@@ -7982,5 +7982,13 @@
     "practicality": "high",
     "published_at": "2026-10-24T22:03:48.598311+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2610.31284v1",
+    "title": "Retrieval-Augmented Online Textual Memory for Episodic Memory Video Question Answering",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-10-24T23:04:59.963362+03:00",
+    "score": 38
   }
 ]
