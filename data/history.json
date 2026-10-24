@@ -7966,5 +7966,13 @@
     "practicality": "high",
     "published_at": "2026-10-24T16:22:24.457824+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2610.30989v1",
+    "title": "ColaBench: Evaluating Memory-Guided Knowledge Acquisition in Personal Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-24T19:46:24.687548+03:00",
+    "score": 44
   }
 ]
