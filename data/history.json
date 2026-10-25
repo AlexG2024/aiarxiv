@@ -8006,5 +8006,13 @@
     "practicality": "high",
     "published_at": "2026-10-25T16:53:36.820006+03:00",
     "score": 33
+  },
+  {
+    "arxiv_id": "2610.31062v1",
+    "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-10-25T20:21:45.438360+03:00",
+    "score": 32
   }
 ]
