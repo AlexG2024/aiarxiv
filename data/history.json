@@ -7990,5 +7990,13 @@
     "practicality": "high",
     "published_at": "2026-10-24T23:04:59.963362+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2610.31277v1",
+    "title": "CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-10-25T12:32:08.528928+03:00",
+    "score": 36
   }
 ]
