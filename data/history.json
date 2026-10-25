@@ -8022,5 +8022,13 @@
     "practicality": "high",
     "published_at": "2026-10-25T22:49:59.585191+03:00",
     "score": 32
+  },
+  {
+    "arxiv_id": "2610.31494v1",
+    "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-25T23:17:17.582722+03:00",
+    "score": 31
   }
 ]
