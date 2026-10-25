@@ -1,71 +1,11 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-10-25T08:10:00+03:00",
-      "arxiv_id": "2610.31277v1",
-      "title": "CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring",
-      "theme": "языковые модели",
-      "score": 36,
-      "practicality": "high",
-      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Shmuel Amar и еще 6 | Natural Language Processing, Artificial Intelligence, Human-Computer Interaction | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31277v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31277v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-25T12:32:08.528928+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-10-25T09:10:00+03:00",
-      "arxiv_id": "2610.31519v1",
-      "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
-      "theme": "AI в медицине",
-      "score": 33,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims</i>\n\nВ центре статьи архитектуру, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Suyash Mishra и еще 5 | Artificial Intelligence | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31519v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31519v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-25T16:53:36.820006+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-10-25T10:10:00+03:00",
-      "arxiv_id": "2610.31062v1",
-      "title": "SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs",
-      "theme": "AI safety и надежность",
-      "score": 32,
-      "practicality": "high",
-      "post_html": "<b>Надежность AI: пошаговые рассуждения</b>\n<i>SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs</i>\n\nАвторы представили AI-агента, который помогает AI лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Arnon Mazza, Elad Levi | Artificial Intelligence, Natural Language Processing | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31062v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31062v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-25T20:21:45.438360+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-10-25T11:10:00+03:00",
-      "arxiv_id": "2610.31579v1",
-      "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
-      "theme": "языковые модели",
-      "score": 32,
-      "practicality": "high",
-      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration</i>\n\nВ центре статьи AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Deepthika S и еще 2 | Artificial Intelligence, Human-Computer Interaction | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31579v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31579v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-25T22:49:59.585191+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-10-25T12:10:00+03:00",
-      "arxiv_id": "2610.31494v1",
-      "title": "AgentVQA: A Unified Benchmark for Agentic Visual Understanding",
-      "theme": "AI-агенты",
-      "score": 31,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>AgentVQA: A Unified Benchmark for Agentic Visual Understanding</i>\n\nАвторы представили AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Advait Gupta и еще 4 | Computer Vision | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31494v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31494v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-25T23:17:17.582722+03:00"
-    },
-    {
-      "slot": 6,
-      "scheduled_time_iso": "2026-10-25T13:10:00+03:00",
+      "scheduled_time_iso": "2026-10-26T08:10:00+03:00",
       "arxiv_id": "2610.31586v1",
       "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
       "theme": "AI для изображений",
@@ -76,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-10-25T14:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-26T09:10:00+03:00",
       "arxiv_id": "2610.31205v1",
       "title": "A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models",
       "theme": "multimodal AI",
@@ -88,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-10-25T15:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-26T10:10:00+03:00",
       "arxiv_id": "2610.31119v1",
       "title": "Constraint Reasoning and Large Language Models Join Forces: Providing Contrastive Explanations for Real-World Optimisation-Based Applications",
       "theme": "языковые модели",
@@ -100,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-10-25T16:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-26T11:10:00+03:00",
       "arxiv_id": "2610.31326v1",
       "title": "AgenticEvolve: Evolutionary Program Search with Persistent Language Model Agents that Design and Run Experiments",
       "theme": "поиск и работа с информацией",
@@ -112,14 +52,74 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-10-25T17:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-26T12:10:00+03:00",
       "arxiv_id": "2610.30979v1",
       "title": "LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications",
       "theme": "AI safety и надежность",
       "score": 29,
       "practicality": "high",
       "post_html": "<b>Надежность AI: безопасность AI</b>\n<i>LAST-V2X: Language-Driven Adaptive Scenario Synthesis and Testing for Communication-Induced Failures in V2X Safety Applications</i>\n\nВ центре статьи фреймворк, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Keshu Wu и еще 5 | Robotics, Artificial Intelligence | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.30979v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.30979v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-26T13:10:00+03:00",
+      "arxiv_id": "2610.30917v1",
+      "title": "Harnessing Language Models as Optimization Modeling Agents",
+      "theme": "AI-агенты",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>Harnessing Language Models as Optimization Modeling Agents</i>\n\nРабота описывает AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yunxiang Luo и еще 9 | Artificial Intelligence | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.30917v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.30917v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-26T14:10:00+03:00",
+      "arxiv_id": "2610.31385v1",
+      "title": "A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions",
+      "theme": "multimodal AI",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>A Task-Centric Survey of Long-Document Visual Question Answering: Taxonomy, Evolution, and Future Directions</i>\n\nРабота описывает архитектуру, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Yufei Tong и еще 7 | Computer Vision, Natural Language Processing, Information Retrieval | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31385v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31385v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-26T15:10:00+03:00",
+      "arxiv_id": "2610.31274v1",
+      "title": "PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding",
+      "theme": "multimodal AI",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: сравнение подходов</b>\n<i>PointerBench: A Diagnostic Benchmark for Fine-Grained GUI Grounding</i>\n\nРабота описывает модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Valentino Sacco и еще 3 | Artificial Intelligence, Human-Computer Interaction | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31274v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31274v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-26T16:10:00+03:00",
+      "arxiv_id": "2610.31433v1",
+      "title": "Drift Says When, Budget Says How Much: Rate-Controlled KV Re-selection for Long-Form Multimodal Generation",
+      "theme": "multimodal AI",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Drift Says When, Budget Says How Much: Rate-Controlled KV Re-selection for Long-Form Multimodal Generation</i>\n\nРабота описывает систему, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Bin Hu, Yingbo Xiao | Machine Learning | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.31433v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.31433v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-26T17:10:00+03:00",
+      "arxiv_id": "2610.30933v1",
+      "title": "ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents",
+      "theme": "AI-агенты",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>ReflectPO: Reflection-Guided Policy Optimization for Long-Horizon LLM Agents</i>\n\nАвторы представили AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Rumei Li, Xunliang Cai | Natural Language Processing | 22.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.30933v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.30933v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
