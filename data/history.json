@@ -7998,5 +7998,13 @@
     "practicality": "high",
     "published_at": "2026-10-25T12:32:08.528928+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2610.31519v1",
+    "title": "From Prompt Rules to Golden Data Model: Production-Scale Generation of Personalized, Compliant Pharmaceutical Claims",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-25T16:53:36.820006+03:00",
+    "score": 33
   }
 ]
