@@ -8038,5 +8038,13 @@
     "practicality": "high",
     "published_at": "2026-10-26T13:42:55.546971+03:00",
     "score": 31
+  },
+  {
+    "arxiv_id": "2610.31205v1",
+    "title": "A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-26T20:01:00.702743+03:00",
+    "score": 30
   }
 ]
