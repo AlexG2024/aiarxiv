@@ -8046,5 +8046,13 @@
     "practicality": "high",
     "published_at": "2026-10-26T20:01:00.702743+03:00",
     "score": 30
+  },
+  {
+    "arxiv_id": "2610.32151v1",
+    "title": "The LLENS Platform for On-Premises Large Language Model Agents in a Japanese University Hospital: Development and Evaluation Study",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-27T13:10:01.192922+03:00",
+    "score": 69
   }
 ]
