@@ -8054,5 +8054,13 @@
     "practicality": "high",
     "published_at": "2026-10-27T13:10:01.192922+03:00",
     "score": 69
+  },
+  {
+    "arxiv_id": "2610.32258v1",
+    "title": "MedCaseAgent: From Multimodal Clinical Evidence to Rare Disease Case Reports",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-27T18:52:04.572712+03:00",
+    "score": 53
   }
 ]
