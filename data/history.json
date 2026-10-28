@@ -8078,5 +8078,13 @@
     "practicality": "high",
     "published_at": "2026-10-28T13:56:06.998481+03:00",
     "score": 43
+  },
+  {
+    "arxiv_id": "2610.35138v1",
+    "title": "Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-10-28T19:58:36.440040+03:00",
+    "score": 39
   }
 ]
