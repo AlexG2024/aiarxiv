@@ -1,6 +1,127 @@
 {
   "date": "2026-10-29",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-10-29T08:10:00+03:00",
+      "arxiv_id": "2610.36958v1",
+      "title": "PailitaoMMSearch2.0 Technical Report: Scaling Generative Retrieval to Unified End-to-End Multimodal Search",
+      "theme": "multimodal AI",
+      "score": 48,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>PailitaoMMSearch2.0 Technical Report: Scaling Generative Retrieval to Unified End-to-End Multimodal Search</i>\n\nВ центре статьи систему, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Xiaohan Ye и еще 11 | Information Retrieval, Artificial Intelligence | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.36958v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.36958v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-10-29T09:10:00+03:00",
+      "arxiv_id": "2610.37443v1",
+      "title": "ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents",
+      "theme": "AI-агенты",
+      "score": 48,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Xinying Qian и еще 5 | Natural Language Processing | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37443v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37443v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-10-29T10:10:00+03:00",
+      "arxiv_id": "2610.37571v1",
+      "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+      "theme": "AI-агенты",
+      "score": 40,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: медицинские сценарии</b>\n<i>TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information</i>\n\nРабота описывает AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Chanwoo Park и еще 6 | Artificial Intelligence | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37571v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37571v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-10-29T11:10:00+03:00",
+      "arxiv_id": "2610.37276v1",
+      "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
+      "theme": "AI-агенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sichun Luo и еще 9 | Machine Learning, Artificial Intelligence, Natural Language Processing | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37276v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37276v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-10-29T12:10:00+03:00",
+      "arxiv_id": "2610.37567v1",
+      "title": "Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents",
+      "theme": "AI-агенты",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents</i>\n\nВ центре статьи AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Pranjal Aggarwal, Sean Welleck | Machine Learning, Artificial Intelligence | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37567v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37567v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-10-29T13:10:00+03:00",
+      "arxiv_id": "2610.36729v1",
+      "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
+      "theme": "multimodal AI",
+      "score": 36,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Hy-Nomas: Towards Free-form Interactive World Generation</i>\n\nАвторы представили модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Qiaoling Chen и еще 37 | Computer Vision | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.36729v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.36729v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-10-29T14:10:00+03:00",
+      "arxiv_id": "2610.37651v1",
+      "title": "GEPA-Curator: Curated Learning for Self Improving Agents",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>GEPA-Curator: Curated Learning for Self Improving Agents</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Zack Yu и еще 10 | Natural Language Processing | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37651v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37651v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-10-29T15:10:00+03:00",
+      "arxiv_id": "2610.37319v1",
+      "title": "AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yichen Long, Keren Zhu | cs.AR, Artificial Intelligence, Machine Learning | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37319v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37319v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-10-29T16:10:00+03:00",
+      "arxiv_id": "2610.37242v1",
+      "title": "Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Grounding LLM Agents in Business Processes: Process-Aware Knowledge Graphs for Reliable Multi-Step Service Invocation</i>\n\nАвторы представили AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Saiful Khan, Afrah Farea | Artificial Intelligence, Software Engineering | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.37242v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.37242v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-10-29T17:10:00+03:00",
+      "arxiv_id": "2610.36967v1",
+      "title": "Proactive Memory for Event-Driven LLM Agents",
+      "theme": "AI-агенты",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>Proactive Memory for Event-Driven LLM Agents</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jinyang Li и еще 8 | Artificial Intelligence | 27.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.36967v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.36967v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
