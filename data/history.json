@@ -8094,5 +8094,13 @@
     "practicality": "high",
     "published_at": "2026-10-29T14:14:31.480111+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2610.37443v1",
+    "title": "ETAMem: Decoupling and Aligning Heterogeneous Memory for Long-Term Conversational Agents",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-29T20:26:43.303405+03:00",
+    "score": 48
   }
 ]
