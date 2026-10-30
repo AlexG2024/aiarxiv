@@ -8110,5 +8110,13 @@
     "practicality": "high",
     "published_at": "2026-10-30T14:08:28.960994+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2610.37276v1",
+    "title": "Where Should the Evaluation Budget Go in LLM-Driven Agent Scaffold Evolution?",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-30T19:59:42.385256+03:00",
+    "score": 38
   }
 ]
