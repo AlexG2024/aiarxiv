@@ -8102,5 +8102,13 @@
     "practicality": "high",
     "published_at": "2026-10-29T20:26:43.303405+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2610.37571v1",
+    "title": "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-30T14:08:28.960994+03:00",
+    "score": 40
   }
 ]
