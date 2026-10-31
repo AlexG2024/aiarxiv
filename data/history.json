@@ -8134,5 +8134,13 @@
     "practicality": "high",
     "published_at": "2026-10-31T18:53:06.263881+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2610.40370v1",
+    "title": "The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-31T22:40:10.385114+03:00",
+    "score": 37
   }
 ]
