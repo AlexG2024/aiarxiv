@@ -8118,5 +8118,13 @@
     "practicality": "high",
     "published_at": "2026-10-30T19:59:42.385256+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2610.39781v1",
+    "title": "Finding Is Not Returning, Returning Is Not Reconstructing: A Multi-Dimensional Evaluation of Agent Social Re-entry",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-10-31T13:41:39.474878+03:00",
+    "score": 45
   }
 ]
