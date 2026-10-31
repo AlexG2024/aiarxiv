@@ -8126,5 +8126,13 @@
     "practicality": "high",
     "published_at": "2026-10-31T13:41:39.474878+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2610.40379v1",
+    "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-10-31T18:53:06.263881+03:00",
+    "score": 41
   }
 ]
