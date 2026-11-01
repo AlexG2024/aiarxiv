@@ -8150,5 +8150,13 @@
     "practicality": "high",
     "published_at": "2026-10-31T23:53:22.291060+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2610.40409v1",
+    "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-01T14:37:23.041242+03:00",
+    "score": 35
   }
 ]
