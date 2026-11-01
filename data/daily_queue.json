@@ -1,59 +1,11 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "timezone": "Europe/Moscow",
   "status": "ready",
   "items": [
     {
       "slot": 1,
-      "scheduled_time_iso": "2026-10-31T08:10:00+03:00",
-      "arxiv_id": "2610.39781v1",
-      "title": "Finding Is Not Returning, Returning Is Not Reconstructing: A Multi-Dimensional Evaluation of Agent Social Re-entry",
-      "theme": "AI-агенты",
-      "score": 45,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Finding Is Not Returning, Returning Is Not Reconstructing: A Multi-Dimensional Evaluation of Agent Social Re-entry</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Sheng Wan и еще 6 | Artificial Intelligence, cs.SI | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.39781v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.39781v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-31T13:41:39.474878+03:00"
-    },
-    {
-      "slot": 2,
-      "scheduled_time_iso": "2026-10-31T09:10:00+03:00",
-      "arxiv_id": "2610.40379v1",
-      "title": "Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records",
-      "theme": "AI в медицине",
-      "score": 41,
-      "practicality": "high",
-      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Agentic LLM reasoning in pediatric diabetes outcome prediction from multimodal medical records</i>\n\nРабота описывает AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи показывают, как агентный подход можно использовать на практике и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Daniel Palacios и еще 10 | q-bio.QM, Natural Language Processing | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40379v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40379v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-31T18:53:06.263881+03:00"
-    },
-    {
-      "slot": 3,
-      "scheduled_time_iso": "2026-10-31T10:10:00+03:00",
-      "arxiv_id": "2610.40370v1",
-      "title": "The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables",
-      "theme": "AI-агенты",
-      "score": 37,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: здоровье</b>\n<i>The Athlete as a Scientist of One: Agentic Bayesian Experimental Design for Individualized Physiology from Consumer Wearables</i>\n\nРабота описывает AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Behnam Moradi | Robotics, Artificial Intelligence | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40370v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40370v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-31T22:40:10.385114+03:00"
-    },
-    {
-      "slot": 4,
-      "scheduled_time_iso": "2026-10-31T11:10:00+03:00",
-      "arxiv_id": "2610.39685v1",
-      "title": "Practical Assessment of Agentic Systems in Acoustics",
-      "theme": "AI-агенты",
-      "score": 36,
-      "practicality": "high",
-      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Practical Assessment of Agentic Systems in Acoustics</i>\n\nВ центре статьи AI-агента, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Arne Hildenbrand и еще 5 | Software Engineering, Artificial Intelligence | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.39685v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.39685v1\">PDF</a>",
-      "published": true,
-      "published_at": "2026-10-31T23:53:22.291060+03:00"
-    },
-    {
-      "slot": 5,
-      "scheduled_time_iso": "2026-10-31T12:10:00+03:00",
+      "scheduled_time_iso": "2026-11-01T08:10:00+03:00",
       "arxiv_id": "2610.40409v1",
       "title": "Retrieving from Your Own Mistakes: On-Policy Training of Embedding Models for Multi-Hop Retrieval-Augmented Generation",
       "theme": "поиск и работа с информацией",
@@ -64,8 +16,8 @@
       "published_at": null
     },
     {
-      "slot": 6,
-      "scheduled_time_iso": "2026-10-31T13:10:00+03:00",
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-01T09:10:00+03:00",
       "arxiv_id": "2610.39608v1",
       "title": "From Intent to Improvement: Agentic Dataset Search for Better Model Training",
       "theme": "поиск и работа с информацией",
@@ -76,8 +28,8 @@
       "published_at": null
     },
     {
-      "slot": 7,
-      "scheduled_time_iso": "2026-10-31T14:10:00+03:00",
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-01T10:10:00+03:00",
       "arxiv_id": "2610.39682v1",
       "title": "Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels",
       "theme": "поиск и работа с информацией",
@@ -88,8 +40,8 @@
       "published_at": null
     },
     {
-      "slot": 8,
-      "scheduled_time_iso": "2026-10-31T15:10:00+03:00",
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-01T11:10:00+03:00",
       "arxiv_id": "2610.40565v1",
       "title": "Gym-Anything for Robotics: Scaling physical simulations with digital agents",
       "theme": "AI-агенты",
@@ -100,8 +52,8 @@
       "published_at": null
     },
     {
-      "slot": 9,
-      "scheduled_time_iso": "2026-10-31T16:10:00+03:00",
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-01T12:10:00+03:00",
       "arxiv_id": "2610.39606v1",
       "title": "Data Provenance and Ethics in the Curricula of U.S. Health AI Education Programs",
       "theme": "AI в медицине",
@@ -112,14 +64,62 @@
       "published_at": null
     },
     {
-      "slot": 10,
-      "scheduled_time_iso": "2026-10-31T17:10:00+03:00",
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-01T13:10:00+03:00",
       "arxiv_id": "2610.40589v1",
       "title": "Collaborative AI agents for autonomous experimental research with solid-state quantum spins",
       "theme": "поиск и работа с информацией",
       "score": 29,
       "practicality": "high",
       "post_html": "<b>AI для поиска: поиск информации</b>\n<i>Collaborative AI agents for autonomous experimental research with solid-state quantum spins</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> El Mustapha Mansouri и еще 3 | Artificial Intelligence, cs.MA, quant-ph | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40589v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40589v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-01T14:10:00+03:00",
+      "arxiv_id": "2610.40467v1",
+      "title": "InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation",
+      "theme": "AI в медицине",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>InfantNet: A Large Scale Dataset for Infant Body Pose and Shape Estimation</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Zhipeng Hui и еще 15 | Computer Vision | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40467v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40467v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-01T15:10:00+03:00",
+      "arxiv_id": "2610.40563v1",
+      "title": "Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns",
+      "theme": "языковые модели",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: обучение</b>\n<i>Comparing Human Role-Players and LLM-Simulated Clients in Online Counselling Training: An Analysis of Counselling Patterns</i>\n\nАвторы представили систему, который помогает AI лучше помогать в обучении.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше помогать в обучении.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Eric Rudolph и еще 2 | Artificial Intelligence, Natural Language Processing | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40563v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40563v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-01T16:10:00+03:00",
+      "arxiv_id": "2610.39936v1",
+      "title": "MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments",
+      "theme": "multimodal AI",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>MLLM-GS: Multimodal Large Language Model Prior-Guided Fast Novel View Synthesis in Extreme Environments</i>\n\nАвторы представили фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Zhiliang Wu и еще 9 | Computer Vision | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.39936v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.39936v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-01T17:10:00+03:00",
+      "arxiv_id": "2610.40530v1",
+      "title": "PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?",
+      "theme": "языковые модели",
+      "score": 27,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: работа с несколькими типами данных</b>\n<i>PhysCount: Do MLLMs Count Visual Appearances or Physical Entities?</i>\n\nАвторы представили модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Lidong Lu и еще 7 | Computer Vision | 29.10.2026\n\n<a href=\"https://arxiv.org/abs/2610.40530v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2610.40530v1\">PDF</a>",
       "published": false,
       "published_at": null
     }
