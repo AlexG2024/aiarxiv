@@ -8166,5 +8166,13 @@
     "practicality": "high",
     "published_at": "2026-11-01T20:13:57.150333+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2610.39682v1",
+    "title": "Heterogeneous Co-Evolution Learning for Tool-Efficient Search Agents with Zero Labels",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-02T16:01:11.610914+03:00",
+    "score": 34
   }
 ]
