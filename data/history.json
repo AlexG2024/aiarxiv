@@ -8174,5 +8174,13 @@
     "practicality": "high",
     "published_at": "2026-11-02T16:01:11.610914+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2611.00620v1",
+    "title": "Discovering Models for Experimental Quantum Systems with Agentic AI",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-03T15:34:03.696180+03:00",
+    "score": 38
   }
 ]
