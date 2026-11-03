@@ -8182,5 +8182,13 @@
     "practicality": "high",
     "published_at": "2026-11-03T15:34:03.696180+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2610.41901v1",
+    "title": "ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-11-03T22:46:20.551375+03:00",
+    "score": 37
   }
 ]
