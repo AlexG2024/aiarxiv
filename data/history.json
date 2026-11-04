@@ -8190,5 +8190,13 @@
     "practicality": "high",
     "published_at": "2026-11-03T22:46:20.551375+03:00",
     "score": 37
+  },
+  {
+    "arxiv_id": "2611.03097v1",
+    "title": "DR Pixel: Page-Native Deep Research with Vision-Language Models",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-04T15:44:12.242622+03:00",
+    "score": 47
   }
 ]
