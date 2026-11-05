@@ -8206,5 +8206,13 @@
     "practicality": "high",
     "published_at": "2026-11-04T23:03:47.530406+03:00",
     "score": 38
+  },
+  {
+    "arxiv_id": "2611.04977v1",
+    "title": "GeoFaham: Domain-Specialized Multi-Agent Geospatial Analytics for Disaster Response",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-05T15:54:01.701616+03:00",
+    "score": 48
   }
 ]
