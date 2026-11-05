@@ -8214,5 +8214,13 @@
     "practicality": "high",
     "published_at": "2026-11-05T15:54:01.701616+03:00",
     "score": 48
+  },
+  {
+    "arxiv_id": "2611.04685v1",
+    "title": "MIMIC-Note-Extract: A Large-Scale Structured Dataset Extracted from MIMIC-IV-Note Discharge Summaries",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-05T23:26:43.353855+03:00",
+    "score": 45
   }
 ]
