@@ -1,6 +1,127 @@
 {
   "date": "2026-11-06",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-11-06T08:10:00+03:00",
+      "arxiv_id": "2611.06131v1",
+      "title": "ModalSearcher: Weaving Visual Evidence into Autonomous Cross-Modal Deep Search",
+      "theme": "поиск и работа с информацией",
+      "score": 52,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>ModalSearcher: Weaving Visual Evidence into Autonomous Cross-Modal Deep Search</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Zhihan Yin и еще 8 | Artificial Intelligence | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06131v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06131v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-06T09:10:00+03:00",
+      "arxiv_id": "2611.06839v1",
+      "title": "Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants",
+      "theme": "AI safety и надежность",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>Надежность AI: безопасность AI</b>\n<i>Before You Continue: Evaluating Time-Sensitive Safety Awareness in Conversational Assistants</i>\n\nАвторы представили AI-ассистента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Peidi Dong и еще 7 | Natural Language Processing | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06839v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06839v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-06T10:10:00+03:00",
+      "arxiv_id": "2611.06259v1",
+      "title": "A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning of Vision-Language Models",
+      "theme": "multimodal AI",
+      "score": 40,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>A Systematic Benchmark for Evaluating Multimodal Personalized Reasoning of Vision-Language Models</i>\n\nРабота описывает систему, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Dohyun Kim и еще 2 | Artificial Intelligence, Computer Vision | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06259v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06259v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-06T11:10:00+03:00",
+      "arxiv_id": "2611.06381v1",
+      "title": "LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution",
+      "theme": "AI-агенты",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>LegalEvolver: Agentic Legal Judgment Prediction via Rubric-Guided Self-Evolution</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Xinyu Yang и еще 5 | Artificial Intelligence, Natural Language Processing | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06381v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06381v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-06T12:10:00+03:00",
+      "arxiv_id": "2611.06687v1",
+      "title": "LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks",
+      "theme": "AI-агенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>LifeVal: Evaluating AI Model Performance on Personalized Agentic Consumer Tasks</i>\n\nВ центре статьи AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Jenny Yang и еще 9 | Artificial Intelligence | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06687v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06687v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-06T13:10:00+03:00",
+      "arxiv_id": "2611.06046v1",
+      "title": "DeepfakeGenome: Toward Next-Generation Deepfake Attribution",
+      "theme": "AI safety и надежность",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>Надежность AI: поиск информации</b>\n<i>DeepfakeGenome: Toward Next-Generation Deepfake Attribution</i>\n\nРабота описывает benchmark, который помогает AI лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше защищаться от уязвимостей и опасных сценариев.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Shunli Wang и еще 8 | Computer Vision | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06046v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06046v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-06T14:10:00+03:00",
+      "arxiv_id": "2611.06496v1",
+      "title": "LibriSpeech-Real-QA: A Benchmark for Streaming Question Answering",
+      "theme": "AI для аудио",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI для аудио: сравнение подходов</b>\n<i>LibriSpeech-Real-QA: A Benchmark for Streaming Question Answering</i>\n\nРабота описывает систему, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Помогают лучше разбирать речь, работать с аудиоданными и снижать ошибки в голосовых сценариях\n\n<b>Где пригодится:</b> В транскрибации, голосовых сервисах и обработке звука\n\n<b>Рекомендация:</b> обращайте внимание на качество распознавания, задержку и устойчивость на реальных данных\n\n<b>Вывод:</b> Будущее AI для аудио зависит от того, насколько надежно он работает на живой речи и шумных данных.\n\n<b>Детали:</b> Zewen Zhan и еще 8 | Natural Language Processing | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06496v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06496v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-06T15:10:00+03:00",
+      "arxiv_id": "2611.06089v1",
+      "title": "STARE: Scene Text-Aware multimodal Retrieval for Everyday objects",
+      "theme": "multimodal AI",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск и отбор данных</b>\n<i>STARE: Scene Text-Aware multimodal Retrieval for Everyday objects</i>\n\nАвторы представили модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Kento Tokura и еще 6 | Computer Vision | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06089v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06089v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-06T16:10:00+03:00",
+      "arxiv_id": "2611.06627v1",
+      "title": "Interactive World Simulation with Cosmos for Physical AI",
+      "theme": "AI для видео",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: поиск информации</b>\n<i>Interactive World Simulation with Cosmos for Physical AI</i>\n\nВ центре статьи AI-агента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> NVIDIA и еще 89 | Artificial Intelligence, Computer Vision, Machine Learning | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06627v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06627v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-06T17:10:00+03:00",
+      "arxiv_id": "2611.06914v1",
+      "title": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>A Framework for Context Enrichment and Selective Robustness in LLM Social Agents</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Mattia Greiche и еще 2 | cs.MA, Natural Language Processing, Machine Learning | 04.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.06914v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.06914v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
