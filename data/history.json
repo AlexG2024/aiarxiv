@@ -8222,5 +8222,13 @@
     "practicality": "high",
     "published_at": "2026-11-05T23:26:43.353855+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2611.06131v1",
+    "title": "ModalSearcher: Weaving Visual Evidence into Autonomous Cross-Modal Deep Search",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-06T15:40:19.194235+03:00",
+    "score": 52
   }
 ]
