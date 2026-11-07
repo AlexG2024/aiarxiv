@@ -8254,5 +8254,13 @@
     "practicality": "high",
     "published_at": "2026-11-07T19:57:01.180828+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2611.08281v1",
+    "title": "Multimodal-SEA: Benchmarking AI Agent Security under Multimodal Social Engineering Attacks",
+    "theme": "AI safety и надежность",
+    "practicality": "high",
+    "published_at": "2026-11-07T23:40:36.758706+03:00",
+    "score": 36
   }
 ]
