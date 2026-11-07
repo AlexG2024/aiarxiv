@@ -8238,5 +8238,13 @@
     "practicality": "high",
     "published_at": "2026-11-06T22:42:53.583543+03:00",
     "score": 41
+  },
+  {
+    "arxiv_id": "2611.08433v1",
+    "title": "MedGraph: Maintaining Patient State with Graph Memory for Long-Term Medical Dialogue",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-07T14:26:57.477067+03:00",
+    "score": 49
   }
 ]
