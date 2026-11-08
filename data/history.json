@@ -8270,5 +8270,13 @@
     "practicality": "high",
     "published_at": "2026-11-08T14:38:55.169789+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2611.08054v1",
+    "title": "NutriVisRAG: Multimodal Exemplar Grounding for Nutrient Estimation with Vision-Language Models",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-11-08T20:14:06.041682+03:00",
+    "score": 36
   }
 ]
