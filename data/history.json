@@ -8262,5 +8262,13 @@
     "practicality": "high",
     "published_at": "2026-11-07T23:40:36.758706+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2611.08021v1",
+    "title": "GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-08T14:38:55.169789+03:00",
+    "score": 36
   }
 ]
