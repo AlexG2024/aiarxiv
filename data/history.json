@@ -8278,5 +8278,13 @@
     "practicality": "high",
     "published_at": "2026-11-08T20:14:06.041682+03:00",
     "score": 36
+  },
+  {
+    "arxiv_id": "2611.08369v1",
+    "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-09T16:33:12.648730+03:00",
+    "score": 35
   }
 ]
