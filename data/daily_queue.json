@@ -1,6 +1,127 @@
 {
   "date": "2026-11-09",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-11-09T08:10:00+03:00",
+      "arxiv_id": "2611.08369v1",
+      "title": "NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma",
+      "theme": "AI в медицине",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Pengkai Wang и еще 15 | Artificial Intelligence | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08369v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08369v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-09T09:10:00+03:00",
+      "arxiv_id": "2611.08219v1",
+      "title": "Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+      "theme": "AI для работы и productivity",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI для работы: пошаговые рассуждения</b>\n<i>Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis</i>\n\nАвторы представили AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снимают рутину, экономят время и помогают быстрее проходить повторяющиеся рабочие процессы\n\n<b>Где пригодится:</b> В автоматизации рутины, документов и внутренних рабочих процессов\n\n<b>Рекомендация:</b> стоит оценивать, дает ли решение реальную экономию времени в повседневной работе\n\n<b>Вывод:</b> Лучшие productivity-сценарии AI — те, что снимают рутину, а не добавляют новый слой сложности.\n\n<b>Детали:</b> Teng Pan и еще 7 | Natural Language Processing | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08219v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08219v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-09T10:10:00+03:00",
+      "arxiv_id": "2611.07755v1",
+      "title": "Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models",
+      "theme": "AI для видео",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models</i>\n\nВ центре статьи фреймворк, который помогает AI лучше работать со звуком и речью.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше работать со звуком и речью.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Jaival Chauhan и еще 2 | Natural Language Processing | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.07755v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.07755v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-09T11:10:00+03:00",
+      "arxiv_id": "2611.07614v1",
+      "title": "The Popular Get More Popular: Auditing Brand Bias in Generative Search",
+      "theme": "поиск и работа с информацией",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>The Popular Get More Popular: Auditing Brand Bias in Generative Search</i>\n\nВ центре статьи систему, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Giorgio Monaco и еще 2 | cs.CY, Artificial Intelligence, cs.SI | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.07614v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.07614v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-09T12:10:00+03:00",
+      "arxiv_id": "2611.08237v1",
+      "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Xiaojun Wu и еще 5 | Natural Language Processing | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08237v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08237v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-09T13:10:00+03:00",
+      "arxiv_id": "2611.08232v1",
+      "title": "Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations",
+      "theme": "языковые модели",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: пошаговые рассуждения</b>\n<i>Signals, Evidence, and Context: User Scrutiny in Real-World LLM Conversations</i>\n\nВ центре статьи AI-ассистента, который помогает AI быть полезнее как цифровой помощник.\n\n<b>Что сделали:</b> В статье показывают, как AI может быть полезнее как помощник и разбирают, как AI может быть полезнее как цифровой помощник.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Ahana Biswas, Yu-Ru Lin | Artificial Intelligence | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08232v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08232v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-09T14:10:00+03:00",
+      "arxiv_id": "2611.08231v1",
+      "title": "From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>From Twisted Facts to Rogue Agents: Can LLMs Reliably Detect Multi-Dimensional Hallucinations?</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Hanyu Qiu и еще 6 | Natural Language Processing | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08231v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08231v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-09T15:10:00+03:00",
+      "arxiv_id": "2611.08006v1",
+      "title": "Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech",
+      "theme": "multimodal AI",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск информации</b>\n<i>Automatic keyphrase extraction and annotation: modern theoretical approaches and practical solutions for text and speech</i>\n\nАвторы представили фреймворк, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Daria Guseva, Olga Mitrofanova | Natural Language Processing, Human-Computer Interaction | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08006v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08006v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-09T16:10:00+03:00",
+      "arxiv_id": "2611.08452v1",
+      "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
+      "theme": "поиск и работа с информацией",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>ReproBridge: Building Reproducibility into ML Research Artifacts</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Yubo Wang и еще 4 | Artificial Intelligence | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08452v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08452v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-09T17:10:00+03:00",
+      "arxiv_id": "2611.08175v1",
+      "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+      "theme": "AI-агенты",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: работа с несколькими типами данных</b>\n<i>PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?</i>\n\nВ центре статьи AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Yue Zhang и еще 4 | Artificial Intelligence | 05.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.08175v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.08175v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
