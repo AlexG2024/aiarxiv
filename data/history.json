@@ -8286,5 +8286,13 @@
     "practicality": "high",
     "published_at": "2026-11-09T16:33:12.648730+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2611.10608v1",
+    "title": "An LLM-Orchestrated Multi-Modal Chatbot for Tomato Disease Consultant",
+    "theme": "языковые модели",
+    "practicality": "high",
+    "published_at": "2026-11-10T16:11:57.547896+03:00",
+    "score": 46
   }
 ]
