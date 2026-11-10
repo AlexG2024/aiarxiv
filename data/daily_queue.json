@@ -1,6 +1,127 @@
 {
   "date": "2026-11-10",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-11-10T08:10:00+03:00",
+      "arxiv_id": "2611.10608v1",
+      "title": "An LLM-Orchestrated Multi-Modal Chatbot for Tomato Disease Consultant",
+      "theme": "языковые модели",
+      "score": 46,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: оценка симптомов</b>\n<i>An LLM-Orchestrated Multi-Modal Chatbot for Tomato Disease Consultant</i>\n\nВ центре статьи систему, который помогает AI лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше разбирать симптомы и помогать в первичной оценке состояния.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Ngoc-Son Le и еще 2 | Artificial Intelligence, cs.ET | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10608v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10608v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-10T09:10:00+03:00",
+      "arxiv_id": "2611.10349v1",
+      "title": "SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments",
+      "theme": "AI-ассистенты",
+      "score": 45,
+      "practicality": "high",
+      "post_html": "<b>AI-ассистент: рекомендации</b>\n<i>SituRecBench: Evaluating Frontier Models as Situated Recommendation Assistants in 3D Environments</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Авторы собирают прикладную систему под конкретный сценарий и показывают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Уменьшают число ручных действий, делают помощь AI более последовательной и упрощают выполнение повседневных задач\n\n<b>Где пригодится:</b> В корпоративных помощниках, чат-ботах и рабочих AI-сценариях\n\n<b>Рекомендация:</b> стоит следить за тем, как такие помощники подключают инструменты, работают с памятью и справляются с реальными задачами\n\n<b>Вывод:</b> AI-ассистенты становятся полезнее, когда их проверяют не на демо, а на реальных задачах пользователя.\n\n<b>Детали:</b> Jingtong Yang и еще 3 | Artificial Intelligence, Natural Language Processing, Computer Vision | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10349v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10349v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-10T10:10:00+03:00",
+      "arxiv_id": "2611.10390v1",
+      "title": "A Computational Map of the Disaster Mental Health Research Landscape",
+      "theme": "AI в медицине",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: здоровье</b>\n<i>A Computational Map of the Disaster Mental Health Research Landscape</i>\n\nРабота описывает AI-агента, который помогает AI быть полезнее в задачах, связанных со здоровьем.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может быть полезнее в задачах, связанных со здоровьем.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Soheil Shapouri, Saber Soleymani | Artificial Intelligence, cs.CY, cs.DL | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10390v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10390v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-10T11:10:00+03:00",
+      "arxiv_id": "2611.10657v1",
+      "title": "MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs",
+      "theme": "multimodal AI",
+      "score": 39,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>MMGraph-Agent: Agentic Multimodal RAG via Cache-Inspired Multimodal Knowledge HyperGraphs</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Haoran Luo и еще 10 | Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10657v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10657v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-10T12:10:00+03:00",
+      "arxiv_id": "2611.10484v1",
+      "title": "Can General-Purpose Generative AI Supply Training Data for Medical Vision Models? A Multimodal Retrospective Study",
+      "theme": "AI в медицине",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Can General-Purpose Generative AI Supply Training Data for Medical Vision Models? A Multimodal Retrospective Study</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Jiachuan Peng и еще 12 | Computer Vision, Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10484v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10484v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-10T13:10:00+03:00",
+      "arxiv_id": "2611.10592v1",
+      "title": "MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification",
+      "theme": "AI для изображений",
+      "score": 37,
+      "practicality": "high",
+      "post_html": "<b>AI для изображений: работа с изображениями</b>\n<i>MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification</i>\n\nАвторы представили AI-агента, который помогает AI лучше понимать или создавать изображения.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше понимать или создавать изображения.\n\n<b>Какие проблемы решает:</b> Упрощают создание, анализ и редактирование визуального контента в понятных сценариях\n\n<b>Где пригодится:</b> В генерации, анализе и редактировании изображений\n\n<b>Рекомендация:</b> полезно следить за тем, где модель реально помогает пользователю, а не просто делает красивую демо-генерацию\n\n<b>Вывод:</b> Ценность AI для изображений растет там, где он помогает решать конкретную задачу, а не только впечатляет качеством картинки.\n\n<b>Детали:</b> Jiaju Ma и еще 3 | Computer Vision, Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10592v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10592v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-10T14:10:00+03:00",
+      "arxiv_id": "2611.10629v1",
+      "title": "DFT-Agent Bench: Scaffold Effects and Execution Provenance in Autonomous DFT",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск и отбор данных</b>\n<i>DFT-Agent Bench: Scaffold Effects and Execution Provenance in Autonomous DFT</i>\n\nВ центре статьи AI-агента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Shijie Liu и еще 5 | Artificial Intelligence, cond-mat.mtrl-sci | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10629v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10629v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-10T15:10:00+03:00",
+      "arxiv_id": "2611.10412v1",
+      "title": "TurnFlow: Benchmarking User-State Reasoning in Multi-Turn LLM Agents via Scene-Guided User Simulation",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>TurnFlow: Benchmarking User-State Reasoning in Multi-Turn LLM Agents via Scene-Guided User Simulation</i>\n\nАвторы представили AI-агента, который помогает AI самостоятельнее выполнять цепочки действий.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может самостоятельнее выполнять цепочки действий.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Zhixun Chen и еще 5 | Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10412v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10412v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-10T16:10:00+03:00",
+      "arxiv_id": "2611.10411v1",
+      "title": "Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows",
+      "theme": "AI safety и надежность",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>Надежность AI: безопасность AI</b>\n<i>Tail-risk-aware Agent Safety: Constraining Tail Risks Across Multi-step LLM Agent Workflows</i>\n\nРабота описывает AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Помогают раньше находить уязвимости, снижать риски и делать поведение AI более предсказуемым\n\n<b>Где пригодится:</b> В проверке AI-продуктов перед запуском и в настройке безопасного поведения моделей\n\n<b>Рекомендация:</b> полезно смотреть, как команды проверяют модели на уязвимости еще до выхода в продукт\n\n<b>Вывод:</b> Надежность и безопасность AI все сильнее становятся частью самого продукта, а не отдельной проверки в конце.\n\n<b>Детали:</b> Shilong Pan и еще 5 | Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10411v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10411v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-10T17:10:00+03:00",
+      "arxiv_id": "2611.10768v1",
+      "title": "BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs",
+      "theme": "языковые модели",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: работа с несколькими типами данных</b>\n<i>BlenderFORGE: Framework for Optimizing Reactive 3D-Graphics Editing Ability of MLLMs</i>\n\nРабота описывает AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Zilin Guo и еще 8 | Artificial Intelligence | 07.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.10768v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.10768v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
