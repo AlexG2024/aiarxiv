@@ -8310,5 +8310,13 @@
     "practicality": "high",
     "published_at": "2026-11-11T15:22:16.474648+03:00",
     "score": 54
+  },
+  {
+    "arxiv_id": "2611.12222v1",
+    "title": "PARIS: A multi-agent LLM framework for end-to-end, PRISMA-guided systematic literature reviews with pre-synthesis corpus quality assessment",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-11T22:46:07.407964+03:00",
+    "score": 51
   }
 ]
