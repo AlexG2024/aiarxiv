@@ -8326,5 +8326,13 @@
     "practicality": "high",
     "published_at": "2026-11-12T16:29:27.691436+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2611.14122v1",
+    "title": "Hx2Dx: From Anamnesis to Diagnosis - A Multimodal Arena for Conversational Clinical Reasoning in LLMs",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-13T15:48:02.637116+03:00",
+    "score": 45
   }
 ]
