@@ -8334,5 +8334,13 @@
     "practicality": "high",
     "published_at": "2026-11-13T15:48:02.637116+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2611.14118v1",
+    "title": "TAMEing the Open-World Personalization: Towards Open-Set Personalized MLLM Assistant",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-11-13T23:05:40.139415+03:00",
+    "score": 44
   }
 ]
