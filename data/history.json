@@ -8350,5 +8350,13 @@
     "practicality": "high",
     "published_at": "2026-11-14T14:54:02.651890+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2611.16425v1",
+    "title": "RMIT-ADM+S at TREC RAG 2026: Research Agents, Retriever Ablations, and Open-Weight Replication",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-14T20:35:17.538875+03:00",
+    "score": 38
   }
 ]
