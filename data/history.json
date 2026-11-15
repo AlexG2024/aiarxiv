@@ -8366,5 +8366,13 @@
     "practicality": "high",
     "published_at": "2026-11-15T15:26:49.642634+03:00",
     "score": 35
+  },
+  {
+    "arxiv_id": "2611.17015v1",
+    "title": "AI for Biologists: The Knowledge Boundaries of Foundation Models in the Age of Agentic Systems",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-15T22:00:56.275928+03:00",
+    "score": 35
   }
 ]
