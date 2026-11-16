@@ -1,6 +1,127 @@
 {
   "date": "2026-11-16",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-11-16T08:10:00+03:00",
+      "arxiv_id": "2611.16524v1",
+      "title": "A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions",
+      "theme": "поиск и работа с информацией",
+      "score": 34,
+      "practicality": "high",
+      "post_html": "<b>AI для поиска: поиск информации</b>\n<i>A Joint LLM and Optimization Agent Solution for Drone Scheduling in Victim Search Missions</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Yinghao Zhang и еще 6 | eess.SY, Artificial Intelligence, cs.ET | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16524v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16524v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-16T09:10:00+03:00",
+      "arxiv_id": "2611.16726v1",
+      "title": "From Data to Wisdom: Rethinking AI Through an Epistemic Lens",
+      "theme": "AI в медицине",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>From Data to Wisdom: Rethinking AI Through an Epistemic Lens</i>\n\nРабота описывает AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Afonso Eduardo | Machine Learning, Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16726v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16726v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-16T10:10:00+03:00",
+      "arxiv_id": "2611.16661v1",
+      "title": "Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination",
+      "theme": "AI-агенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Wei Feng и еще 8 | cs.DC, Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16661v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16661v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-16T11:10:00+03:00",
+      "arxiv_id": "2611.16460v1",
+      "title": "Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics",
+      "theme": "AI в медицине",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>Fine-Tuned Small Language Model for Synthetic Clinical Data Generation and Predictive Healthcare Analytics</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Mihnea Sebastian Burlacu и еще 2 | Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16460v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16460v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-16T12:10:00+03:00",
+      "arxiv_id": "2611.16861v1",
+      "title": "Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning",
+      "theme": "AI-агенты",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: пошаговые рассуждения</b>\n<i>Visual Cipher Bench: Benchmarking LLM Agents on Long-Horizon Visual Reasoning</i>\n\nРабота описывает AI-агента, который помогает AI лучше понимать или создавать изображения.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше понимать или создавать изображения.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Deyao Hong и еще 14 | Computer Vision | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16861v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16861v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-16T13:10:00+03:00",
+      "arxiv_id": "2611.16393v1",
+      "title": "TransXplainRRG: A Radiologist-Evaluated LVLM for Chest Radiograph Report Generation",
+      "theme": "AI в медицине",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: клинические сценарии</b>\n<i>TransXplainRRG: A Radiologist-Evaluated LVLM for Chest Radiograph Report Generation</i>\n\nРабота описывает фреймворк, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Chayan Mondal и еще 6 | Computer Vision, Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16393v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16393v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-16T14:10:00+03:00",
+      "arxiv_id": "2611.16767v1",
+      "title": "Evaluating Video LLMs' Understanding of Corner Cases in Autonomous Driving",
+      "theme": "AI для видео",
+      "score": 30,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>Evaluating Video LLMs&#x27; Understanding of Corner Cases in Autonomous Driving</i>\n\nВ центре статьи AI-агента, который помогает AI работать надежнее и безопаснее в реальных сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может работать надежнее и безопаснее в реальных сценариях.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Gabriel Manalu и еще 8 | Computer Vision, Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16767v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16767v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-16T15:10:00+03:00",
+      "arxiv_id": "2611.16414v1",
+      "title": "Small Language Models for Inference-Capability Routing: Effects of Model Capacity and Prompt Optimization on Downstream Quality and Efficiency",
+      "theme": "языковые модели",
+      "score": 29,
+      "practicality": "high",
+      "post_html": "<b>Языковые модели: поиск информации</b>\n<i>Small Language Models for Inference-Capability Routing: Effects of Model Capacity and Prompt Optimization on Downstream Quality and Efficiency</i>\n\nРабота описывает фреймворк, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают трение в работе с текстом, помогают быстрее получать ответы и делают AI полезнее в повседневных задачах\n\n<b>Где пригодится:</b> В чат-ботах, поиске, письме, анализе текста и AI-помощниках\n\n<b>Рекомендация:</b> полезно смотреть, становится ли модель реально полезнее в задачах пользователя, а не только сильнее в benchmark\n\n<b>Вывод:</b> Для обычного пользователя важнее не размер модели, а то, насколько она помогает в конкретной задаче.\n\n<b>Детали:</b> Sailendra Kolluru, Maheshkumar Duvvarapu | Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.16414v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.16414v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-16T16:10:00+03:00",
+      "arxiv_id": "2611.17323v1",
+      "title": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?",
+      "theme": "AI-агенты",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>AgentSSL: Can MLE Agents Leverage Unlabeled Data?</i>\n\nРабота описывает AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи собирают прикладную систему под конкретный сценарий и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Ethan Lin и еще 4 | Artificial Intelligence, Machine Learning | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.17323v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.17323v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-16T17:10:00+03:00",
+      "arxiv_id": "2611.17048v1",
+      "title": "AURA 2.0: From User-Driven Responses to Model-Initiated Conversations in Streaming Video",
+      "theme": "AI для видео",
+      "score": 28,
+      "practicality": "high",
+      "post_html": "<b>AI для видео: работа с видео</b>\n<i>AURA 2.0: From User-Driven Responses to Model-Initiated Conversations in Streaming Video</i>\n\nАвторы представили AI-ассистента, который помогает AI лучше понимать и обрабатывать видео.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может лучше понимать и обрабатывать видео.\n\n<b>Какие проблемы решает:</b> Снижают объем ручной работы с видео и делают визуальные AI-инструменты полезнее в реальной задаче\n\n<b>Где пригодится:</b> В видеоредакторах, анализе видео и автоматизации визуального контента\n\n<b>Рекомендация:</b> стоит смотреть на практическую пользу: скорость, качество и управляемость результата\n\n<b>Вывод:</b> AI для видео становится интереснее тогда, когда улучшает не только генерацию, но и реальный рабочий процесс.\n\n<b>Детали:</b> Shuhan Li и еще 17 | Computer Vision, Artificial Intelligence | 12.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.17048v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.17048v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
