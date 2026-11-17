@@ -8382,5 +8382,13 @@
     "practicality": "high",
     "published_at": "2026-11-16T16:18:15.974231+03:00",
     "score": 34
+  },
+  {
+    "arxiv_id": "2611.19202v1",
+    "title": "Omni-Workspace: Benchmarking Omni-Modal AI Assistants on Multimodal Workspace Tasks",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-11-17T17:03:05.405899+03:00",
+    "score": 41
   }
 ]
