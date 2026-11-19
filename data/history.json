@@ -8398,5 +8398,13 @@
     "practicality": "high",
     "published_at": "2026-11-18T16:37:46.568853+03:00",
     "score": 44
+  },
+  {
+    "arxiv_id": "2611.23702v1",
+    "title": "KnowMe Paper Radar: Lightweight Discovery of Promising Papers in the Age of Autoresearch",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-19T17:03:51.890283+03:00",
+    "score": 52
   }
 ]
