@@ -12,8 +12,8 @@
       "score": 47,
       "practicality": "high",
       "post_html": "<b>AI для поиска: поиск информации</b>\n<i>FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification</i>\n\nВ центре статьи AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают шум в поиске, помогают быстрее находить нужный контекст и улучшают качество итогового ответа\n\n<b>Где пригодится:</b> В поиске по документам, внутренних базах знаний и исследовательских задачах\n\n<b>Рекомендация:</b> стоит обратить внимание на то, как система ищет контекст, ранжирует результаты и проверяет качество ответа\n\n<b>Вывод:</b> Качество AI все чаще упирается не только в модель, но и в то, как она ищет и использует информацию.\n\n<b>Детали:</b> Meenakshi Rajpurohit и еще 4 | Natural Language Processing, Artificial Intelligence, Information Retrieval | 18.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.25071v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.25071v1\">PDF</a>",
-      "published": false,
-      "published_at": null
+      "published": true,
+      "published_at": "2026-11-20T16:46:44.434045+03:00"
     },
     {
       "slot": 2,

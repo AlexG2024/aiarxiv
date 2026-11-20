@@ -8406,5 +8406,13 @@
     "practicality": "high",
     "published_at": "2026-11-19T17:03:51.890283+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2611.25071v1",
+    "title": "FinVeriQA: Financial Research Agents for Question Answering: Routing, Retrieval, MCP Tool Use, and Provenance-Aware Evidence Verification",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-20T16:46:44.434045+03:00",
+    "score": 47
   }
 ]
