@@ -8414,5 +8414,13 @@
     "practicality": "high",
     "published_at": "2026-11-20T16:46:44.434045+03:00",
     "score": 47
+  },
+  {
+    "arxiv_id": "2611.26024v1",
+    "title": "ForeSeek: Foresight-Driven Reasoning for Long-Form Video Understanding",
+    "theme": "AI для видео",
+    "practicality": "high",
+    "published_at": "2026-11-21T16:12:11.760035+03:00",
+    "score": 51
   }
 ]
