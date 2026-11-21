@@ -8422,5 +8422,13 @@
     "practicality": "high",
     "published_at": "2026-11-21T16:12:11.760035+03:00",
     "score": 51
+  },
+  {
+    "arxiv_id": "2611.26171v1",
+    "title": "The FrontierOR Challenge: Agentic Algorithm Design for Operations Research",
+    "theme": "поиск и работа с информацией",
+    "practicality": "high",
+    "published_at": "2026-11-21T23:07:32.272382+03:00",
+    "score": 42
   }
 ]
