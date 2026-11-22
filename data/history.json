@@ -8438,5 +8438,13 @@
     "practicality": "high",
     "published_at": "2026-11-22T16:00:36.662144+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2611.26009v1",
+    "title": "Evaluating safeguarding in multi-turn conversations with AI assistants",
+    "theme": "AI-ассистенты",
+    "practicality": "high",
+    "published_at": "2026-11-22T23:17:37.888260+03:00",
+    "score": 40
   }
 ]
