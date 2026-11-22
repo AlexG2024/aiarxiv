@@ -8430,5 +8430,13 @@
     "practicality": "high",
     "published_at": "2026-11-21T23:07:32.272382+03:00",
     "score": 42
+  },
+  {
+    "arxiv_id": "2611.26218v1",
+    "title": "MixReact: Physics-Based Reactive Humanoid Control from Multimodal Cues via a Discrete-Continuous Mixture of Transformers",
+    "theme": "multimodal AI",
+    "practicality": "high",
+    "published_at": "2026-11-22T16:00:36.662144+03:00",
+    "score": 40
   }
 ]
