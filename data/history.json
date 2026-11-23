@@ -8446,5 +8446,13 @@
     "practicality": "high",
     "published_at": "2026-11-22T23:17:37.888260+03:00",
     "score": 40
+  },
+  {
+    "arxiv_id": "2611.27556v1",
+    "title": "Bringing AI Assistance to the Beznau Nuclear Power Plant: A Hierarchical System of LLM Agents for Reactor Monitoring",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-23T18:37:27.991867+03:00",
+    "score": 43
   }
 ]
