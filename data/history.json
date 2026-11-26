@@ -8470,5 +8470,13 @@
     "practicality": "high",
     "published_at": "2026-11-25T18:14:40.057437+03:00",
     "score": 52
+  },
+  {
+    "arxiv_id": "2611.33735v1",
+    "title": "JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses",
+    "theme": "AI для изображений",
+    "practicality": "high",
+    "published_at": "2026-11-26T17:39:50.975143+03:00",
+    "score": 61
   }
 ]
