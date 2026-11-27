@@ -8478,5 +8478,13 @@
     "practicality": "high",
     "published_at": "2026-11-26T17:39:50.975143+03:00",
     "score": 61
+  },
+  {
+    "arxiv_id": "2611.34400v1",
+    "title": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+    "theme": "AI-агенты",
+    "practicality": "high",
+    "published_at": "2026-11-27T17:37:34.234251+03:00",
+    "score": 45
   }
 ]
