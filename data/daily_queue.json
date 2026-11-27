@@ -1,6 +1,127 @@
 {
   "date": "2026-11-27",
   "timezone": "Europe/Moscow",
-  "status": "empty",
-  "items": []
+  "status": "ready",
+  "items": [
+    {
+      "slot": 1,
+      "scheduled_time_iso": "2026-11-27T08:10:00+03:00",
+      "arxiv_id": "2611.34400v1",
+      "title": "EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams",
+      "theme": "AI-агенты",
+      "score": 45,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: сравнение подходов</b>\n<i>EvoLink-Bench: A Benchmark for Evaluating Self-Evolving Agents in Long-Horizon Interdependent Task Streams</i>\n\nАвторы представили AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Wei Chen и еще 11 | Artificial Intelligence | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34400v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34400v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 2,
+      "scheduled_time_iso": "2026-11-27T09:10:00+03:00",
+      "arxiv_id": "2611.34250v1",
+      "title": "MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents",
+      "theme": "AI в медицине",
+      "score": 41,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents</i>\n\nАвторы представили AI-агента, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы предлагают структуру решения для практического использования и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Jingjing Hua и еще 13 | Artificial Intelligence, Natural Language Processing | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34250v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34250v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 3,
+      "scheduled_time_iso": "2026-11-27T10:10:00+03:00",
+      "arxiv_id": "2611.34576v1",
+      "title": "Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants",
+      "theme": "AI-ассистенты",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI-ассистент: поиск информации</b>\n<i>Procedure Inference as Memory: Learning Recruiter Decision Procedures from OKF-Structured Episodes in Multi-Session Hiring Assistants</i>\n\nРабота описывает AI-ассистента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> Исследователи сравнивают подходы и проверяют, что работает лучше и объясняют, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Уменьшают число ручных действий, делают помощь AI более последовательной и упрощают выполнение повседневных задач\n\n<b>Где пригодится:</b> В корпоративных помощниках, чат-ботах и рабочих AI-сценариях\n\n<b>Рекомендация:</b> стоит следить за тем, как такие помощники подключают инструменты, работают с памятью и справляются с реальными задачами\n\n<b>Вывод:</b> AI-ассистенты становятся полезнее, когда их проверяют не на демо, а на реальных задачах пользователя.\n\n<b>Детали:</b> Praveen Kumar Bodigutla и еще 3 | Artificial Intelligence, Human-Computer Interaction, Information Retrieval | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34576v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34576v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 4,
+      "scheduled_time_iso": "2026-11-27T11:10:00+03:00",
+      "arxiv_id": "2611.34575v1",
+      "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "theme": "AI в медицине",
+      "score": 38,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Sage-Med: Scaling Medical Multimodal Intelligence</i>\n\nВ центре статьи систему, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> В статье собирают прикладную систему под конкретный сценарий и разбирают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Sage-Med Team и еще 108 | Computer Vision, Artificial Intelligence | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34575v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34575v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 5,
+      "scheduled_time_iso": "2026-11-27T12:10:00+03:00",
+      "arxiv_id": "2611.34635v1",
+      "title": "ZeroHero: Training Small Language Agents from Scratch",
+      "theme": "AI-агенты",
+      "score": 35,
+      "practicality": "high",
+      "post_html": "<b>AI-агент: поиск информации</b>\n<i>ZeroHero: Training Small Language Agents from Scratch</i>\n\nВ центре статьи AI-агента, который помогает AI лучше искать и отбирать нужную информацию.\n\n<b>Что сделали:</b> В статье предлагают структуру решения для практического использования и разбирают, как AI может лучше искать и отбирать нужную информацию.\n\n<b>Какие проблемы решает:</b> Снижают долю ручной координации, помогают автоматизировать цепочки действий и делают AI полезнее в сложных workflow\n\n<b>Где пригодится:</b> В автоматизации задач, многошаговых workflow и AI-операторах\n\n<b>Рекомендация:</b> имеет смысл смотреть не только на идею агента, но и на качество orchestration, tool use и контроля ошибок\n\n<b>Вывод:</b> Главный вопрос для агентных систем уже не только в автономности, но и в надежном выполнении цепочки действий.\n\n<b>Детали:</b> Nikita Sorokin и еще 3 | Artificial Intelligence | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34635v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34635v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 6,
+      "scheduled_time_iso": "2026-11-27T13:10:00+03:00",
+      "arxiv_id": "2611.34344v1",
+      "title": "SPARC: Semantic Calibration with Latent Multimodal Knowledge for Robust Image-Text Retrieval",
+      "theme": "multimodal AI",
+      "score": 33,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: поиск и отбор данных</b>\n<i>SPARC: Semantic Calibration with Latent Multimodal Knowledge for Robust Image-Text Retrieval</i>\n\nВ статье описан подход, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье предлагают прикладной подход и показывают, где он может быть полезен и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Zhongkuan Mao и еще 9 | Computer Vision | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34344v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34344v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 7,
+      "scheduled_time_iso": "2026-11-27T14:10:00+03:00",
+      "arxiv_id": "2611.34624v1",
+      "title": "HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants",
+      "theme": "AI-ассистенты",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI-ассистент: поиск и отбор данных</b>\n<i>HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants</i>\n\nРабота описывает AI-ассистента, который помогает AI лучше находить нужные данные и контекст.\n\n<b>Что сделали:</b> Исследователи предлагают структуру решения для практического использования и объясняют, как AI может лучше находить нужные данные и контекст.\n\n<b>Какие проблемы решает:</b> Уменьшают число ручных действий, делают помощь AI более последовательной и упрощают выполнение повседневных задач\n\n<b>Где пригодится:</b> В корпоративных помощниках, чат-ботах и рабочих AI-сценариях\n\n<b>Рекомендация:</b> стоит следить за тем, как такие помощники подключают инструменты, работают с памятью и справляются с реальными задачами\n\n<b>Вывод:</b> AI-ассистенты становятся полезнее, когда их проверяют не на демо, а на реальных задачах пользователя.\n\n<b>Детали:</b> Yifei Xu и еще 8 | Artificial Intelligence, Machine Learning | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34624v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34624v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 8,
+      "scheduled_time_iso": "2026-11-27T15:10:00+03:00",
+      "arxiv_id": "2611.34152v1",
+      "title": "Lost in the Grid: Where Multimodal LLMs Fail Between Seeing and Planning",
+      "theme": "multimodal AI",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>Lost in the Grid: Where Multimodal LLMs Fail Between Seeing and Planning</i>\n\nВ центре статьи модель, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> В статье сравнивают подходы и проверяют, что работает лучше и разбирают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Luoxi Zhang и еще 5 | Computer Vision, Artificial Intelligence | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34152v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34152v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 9,
+      "scheduled_time_iso": "2026-11-27T16:10:00+03:00",
+      "arxiv_id": "2611.34427v1",
+      "title": "Mitigating Hallucinations in Medical Question Answering on ESC Cardiology Guidelines: Evaluation and Retrieval Optimization",
+      "theme": "AI в медицине",
+      "score": 32,
+      "practicality": "high",
+      "post_html": "<b>AI в медицине: медицинские сценарии</b>\n<i>Mitigating Hallucinations in Medical Question Answering on ESC Cardiology Guidelines: Evaluation and Retrieval Optimization</i>\n\nАвторы представили модель, который помогает AI аккуратнее работать в медицинских сценариях.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может аккуратнее работать в медицинских сценариях.\n\n<b>Какие проблемы решает:</b> Помогают быстрее ориентироваться в симптомах, снижать неопределенность на первом этапе и делать health-сервисы понятнее для пользователя\n\n<b>Где пригодится:</b> В health-приложениях, цифровом триаже и медицинских помощниках\n\n<b>Рекомендация:</b> важно воспринимать такие работы как исследование направления, а не как готовую замену врачу или медицинскому совету\n\n<b>Вывод:</b> AI в медицине движется в сторону более понятных и прикладных сценариев, но требует особенно осторожной оценки.\n\n<b>Детали:</b> Ilkin Masimov и еще 2 | Natural Language Processing | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34427v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34427v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    },
+    {
+      "slot": 10,
+      "scheduled_time_iso": "2026-11-27T17:10:00+03:00",
+      "arxiv_id": "2611.34292v1",
+      "title": "WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation",
+      "theme": "multimodal AI",
+      "score": 31,
+      "practicality": "high",
+      "post_html": "<b>Multimodal AI: работа с несколькими типами данных</b>\n<i>WebVibe: Multimodal Interactive Website Generation via Reverse Synthesis and Visual Self-Distillation</i>\n\nАвторы представили AI-агента, который помогает AI одновременно работать с несколькими типами данных.\n\n<b>Что сделали:</b> Авторы сравнивают подходы и проверяют, что работает лучше и показывают, как AI может одновременно работать с несколькими типами данных.\n\n<b>Какие проблемы решает:</b> Помогают объединять разные типы данных в одном сценарии и делают AI ближе к реальному способу восприятия информации человеком\n\n<b>Где пригодится:</b> В сервисах, где AI одновременно работает с текстом, изображениями и аудио\n\n<b>Рекомендация:</b> стоит следить, насколько хорошо модель связывает несколько типов данных, а не просто обрабатывает их по отдельности\n\n<b>Вывод:</b> Следующий шаг для multimodal AI — не просто видеть и слышать, а связывать это в полезное действие.\n\n<b>Детали:</b> Tianxiang Jiang и еще 10 | Computer Vision, Artificial Intelligence | 25.11.2026\n\n<a href=\"https://arxiv.org/abs/2611.34292v1\">arXiv</a> | <a href=\"https://arxiv.org/pdf/2611.34292v1\">PDF</a>",
+      "published": false,
+      "published_at": null
+    }
+  ]
 }
