@@ -8486,5 +8486,13 @@
     "practicality": "high",
     "published_at": "2026-11-27T17:37:34.234251+03:00",
     "score": 45
+  },
+  {
+    "arxiv_id": "2611.34250v1",
+    "title": "MedSkill-E$^{2}$: Evaluating and Evolving Skills for Medical Agents",
+    "theme": "AI в медицине",
+    "practicality": "high",
+    "published_at": "2026-11-28T16:49:46.494089+03:00",
+    "score": 41
   }
 ]
